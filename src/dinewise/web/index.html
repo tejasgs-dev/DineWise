@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<!--
+  DineWise web frontend ("Bangalore Nocturne" design, from the Google Stitch export in
+  stitch_dinewise_restaurant_recommender/). Served by the API at "/" (same origin),
+  or by Vercel, where config.js points it at the API. All behaviour lives in app.js.
+-->
+<html class="dark" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DineWise · Eat well in Bengaluru</title>
+  <meta name="description" content="Tell us your craving, budget and neighbourhood. Namma AI picks the 5 best restaurants in Bengaluru and tells you why." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=block" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com/3.4.16"></script>
+  <script>
+    // Design tokens from stitch_dinewise_restaurant_recommender/dinewise_bangalore_nocturne/DESIGN.md
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            background: "#131316",
+            surface: "#131316",
+            "surface-container-lowest": "#0e0e11",
+            "surface-container-low": "#1b1b1e",
+            "surface-container": "#1f1f22",
+            "surface-container-high": "#2a2a2d",
+            "surface-container-highest": "#353438",
+            "surface-variant": "#353438",
+            "on-surface": "#e4e1e6",
+            "on-surface-variant": "#e0c0b1",
+            muted: "#a0a0ab",
+            outline: "#a78b7d",
+            "outline-variant": "#584236",
+            primary: "#ffb68e",
+            "primary-container": "#ff7a1a",
+            "on-primary-container": "#5e2700",
+            secondary: "#cdbdff",
+            "secondary-container": "#4f28ae",
+            violet: "#9b7bff",
+            tertiary: "#fcbb49",
+            success: "#3dd68c",
+            error: "#ffb4ab",
+            "error-container": "#93000a",
+            danger: "#ff5c5c",
+          },
+          fontFamily: {
+            display: ["Plus Jakarta Sans", "Inter", "sans-serif"],
+            sans: ["Inter", "system-ui", "sans-serif"],
+          },
+          fontSize: {
+            "display-hero": ["44px", { lineHeight: "52px", letterSpacing: "-0.02em", fontWeight: "700" }],
+            "display-hero-mobile": ["32px", { lineHeight: "40px", letterSpacing: "-0.015em", fontWeight: "700" }],
+            "headline-md": ["22px", { lineHeight: "28px", letterSpacing: "-0.005em", fontWeight: "600" }],
+            "headline-sm": ["18px", { lineHeight: "24px", fontWeight: "600" }],
+          },
+        },
+      },
+    };
+  </script>
+  <style>
+    html, body { margin: 0; padding: 0; }
+    body { overscroll-behavior: none; }
+    .tnum { font-feature-settings: "tnum" 1, "cv05" 1; }
+    .material-symbols-outlined { font-size: inherit; line-height: 1; vertical-align: middle; user-select: none; }
+    .fill { font-variation-settings: "FILL" 1; }
+    [hidden] { display: none !important; }
+
+    /* Range slider in the saffron/amber accent */
+    input[type="range"] { -webkit-appearance: none; appearance: none; height: 6px; border-radius: 9999px; background: #353438; }
+    input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 18px; height: 18px; border-radius: 9999px; background: #fcbb49; border: 3px solid #131316; box-shadow: 0 0 0 1px #fcbb49; cursor: pointer; }
+    input[type="range"]::-moz-range-thumb { width: 14px; height: 14px; border-radius: 9999px; background: #fcbb49; border: 3px solid #131316; cursor: pointer; }
+    input[type="range"]:focus-visible { outline: 2px solid rgba(255, 122, 26, 0.6); outline-offset: 4px; }
+
+    .listbox { max-height: 16rem; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #353438 transparent; }
+    .shimmer { background: linear-gradient(90deg, #1f1f22 0%, #2a2a2d 50%, #1f1f22 100%); background-size: 200% 100%; animation: shimmer 1.4s ease-in-out infinite; }
+    @keyframes shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+    .indeterminate { position: relative; overflow: hidden; }
+    .indeterminate::after { content: ""; position: absolute; inset: 0; width: 40%; border-radius: inherit; background: linear-gradient(90deg, #9b7bff, #ff7a1a); animation: slide 1.6s ease-in-out infinite; }
+    @keyframes slide { from { transform: translateX(-100%); } to { transform: translateX(250%); } }
+    .fade-in { animation: fade 0.25s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) {
+      .shimmer, .indeterminate::after, .fade-in, .animate-ping, .animate-spin { animation: none !important; }
+    }
+  </style>
+</head>
+<body class="bg-background font-sans text-on-surface antialiased min-h-screen flex flex-col selection:bg-primary-container selection:text-on-primary-container">
+
+  <header class="sticky top-0 z-40 bg-surface/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.4)]">
+    <div class="h-16 max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between gap-4">
+      <a href="/" class="flex items-center gap-3 min-w-0">
+        <span class="w-9 h-9 shrink-0 rounded-full ring-1 ring-primary-container/40 bg-primary-container/10 flex items-center justify-center text-primary-container text-[20px]">
+          <span class="material-symbols-outlined">restaurant</span>
+        </span>
+        <span class="flex flex-col min-w-0">
+          <span class="flex items-center gap-1.5">
+            <span class="font-display text-headline-sm tracking-tight text-on-surface">DineWise</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-surface-container-high text-primary text-[11px] font-semibold tracking-wide">BLR</span>
+          </span>
+          <span class="hidden sm:block text-xs text-on-surface-variant/80 truncate">Your next great meal in Bengaluru, picked by Namma AI</span>
+        </span>
+      </a>
+      <div id="ai-status" hidden class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-surface-container-low text-xs font-semibold shrink-0"></div>
+    </div>
+  </header>
+
+  <main class="flex-1 w-full relative">
+    <!-- Ambient glows -->
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 overflow-hidden -z-0">
+      <div class="absolute top-12 left-1/3 w-96 h-96 bg-secondary-container/10 rounded-full blur-3xl"></div>
+      <div class="absolute top-72 right-10 w-80 h-80 bg-primary-container/10 rounded-full blur-3xl"></div>
+    </div>
+
+    <!-- Shown instead of the app when the metadata can't be loaded (edge case UI-01) -->
+    <section id="unavailable" hidden class="relative max-w-xl mx-auto px-4 py-24"></section>
+
+    <div id="app" class="relative max-w-7xl mx-auto px-4 sm:px-6 pt-4 pb-12">
+      <div class="flex flex-col lg:flex-row gap-6 items-start">
+
+        <!-- ============ Preferences panel ============ -->
+        <aside class="w-full lg:w-[370px] shrink-0 lg:sticky lg:top-20 z-20">
+          <div class="bg-surface-container-low rounded-2xl p-5 sm:px-6 sm:py-5 shadow-xl shadow-black/40">
+            <div class="flex items-center justify-between pb-3">
+              <h2 class="flex items-center gap-2 font-display text-headline-sm text-on-surface">
+                <span class="material-symbols-outlined fill text-primary text-[20px]">tune</span>
+                Your preferences
+              </h2>
+              <button id="reset" type="button" class="flex items-center gap-1 text-xs font-semibold text-on-surface-variant hover:text-primary transition-colors rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-container/60">
+                <span class="material-symbols-outlined text-[16px]">restart_alt</span> Reset all
+              </button>
+            </div>
+
+            <form id="prefs" class="flex flex-col gap-4" novalidate>
+              <!-- Location -->
+              <div class="flex flex-col gap-1.5 relative">
+                <div class="flex items-center justify-between">
+                  <label for="loc" class="text-xs font-semibold text-on-surface flex items-center gap-1">Location <span class="text-primary">*</span></label>
+                  <span class="text-[11px] text-on-surface-variant/70">Required</span>
+                </div>
+                <div class="relative flex items-center">
+                  <span class="material-symbols-outlined absolute left-3 text-[18px] text-primary pointer-events-none">location_on</span>
+                  <input id="loc" type="text" autocomplete="off" spellcheck="false" maxlength="100"
+                    role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="loc-list"
+                    placeholder="Choose or type a neighbourhood"
+                    class="w-full h-11 pl-9 pr-9 bg-surface-container rounded-lg text-sm text-on-surface placeholder:text-on-surface-variant/50 border border-transparent focus:outline-none focus:border-primary-container focus:shadow-[0_0_0_3px_rgba(255,122,26,0.15)] transition-all" />
+                  <button id="loc-toggle" type="button" tabindex="-1" aria-label="Show neighbourhoods" class="absolute right-2 p-1 text-on-surface-variant hover:text-on-surface">
+                    <span class="material-symbols-outlined text-[18px]">expand_more</span>
+                  </button>
+                </div>
+                <div id="loc-list" role="listbox" aria-label="Neighbourhoods" hidden
+                  class="listbox absolute top-[4.25rem] left-0 right-0 bg-surface-container-high rounded-lg p-1.5 shadow-[0_12px_32px_-4px_rgba(0,0,0,0.7)] z-30"></div>
+                <p class="text-[11px] text-on-surface-variant/70 flex items-center gap-1">
+                  <span class="material-symbols-outlined text-[13px] text-secondary">spellcheck</span>
+                  Typos are corrected automatically.
+                </p>
+              </div>
+
+              <!-- Cuisines -->
+              <div class="flex flex-col gap-1.5 relative">
+                <div class="flex items-center justify-between">
+                  <label for="cuisine-input" class="text-xs font-semibold text-on-surface">Cuisines <span class="font-normal text-on-surface-variant/70">(optional)</span></label>
+                  <span id="cuisine-count" class="tnum text-[11px] text-on-surface-variant/70">0 / 5 selected</span>
+                </div>
+                <div id="cuisine-box" class="flex flex-wrap gap-1.5 p-2 bg-surface-container rounded-lg min-h-[44px] items-center border border-transparent focus-within:border-primary-container focus-within:shadow-[0_0_0_3px_rgba(255,122,26,0.15)] transition-all cursor-text">
+                  <div id="cuisine-chips" class="contents"></div>
+                  <input id="cuisine-input" type="text" autocomplete="off" spellcheck="false" maxlength="60"
+                    role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="cuisine-list"
+                    placeholder="Any cuisine (optional, up to 5)"
+                    class="flex-1 min-w-[120px] bg-transparent text-sm text-on-surface placeholder:text-on-surface-variant/50 focus:outline-none px-1" />
+                </div>
+                <div id="cuisine-list" role="listbox" aria-label="Cuisines" hidden
+                  class="listbox absolute top-full mt-1 left-0 right-0 bg-surface-container-high rounded-lg p-1.5 shadow-[0_12px_32px_-4px_rgba(0,0,0,0.7)] z-30"></div>
+              </div>
+
+              <!-- Budget -->
+              <div class="flex flex-col gap-1.5">
+                <div class="flex items-center justify-between">
+                  <span id="budget-label" class="text-xs font-semibold text-on-surface">Budget (cost for two)</span>
+                  <span id="budget-caption" class="tnum text-xs text-primary">No limit</span>
+                </div>
+                <div id="budget" role="radiogroup" aria-labelledby="budget-label" class="grid grid-cols-4 gap-1 p-1 bg-surface-container rounded-lg">
+                  <button type="button" role="radio" data-band="" class="budget-opt">Any</button>
+                  <button type="button" role="radio" data-band="low" class="budget-opt">Low</button>
+                  <button type="button" role="radio" data-band="medium" class="budget-opt">Medium</button>
+                  <button type="button" role="radio" data-band="high" class="budget-opt">High</button>
+                </div>
+              </div>
+
+              <!-- Minimum rating -->
+              <div class="flex flex-col gap-2">
+                <div class="flex items-center justify-between">
+                  <label for="rating" class="text-xs font-semibold text-on-surface">Minimum rating</label>
+                  <span id="rating-value" class="tnum inline-flex items-center gap-0.5 px-2 py-0.5 rounded-full bg-surface-container-high text-tertiary text-xs font-semibold">Any</span>
+                </div>
+                <input id="rating" type="range" min="0" max="5" step="0.5" value="0" class="w-full cursor-pointer" />
+                <p class="text-[11px] text-on-surface-variant/70">0 means any rating, including new places without one.</p>
+              </div>
+
+              <!-- Extras -->
+              <div class="flex flex-col gap-1.5">
+                <div class="flex items-center justify-between">
+                  <label for="extras" class="text-xs font-semibold text-on-surface flex items-center gap-1">
+                    <span class="material-symbols-outlined text-[16px] text-secondary">auto_awesome</span> Anything else?
+                  </label>
+                  <span id="extras-count" class="tnum text-[11px] text-on-surface-variant">0 / 300</span>
+                </div>
+                <textarea id="extras" rows="2" maxlength="300" placeholder="family-friendly, quick service, rooftop…"
+                  class="w-full p-2.5 bg-surface-container rounded-lg text-sm text-on-surface placeholder:text-on-surface-variant/50 border border-transparent focus:outline-none focus:border-violet/60 focus:shadow-[0_0_0_3px_rgba(155,123,255,0.15)] transition-all resize-none leading-relaxed"></textarea>
+              </div>
+
+              <div class="flex flex-col gap-2">
+                <button id="find" type="submit"
+                  class="w-full h-12 bg-primary-container text-[#0f0f12] font-semibold text-sm rounded-full flex items-center justify-center gap-2 shadow-lg shadow-primary-container/25 hover:shadow-[0_4px_16px_rgba(255,122,26,0.3)] hover:brightness-110 active:brightness-95 transition-all disabled:opacity-70 disabled:cursor-wait focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-surface-container-low focus-visible:ring-primary-container">
+                  <span class="material-symbols-outlined text-[20px]">search</span>
+                  <span>Find restaurants</span>
+                </button>
+                <p id="form-warning" role="alert" hidden class="flex items-center gap-1.5 text-xs text-tertiary">
+                  <span class="material-symbols-outlined text-[16px]">error</span><span></span>
+                </p>
+              </div>
+            </form>
+          </div>
+        </aside>
+
+        <!-- ============ Results area ============ -->
+        <section id="results" aria-live="polite" class="flex-1 w-full min-w-0 flex flex-col gap-4"></section>
+      </div>
+    </div>
+  </main>
+
+  <footer class="w-full bg-surface-container-lowest py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-on-surface-variant">
+      <span>DineWise · Eat well in Bengaluru. Picks from 12,000+ real restaurants (Zomato data).</span>
+      <span class="text-on-surface-variant/70">Food images are illustrative, not photos of the restaurants.</span>
+    </div>
+  </footer>
+
+  <!-- Toasts (e.g. rate limiting, edge case UI-04) -->
+  <div id="toasts" class="fixed bottom-4 left-1/2 -translate-x-1/2 z-50 flex flex-col gap-2 w-[calc(100%-2rem)] max-w-md" aria-live="assertive"></div>
+
+  <script src="/static/config.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

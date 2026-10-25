@@ -1,0 +1,523 @@
+{
+ "id": "common-05",
+ "result": {
+  "preferences": {
+   "location": "HSR",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "HSR"
+   ],
+   "budget": "low",
+   "cuisines": [
+    "Biryani"
+   ],
+   "min_rating": 3.8,
+   "extras": "home delivery",
+   "extras_tags": [
+    "delivery"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_ce040783c988",
+    "name": "Aligarh House",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "270, 2nd Floor, Krishna Reddy Building, Somasundrapalya, Sector 2, HSR, Bangalore",
+    "zones": [
+     "HSR"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Biryani",
+     "Awadhi",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.4,
+    "votes": 568,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Masala Biryani",
+     "Kulcha",
+     "Raita",
+     "Chicken Nihari",
+     "Shami Kebab",
+     "Shahi Tukda",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I tried the biryani here . It tastes below average though the quantity is way too much for the price. The rice was tasteless and meat seemed stale . A bad biryani is a big no no . Wouldn't order…",
+     "Ordered a muradabadi chicken biryani from here twice. The taste was amazing both times except it was a bit salty on the first occasion, which they had corrected by the second time I ordered. The…",
+     "Have order Biriyani from here twice. Once the Aligarh house Muradabadi chicken Biriyani and the Aligarh house special masala chicken Biriyani. The quantity is really good actually can be enough for…"
+    ]
+   },
+   {
+    "id": "r_bbbf90ade09a",
+    "name": "Noon's",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "664, 9th Main, 25th Cross, Opposite Karur Vysya Bank, Sector 7, HSR, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block"
+    ],
+    "cuisines": [
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 166,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Biryani",
+     "Hyderabadi Dum Biryani",
+     "Raita"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "One the best Hydrabadi biryani in town Home made and authentic Hydrabadi biryani Tried their chicken biryani - wanted to try their mutton biryani but unfortunately the mutton is only available in…",
+     "Hyderabad Bawarchi Vida vera level taste - but quantity will be less when compared to Hyderabad bawarchi ! But Sema taste and with good quality :)",
+     "Very good Biryani and a very nice concept of selling homemade food with no fancy jazz surrounding the food. The USP of this place is just the food. You may want to take a parcel. The chicken is…"
+    ]
+   },
+   {
+    "id": "r_b4d36a7a0c9d",
+    "name": "Hotel Salam",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "38/3, Opposite Salarpuria Serenity, Mangamannapalya Main Road, Bommanahalli, HSR, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 130,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Well this place is well know for its beef dishes. This is one of the most sought-after beef places in HSR. I have tried their porotta, kushka, beef Biriyani, beef phaal, masala kabab and sheekh…"
+    ]
+   },
+   {
+    "id": "r_ecc546d32da6",
+    "name": "Families Food Court",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "36/6, Samasundra Palya, 2nd Sector, HSR Layout, HSR, Bangalore",
+    "zones": [
+     "HSR"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Biryani",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 261,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Prompt Service"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Nothing special about this place..food is just okayish..you can get all the food items at a pocket friendly rates..we tried their family non veg thali, veg combo, chicken fried rice and Gobi…",
+     "Last night I ordered butter chicken.chilly chicken and Kerala paratha.Test of this three item is awesome.Test wise butter chicken was so great.but chilly chicken was good.but quantity is little bit…"
+    ]
+   },
+   {
+    "id": "r_cc4eb69d1c66",
+    "name": "Madeena Hotel",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "3 Venkoji Roa Kkhane, Behind Salarpuria Apartment, Mangammapalya Main Road, HSR, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 5th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 240,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Ghee Rice"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Must try place for hard-core non veg foodie. Offers variety of seafood, tandoori, kebabs. Must try dishes are mutton bhaji ghost and liver fry. All range of paratha are so good."
+    ]
+   },
+   {
+    "id": "r_e82dbd791d3e",
+    "name": "Hunger Meals",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "13, AB Square, 1st Floor, 14th Main, Sector 5, HSR, Bangalore",
+    "zones": [
+     "HSR"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 152,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Andhra Thali",
+     "Rice",
+     "Mango Dal",
+     "Salad",
+     "Chicken Meal",
+     "Aloo Matar",
+     "Chicken Curry"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Bad packaging and quality.",
+     "Awesome Andhra Style food. Starting the rates were reasonable. But now they are charging high but the food is awesome.",
+     "We are corporate employees, we are getting dinner service since 2 weeks, in the starting these people were great on punctuality, quality, quantity and taste too.... nowadays worst on menu items…"
+    ]
+   },
+   {
+    "id": "r_e1db1ce8dc11",
+    "name": "Fish Chain",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "14th Main, Sector 4, HSR, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 6th Block"
+    ],
+    "cuisines": [
+     "Seafood",
+     "BBQ",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 58,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Mustard Fish Curry"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Had ordered food from Fish Chain many times and to be very honest the food is awesome. Have tried Allepy Fish Curry with Fish Tikka and steamed rice and Original Biryani Combo. The taste is…",
+     "This place is the best lunch ive had this month more than 10 times and wow with a 50% off I'm getting fish Tikka, prawns curry, rice, crab, biryani combos at 30rs and the quality food and taste is…",
+     "So there are two fish chain branches and the menu is different too . This one has been better .. I have ordered a few times before and wanted to see how they deliver on a weekend. Ordered - Biryani…"
+    ]
+   },
+   {
+    "id": "r_c07dbbe034a0",
+    "name": "Raichur Biryani House",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "A174, 19th Main Road 17th Cross, 4th Sector, HSR, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 283,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Biryani",
+     "Dum Biryani",
+     "Vegetable Biryani",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I ordered for Biryani rice (no pieces) and expected only rice. But I got both chicken and mutton pieces in it and I don't know what to say. Was it specially prepared for me?? Because I don't see…",
+     "That was spicy and yummy biryani, the way I liked it! In fact everyone around enjoyed it!",
+     "I like raichur Birryani"
+    ]
+   },
+   {
+    "id": "r_f49cb1584f58",
+    "name": "Mandya Gowdru Donne Biriyani",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "7th Cross Road, Agara Village, 1st Sector, HSR, Bangalore",
+    "zones": [
+     "Bellandur",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 283,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Street shop and a quick bite shop. Ambiance is decent for a street Shop. Service is super fast, though the servers struggle with anything other than Kannada. Chicken Biryani and Biryani rice is…",
+     "Ordered online through Zomato a mutton biryani combo. It delivered well before time. It supposed to be mutton biryani with mutton chaap and plain soup. It came as mutton biryani with half of boiled…",
+     "Order delivered late but food was awesome ,best price good quality and quantity worth for money , awesome experience must try mutton biryani combo"
+    ]
+   },
+   {
+    "id": "r_bea09df7e1f5",
+    "name": "Donne Biriyani House",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "25, 7th Cross Road, Teacher's Colony, Jakkasandra, 1st Block Koramangala, HSR, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 278,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rice",
+     "Donne Biryani",
+     "Mutton Biryani",
+     "Chicken Kebab",
+     "Chilli Chicken",
+     "Chicken Biryani",
+     "Kshatriya Kebab"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Donne biriyani is nothing but biriyani made on a dry leaf (mostly banana). This place is crowded during weekdays. All you can see is people taking parcel. They have very few options chicken, mutton…",
+     "This Donne Biryani is value for money . Be it the quantity and / or quality ... they score high. Just enough quantity, packed in natural palm leaf bowls, tastes better, cooked well and no extra…",
+     "Food was tasty but little oily"
+    ]
+   },
+   {
+    "id": "r_41a484e553f2",
+    "name": "OMY Grill",
+    "city": "Bangalore",
+    "locality": "HSR",
+    "address": "1152, 22nd Cross, 22nd B Main, Sector 2, HSR, Bangalore",
+    "zones": [
+     "HSR",
+     "Koramangala 4th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "Rolls",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 34,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Based on delivered order so won't be commenting about anything except the food. We ordered tandoori momos & chicken tikka roll. Both were good in taste & arrived warm. Specially loved the tandoori…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_ce040783c988": 1.0,
+   "r_bbbf90ade09a": 0.740096,
+   "r_b4d36a7a0c9d": 0.643328,
+   "r_ecc546d32da6": 0.555471,
+   "r_cc4eb69d1c66": 0.547981,
+   "r_e82dbd791d3e": 0.507246,
+   "r_e1db1ce8dc11": 0.496816,
+   "r_c07dbbe034a0": 0.4877,
+   "r_f49cb1584f58": 0.4877,
+   "r_bea09df7e1f5": 0.486107,
+   "r_41a484e553f2": 0.3
+  },
+  "relaxations": [],
+  "total_matches": 11
+ },
+ "edit": {}
+}

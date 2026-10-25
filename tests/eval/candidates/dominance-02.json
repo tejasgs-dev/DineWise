@@ -1,0 +1,976 @@
+{
+ "id": "dominance-02",
+ "result": {
+  "preferences": {
+   "location": "Banashankari",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Banashankari"
+   ],
+   "budget": "low",
+   "cuisines": [
+    "North Indian"
+   ],
+   "min_rating": 3.5,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_0ec3ba1b8bd8",
+    "name": "Ayodhya Upachar",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "199/1, Ajanaya Bhavana, 100 Feet Ring Road, Kathriguppe, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 734,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Panneer Butter Masala",
+     "Vada",
+     "Curd Rice",
+     "Idli",
+     "Jeera Rice",
+     "Naan",
+     "Kulcha"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Online Food Review: Ordered Curd Vada, Masala Dosa, Rava Idli. Curd Vada: Excellent taste, but the quantity of Curd provided was less. Masala Dosa: Taste was good, however the packaging can be…",
+     "Yummy food.. From tomato soup to noodles to Naan and kaju masala, everything was delicious. Only the baby corn manchurian was not up to the mark..",
+     "Ambience is not that good at this restaurant and not hygienic too.. Service is too slow and not a pocket friendly restaurant ??don't ever visit this restaurant"
+    ]
+   },
+   {
+    "id": "r_f4ca8c746ad8",
+    "name": "Mini Punjabi Dhaba",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "7/1, Behind BMS College Hostel, Hanumantha Nagar, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 325,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Lassi",
+     "Panneer Butter Masala",
+     "Paratha",
+     "Jeera Rice",
+     "Paneer Parantha",
+     "Veg Kolhapuri",
+     "Bhindi Fry"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "One stop for great tasty north Indian food. I just loved it. As name states food is authentic punjabi, pocket friendly, awesome place. Parathas, lassi too good. Its a mini restaurant, clean place…",
+     "A dhaba that instantly helps you with your hunger cravings! One stop for North Indian food! I've been here atleast 5 times and the taste remained the same here. Few of the recommended dishes here…",
+     "One of the best places for punjabi food in South bangalore. Located near Gandhi Bazaar the taste is really amazing. Must visit for all the food lovers staying near to this place."
+    ]
+   },
+   {
+    "id": "r_d281f60cbe15",
+    "name": "Bengaluru Coffee House",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "4001/4002, Annapoorneshwari Plaza, Near Seetha Circle, Hosakerehalli Cross, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 201,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa",
+     "Tirupathi Pongal",
+     "Filter Coffee",
+     "Vada",
+     "Kharabath",
+     "Kali Dosa",
+     "Rava Idli"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This is the best place to have Pongal in banshankri. Pongal and it's called as Tirupathi Pongal and it is served with curd raitha.. I regularly visit twice in a week..",
+     "Zomato delivery was super fast and food delivered super hot inspite of the distance... The food was tasty, well packed, well prepared, correct price and above all brings a smile of satisfaction…",
+     "being unwell I don't feel like eating anything and who wants to eat food from the hostel mess, idli was the only option. Bengaluru coffee house delivered Amazing idlis at very cheap cost, however…"
+    ]
+   },
+   {
+    "id": "r_7093b00bb687",
+    "name": "Udupi Ruchi Grand",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "6th Block, 3rd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 60,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ordered on zomato delivery for curiosity... Food was good but the quantity was as good as nothing... The 2 portions fo bhel puri received was not even the half you normally get from other places…",
+     "This newly opened place is really not like any other Udupi Upahar/Sagar. They have a wide variety of items from south Indian, north Indian and Chinese cuisines. They have chaats, juices, ice creams…",
+     "The newly opened one at a prime location offers south Indian and north Indian cuisines.. I had ordered paneer tikka masala on a rainy day, so cheers to the service .. I received the order on time…"
+    ]
+   },
+   {
+    "id": "r_64f78cf4a3b7",
+    "name": "Donne Biriyani House",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "4009, 80 Feet Road, 4th Phase, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 441,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Biriyani is yummm here !! Just a kushka and kabab would satisfy a hungry tummy... and it's completely reasonable and worth it.. chilly chicken is also tasty and very spicy here",
+     "Decently priced and worth a money. Pepper chicken was well made along with the perfect fry. As it was home delivery they took some time but food served for good."
+    ]
+   },
+   {
+    "id": "r_34d027ce66fa",
+    "name": "Ande Ka Funda",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "9/1, Behind BMS College Hostel, Hanumantha Nagar, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Fast Food",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 121,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Taste - 3.5/5 Great place for quick bites. And trust me, they're filling as well as tasty. The rolls are really good and so are the parathas. For the quantity and taste, the price is fair and…",
+     "A tiny outlet present right behind the BMS college. They serve North Indian food. Parathas are must try. Actually a saviour when you are broke."
+    ]
+   },
+   {
+    "id": "r_97af17ec758e",
+    "name": "Udupi Ruchi",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "31/1, Puttalingaiah Road, Second Stage, Bangalore, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 57,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Worst option to order food. I ordered veg fried rice from my friend's account. Veg fried rice was extremely oiled the movement we put the rice in plate every where is oil and found some small stone…"
+    ]
+   },
+   {
+    "id": "r_8e4082d7bbce",
+    "name": "Hotel New Karavali",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "89, Behind Venkateshwara Bar, Near PES College, 1st Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "Mangalorean",
+     "South Indian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 133,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "yestreday the taste was hetic",
+     "Please keep some offers Your charges are also higher We are expecting food from you But since no offer nothing and charges are also high Hoy nivu kundapura koli palle laik mad madey mareya Offer…",
+     "rice quality was not good the rice which they used is not good for fried rice items"
+    ]
+   },
+   {
+    "id": "r_ebda9e4dc634",
+    "name": "Utsav Restaurant",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "38/A, Mount Joy Road, Hanumanthnagar, Behind BMS College, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 61,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Service - 4/5 Taste - 4/5 Cheap, great quantity, brilliant taste and a good variety in cuisine and food items. What more do you need. Perfect place to eat on a budget, or even in general. A full…",
+     "This place is located exactly behind BMS hostel, easily identifiable in the busy roads. This place is a pure vegetarian restaurant with nice ambience with lights all around. Seatings are available…",
+     "Food - 8/10 Service - 7/10 Ambience - 8/10 Cost -8/10 A good vegetarian restaurant in banashankari. The food tastes very good. Most of the time it's crowded so it becomes a bit noisy in it but the…"
+    ]
+   },
+   {
+    "id": "r_e820872c93b6",
+    "name": "Udupi Upahar",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "No.1585, 22nd Main,Banashankari 1st Stage",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Chinese",
+     "North Indian",
+     "Juices"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 58,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Food is not good... Noodles were smelling like its was prepared 2 days before...bad smelling.. I throwed it.. Food is not good please give fresh food",
+     "wrong order was placed",
+     "taste want to improve"
+    ]
+   },
+   {
+    "id": "r_f596a675ebc2",
+    "name": "Srikrishna Bhavan",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "Next To BMTC Bus Stand, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 42,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Roti",
+     "Masala Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Sri Krishna bhavan is the best hotel in Bangalore which is situated in banashankari. The taste of the food is very nice And the ambiance is very good Love this place"
+    ]
+   },
+   {
+    "id": "r_0e0b6f801f22",
+    "name": "Upahar Sagar",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "727, 23rd Cross, KR Road, 2nd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 39,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Hi, We had masala puri, sev puri and mix chats at this restaurant recently. I must say the taste of mix chat at around 8-10 yrs back was amazing and i would always request my parents to take me to…",
+     "Upahar sagar is always a nice place to savour South Indian cuisines and a recommended one when you are nearby. They have got an open kitchen where you could see how are they preparing your food. The…",
+     "I'm a regular visitor to this place. It's my go to place for any fast grab meal. Their north Indian dishes are very tasty. Chats are also delicious. Their south Indian dishes, dosas are very crispy…"
+    ]
+   },
+   {
+    "id": "r_8efbac42c758",
+    "name": "Hotboxit",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "2nd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Italian"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 36,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Prompt Service"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Have ordered from here at night 2:00.The person who took order was friendly even at that time.But the chicken there was not halal.It is really important for any Muslim.The only veg options available…",
+     "I was craving for some good food Midnight..And then this place was the real best idea hit my mind suggested by my very best Friend So really hot & spicy?? tats what a chicken biryani and chilli…",
+     "Nice timely delivery and awesome taste. The chicken kebab, pepper chicken and chilly chicken were great!!! Great place to try if you need to satisfy your late night hungry stomach!!!!"
+    ]
+   },
+   {
+    "id": "r_f47f1665f107",
+    "name": "Addhuri Udupi Bhojana",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "1st Floor, Annakuteera, 3rd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 88,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa"
+    ],
+    "tags": [
+     "buffet",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Great food and proper Karnataka style full meals. Been there twice and was fully satisfied.. Will give 5 stars if it's well managed............",
+     "Reached the place at 3pm on Saturday. Half of the items on the menu were over. What was annoying was is the food was cold. The taste was also very average. Only dosa and holige were good. There were…",
+     "Had been here, good food served and tasty,good place to go with freinds and family, should be first to get served well with all food. One of the good hotel there for this price."
+    ]
+   },
+   {
+    "id": "r_a6692c7291a1",
+    "name": "Utsav",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "46, 80 Feet Road, 3rd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 59,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paratha",
+     "Kachori",
+     "Tea",
+     "Lassi",
+     "Samosa",
+     "Vada Pav"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I think I did a mistake by visiting this restaurant worst food we ordered something for parcel and got something else really unprofessional will never ever visit here by mistake the guy wearing a…"
+    ]
+   },
+   {
+    "id": "r_14202ee00e60",
+    "name": "Matru Sagar",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "Shubashree Complex, 50 Feet Road, 1st Stage, Hanumanthanagar, Near Girinagar, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.6,
+    "votes": 84,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Masala Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Good and reasonable food and pricing. Masala dosa and coffee tastes best. Ive been regular there since my school days. You can expect north indian thali and chinese manchurian too.",
+     "Very high price for the bland food they prepare. Potato palya in masala dosa was spoilt. Gobi manchuri and fried rice are too bland. Staff here behave like they have never seen a girl.",
+     "This place is on my \"go to\" list when I'm hungry and at this part of town. I've had breakfast here quite a few times , apart from the North Indian style food that they serve. In my opinion, the…"
+    ]
+   },
+   {
+    "id": "r_3bc0a7a30911",
+    "name": "New Sagar Fast Food",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "12/6, 80 Feet Road, 1st Stage, Srinivasnagar, Bank Colony, 1st Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.6,
+    "votes": 71,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Vegetable Biryani",
+     "Masala Dosa",
+     "Kulcha",
+     "Masala Papad",
+     "Tomato Soup"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Took a parcel of couple of Gobi Manchurian today only to find it all stale by the time we started to have it half an hour later. Had to throw away the entire parcel as going back was not an option…",
+     "A quick option in nearby areas. South Indian food are quite good. An old restaurant serving us since school days :P . Parking is a bit difficult. Thali needs some variety. Management keeps on…"
+    ]
+   },
+   {
+    "id": "r_dd9ae72e85b3",
+    "name": "Chicken Hunt",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "222, 100 Feet Road, Near Kathriguppe Signal, Opposite Udbav Hospital, 6th Block, 3rd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 3.5,
+    "votes": 88,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Grill"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Really upset with the quality of biryani I got lumps of masala Seemed like they didn't had food to pack as I ordered late yet the order got confirmed .... .......",
+     "I orderd a veg noodles, mushroom fried rice and veg fried rice from this resturent. Delivery was on time packing is also good when i started having noodles it i feel like oily but i thought yeah…",
+     "Very bad experience in chicken hunt and not gud taste n quality don't order in this restorunt..i ordered lemon bone less chicken but he sent bone chicken after that no response from resturent"
+    ]
+   },
+   {
+    "id": "r_c68c171f6b0c",
+    "name": "Namma Biryani",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "1111, Near KIMS, 30th Main Road, Siddanna Layout, Stage 2, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Biryani",
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.6,
+    "votes": 24,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Looks like fast food.. No chairs to sit(very small shop).. but the food tastes really amazing.. briyani and non veg items are like home made..",
+     "food was good delivery is too late",
+     "Good taste and Good staff......Very soft grill chicken and nice porattas, briyani rice and all variety of chicken and mutton recipes are good....."
+    ]
+   },
+   {
+    "id": "r_764dba66020c",
+    "name": "Krishna Sagar",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "38, 22nd Main, 22nd Cross, Opposite BDA, 2nd Stage, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.5,
+    "votes": 31,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Worst experience with Krishna sagar.. I ordered panner butter masala, masala itself not good. Even roti also, it looks like chapati I never expected from this hotel. Guys please never buy anything…",
+     "Quiet small place... But food is nice and very cheap... Looking out for cheap north indian food this is the place to visit. Although negative point is taste varies day to day... Some time food is…",
+     "We wanted to try everything in the area as we were new there. I didn't wanted to go there (seeing the smoke and cleaning), but anyway, we went. Ordered combo thali, ate 2 chapati and that's it. We…"
+    ]
+   },
+   {
+    "id": "r_ccc795fcc7c1",
+    "name": "Dodda Mane Baaduta",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "3313, Vishwabharati Layout, 80 Feet Road, Girinagar, 4th Phase, Stage 3, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.5,
+    "votes": 15,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I have visited this place for a couple of times. It is a must visit for biriyani lovers and most of the dishes are authentic and mouth watering. The service is above par with decent interiors. They…",
+     "I Have been to this place couple of times and believe me the food (to name few-Mutton/chicken biryani, lever fry, lemon chicken, thandoori chicken, Kalmi kabab...etc) is good and tasty.Will go there…",
+     "It was awesome ?the food was delicious and I am going to give all credit to all staff and to Mr Girish B L and Mr shivaram thank you ?"
+    ]
+   },
+   {
+    "id": "r_1c04ac69480d",
+    "name": "Parama Ruchi",
+    "city": "Bangalore",
+    "locality": "Banashankari",
+    "address": "Near NU Hospital Padmanabha Nagar, Banashankari, Bangalore",
+    "zones": [
+     "Banashankari"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.9,
+    "votes": 3234,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": []
+   }
+  ],
+  "scores": {
+   "r_0ec3ba1b8bd8": 0.85,
+   "r_f4ca8c746ad8": 0.744359,
+   "r_d281f60cbe15": 0.65903,
+   "r_7093b00bb687": 0.642534,
+   "r_64f78cf4a3b7": 0.594103,
+   "r_34d027ce66fa": 0.515895,
+   "r_97af17ec758e": 0.47072,
+   "r_8e4082d7bbce": 0.465345,
+   "r_ebda9e4dc634": 0.418522,
+   "r_e820872c93b6": 0.415508,
+   "r_f596a675ebc2": 0.39629,
+   "r_0e0b6f801f22": 0.391896,
+   "r_8efbac42c758": 0.38716,
+   "r_f47f1665f107": 0.384234,
+   "r_a6692c7291a1": 0.36028,
+   "r_14202ee00e60": 0.325191,
+   "r_3bc0a7a30911": 0.315106,
+   "r_dd9ae72e85b3": 0.271734,
+   "r_c68c171f6b0c": 0.250841,
+   "r_764dba66020c": 0.209589,
+   "r_ccc795fcc7c1": 0.167478,
+   "r_1c04ac69480d": 0.15
+  },
+  "relaxations": [],
+  "total_matches": 22
+ },
+ "edit": {
+  "dominant_id": "r_1c04ac69480d",
+  "changed": [
+   "rating",
+   "votes",
+   "cuisines",
+   "cost"
+  ]
+ }
+}

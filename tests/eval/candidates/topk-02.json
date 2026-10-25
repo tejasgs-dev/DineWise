@@ -1,0 +1,1339 @@
+{
+ "id": "topk-02",
+ "result": {
+  "preferences": {
+   "location": "BTM",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "BTM"
+   ],
+   "budget": null,
+   "cuisines": [
+    "North Indian"
+   ],
+   "min_rating": 3.5,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 10,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_0bf23561aeb0",
+    "name": "AB's - Absolute Barbecues",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "100 Feet Road, 1st Phase, Near Jayadeva Flyover, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "European",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 6490,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Tangdi Chicken",
+     "Bbq Buffet",
+     "Chocolate Icecreams",
+     "Kofta Curry",
+     "Mutton Seekh Kabab",
+     "Paneer Curry",
+     "Mutton Keema"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Thapush and Rahul served us really well on a packed Sunday noon. The barbeque is brilliant here. One should visit for a good meal of starters and desserts.",
+     "AB's is a good place to have buffet food. Their live counter is a good thing, though the quantity they serve in the live counter is very less and it's just for taste purpose. Blue Angel and Indian…",
+     "Undoubtedly the best buffet restaurant. Food is always amazing and well prepared. Service is great! Staff is polite and cheerful. Ambience is also great. Overall one of the best places to hangout…"
+    ]
+   },
+   {
+    "id": "r_634ee2dcbc64",
+    "name": "eat.fit",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "96, 29th Main, 23rd Cross, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "HSR",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "North Indian",
+     "Biryani",
+     "Continental",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 1238,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Healthy Breakfast",
+     "Salads",
+     "Date Pudding",
+     "Chicken Curry",
+     "Chicken Chettinad",
+     "Dal Makhani",
+     "Hakka Noodles"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Good food, lots of variety but yes you would have to sacrifice taste for health here. Have tried multiple items like footlong and thalis as well, but the opinion remains same.",
+     "I am not a big fan of balanced healthy food and hence I never order from eat fit. But once my wife did order and there isn't any looking back anymore. The food didn't look as appetizing as its…",
+     "I loved the food from here. One must try their paratha breakfast combo and lunch roti combo. Healthy and very tasty. Usually not many gives healthy plus tasty food. These people have done a great…"
+    ]
+   },
+   {
+    "id": "r_3ed737ed012c",
+    "name": "Pin Me Down",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "29, Tavakere Main Road, Behind Forum Mall, Koramangala, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Continental",
+     "Mexican",
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 823,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Paneer Tikka",
+     "Chilli Chicken",
+     "Pizza",
+     "Mocktails",
+     "Chowmein",
+     "Pasta Alfredo",
+     "Tandoori Aloo"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "One of the coolest rooftop hookah cafe in town. Cafe Pin Me Down, won't make you regret with their ambience, music, craze, and a lot of good vibes. Located at forum back side, Koramangla, they serve…",
+     "This place has very good food, both non veg and veg. The entire place is cowboy themed and even the waiters wear hats. I liked the idea and the food they served. Dishes ordered are: Bean and cheese…",
+     "The food and ambience was great but the customer service was pretty slow. Even though the restaurant wasn't crowded, the service was quite slow. Though the food was thoroughly cooked and was…"
+    ]
+   },
+   {
+    "id": "r_581c433f2b7a",
+    "name": "3B's - Buddies, Bar & Barbecues",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "5th Floor, CPR Tower, 100 Feet Ring Road, 1st Phase, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mediterranean",
+     "European",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1100,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 1181,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Paan Ice Cream",
+     "Cocktails",
+     "Fish Grill",
+     "Crispy Corn",
+     "Butter Chicken",
+     "Phirni",
+     "Chicken Tikka"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Worst buffet dinner I ever had!! 5/6 starter items, 1 chicken biriyani (without chicken), 1 chicken main course(butter chicken) and 3/4 desert items!! That's all in buffet menu!! I'm not going again…",
+     "So I was in Bangalore for a few months and thought to try this Zomato gold restaurant. They had no where written anywhere that only barbecue is available and no ala carte menu. The waiter was rude…",
+     "Seeing the rating and this place being closest to my house ended up going here for buffet lunch.. they serve 4 types of starters in non veg and 5 in veg.. all the starters were exceptionally good…"
+    ]
+   },
+   {
+    "id": "r_189caac0514c",
+    "name": "Punjabi by Nature 2.0",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "6, Krishna Nagar Industrial Area, Behind Forum Mall, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Microbrewery"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 3236,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Paneer Tikki",
+     "Mutton Raan",
+     "Mango Margarita",
+     "Craft Beer",
+     "Lamb",
+     "Kulcha",
+     "Kheer"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "delivery"
+    ],
+    "review_snippets": [
+     "It has a beautiful ambiance and we managed to get a table right next to the fountain. The drinks were good. Coming to the food we ordered mutton with fried idlis as the first starter which was…",
+     "Elegant place to celebrate your special occasions. The ambience and service is good. Food items are bit high priced but its relevant considering the dining experience. Food quantity will be more for…",
+     "Great ambiance with friend staff. Service was really good. We tried vegetarian food and we loved it. Must try is Mango Masala Aam Panna, sheek kabab, minestrone soup ans Garlic naan. It has both…"
+    ]
+   },
+   {
+    "id": "r_8c20b22e24be",
+    "name": "The Globe Grub",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "C K Emerald, Opposite Yes Bank, BTM Layout, Bannerghata Main Road, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Asian",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 307,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Prawn",
+     "Dal Makhani",
+     "Fish",
+     "Shahi Tukda",
+     "Barfi",
+     "Pizza",
+     "Veg Mushroom"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The place is good, food is good, Drinks are really good. Ambience is great too. In starters I liked prawn hot basil dry, chicken kalmi kebab, banana leaf wrapped fish, paneer tikka. Crispy corn was…",
+     "We visited The Globe Grub, BTM for Team Lunch. Poised as the biggest buffet in town, it indeed has a big spread to offer. I had been to many buffet serving restaurants in the past and everywhere…",
+     "Amazing Buffet varieties and service. Ice Cream, Pasta, Chaat and Dessert options are amazing here. Mr. Hariprasad and Mr. Rajendra provided really amazing service. One of the best place for Buffet."
+    ]
+   },
+   {
+    "id": "r_febca1872a52",
+    "name": "Dadi's Dum Biryani",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "14, Krishnanagara Industrial Area, Next To Christ College, Near Dairy Circle, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 2732,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Butter Chicken",
+     "Panner Tikka",
+     "Chicken Biryani",
+     "Chicken Lollipop",
+     "Chicken Tikka Masala",
+     "Dum Biryani",
+     "Tangdi Kabab"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Had ordered naan and panner tika masala combo.the food taste was very good also the quantity perfect for the single person.would definitely like to repeat the order same in near future.",
+     "The food is above average but the service has to improved. Have been there twice and was given the wrong order both times. Had to wait to get the correct order. The ambience is good and the food is…",
+     "Had ordered Paneer Biryani which is 260 RS + Taxes instead of a veg biryani which is 150+ taxes. The rice quality was perfect, perfectly cooked, quantity very good, But the sad part was the taste…"
+    ]
+   },
+   {
+    "id": "r_d2d04aa96ed0",
+    "name": "BOX8- Desi Meals",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "Liss Arcade, 16th Main Road, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 385,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Dal Makhani",
+     "Paratha",
+     "Salad",
+     "Rajma",
+     "Biryani",
+     "Brownie",
+     "Salads"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "BOX8 was expected to be amazing. I had ordered items before ,today I ordered spicy paneer meal and it was spicy as expected. Taste was unique and delicious,it had 7-8 pieces of paneer and paneer was…",
+     "I love one bowl meals and heard this place serves some of the best bowls So I ordered dal makhani and rice box with salad raita and chutney And moong dal halwa It was yummy Halwa was one of the best…",
+     "BOX8.. Yess!! Order food from here and you will get box with extremely nice packaging which I think you'll never see from any other. Now coming to food I have ordered chicken overloaded meal and the…"
+    ]
+   },
+   {
+    "id": "r_b996604a633c",
+    "name": "Fattoush",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "27/4, Outer Ring Road, Stage 2, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Arabian",
+     "Mughlai",
+     "Biryani",
+     "North Indian",
+     "Chinese",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 1298,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Fattoush",
+     "Crispy Chilli Potatoes",
+     "Mutton Roganjosh",
+     "Butter Chicken Biryani",
+     "Crispy Chilli Babycorn",
+     "Chicken Grill",
+     "Tandoori Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "The egg fried rice was good but the chicken tikka masala was a waste. It was more like a chicken curry. It was among the worst chicken tikka that i had ever had",
+     "One of the nearest and the best place for me and my friends to literally hogg. Serve good quantity portion. Mix Nonveg Hot garlic noodles and Chilli garlic chicken is all time favourite. Please do…",
+     "Food was good. But below expectations for arabic cuisines. Had to wait for a long time to get table. This place gets extremely crowded in weekend as there is no other better eatery around btm for…"
+    ]
+   },
+   {
+    "id": "r_2fa8b122ef00",
+    "name": "Litti Twist",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "No 43, 7th Main Road, NS Palaya, BTM 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Bihari"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 465,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Litti",
+     "Liti Chokha",
+     "Lassi",
+     "Tea",
+     "Paratha",
+     "Thali",
+     "Chai"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "It's a great outlet to have litti with variety of chatni and other stuff. The litti are soft and are really tasty. The staff were really good and service was quick. I was looking for a lot of places…",
+     "A decent outlet for having north Indian food and had ordered aloo parantha, boondi raita and sattu poori combo. The aloo parantha was crisp and complemented with the raita however the same cannot be…",
+     "Amazing and authentic place. Visited the place last night on a friend's recommendation. Must say, the food was as per expectations. First ordered litti chokha and then on liking it so much ordered…"
+    ]
+   },
+   {
+    "id": "r_422560f332b1",
+    "name": "The Biryani Story",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "746, 7th Cross, 13th Main, BTM, Bangalore",
+    "zones": [
+     "BTM"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Chinese",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 76,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Paneer Tikka",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Food quality is good. Ambience is better. Price range is a bit high which I felt. Service time is long. At the end, a cozy place to be with your loved ones.",
+     "Chilli babycorn is my most favourite starter as i love baby corn. I found the best babycorn starters here and i just loved it. It was spicy and very tasty and delicious. Apart from potato n paneer…",
+     "Fish tikka masala a non vegetarian fish based subzi which was eaten by me being a fish lover. It was really good. Gravy and all was perfect. I loved it .service was really quick and good."
+    ]
+   },
+   {
+    "id": "r_9ae84fadb599",
+    "name": "Swadista Aahar",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "947, 16th Main Road, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 790,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Panneer Butter Masala",
+     "Idli",
+     "Masala Dosa",
+     "Vada",
+     "Coffee",
+     "Roti",
+     "Thali"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ordered south Indian Breakfast they delivered on time with nice packaging. Hot food value for money. If I am not wrong it's a darshini. Does, idly and vada was good. But the pongal seems to be…",
+     "The food is really top class. Their dosa matches the taste of Bangalore's top dosas like Taza thindi, MTR etc... The filling in their masala dosas is probably the best Prices definitely reasonable",
+     "I ordered their veg biryani and gobi manchurian. Both were really great. I felt that they could increase the quantity of biryani , but still it was really worth. Gobi manchurian is more than enough…"
+    ]
+   },
+   {
+    "id": "r_54216ddf5ae3",
+    "name": "Cucumber Town",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "45, Kasthuri Nivasa, 2nd Floor, 19th Main, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Kerala",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 310,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Appam",
+     "Chicken Biryani",
+     "Kizhi Biryani",
+     "Kuluki Sarbat",
+     "Panneer Butter Masala",
+     "Meen Pollichathu",
+     "Vellarikka Pattanam"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "One among those places that could be categorized as more quality and less quantity. Not satisfied with the price and the quantity that was provided. However the dishes were pretty good. Ordered…",
+     "Amazing place for authentic Kerala food. Loved their kappa udachathu and pothu vazhattyathu. Absolutely lipsmacking and must tries. Malabar chicken biryani was also really good.",
+     "Its been long since I wrote something about restaurant. For past 2 days, I am using this restaurant for take away. Quality of the food is worth every penny. Quantity is also up to the mark. You can…"
+    ]
+   },
+   {
+    "id": "r_6976db10fae7",
+    "name": "Polamma's Mess",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "67/2, Near Christ University, 2nd Cross, C.L. Layout, Adugodi, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Mess"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 185,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Lemon Chicken",
+     "Hyderabadi Biryani",
+     "Chicken Biryani",
+     "Chicken Fry",
+     "Andhra Meal",
+     "Thali",
+     "French Chicken"
+    ],
+    "tags": [
+     "delivery"
+    ],
+    "review_snippets": [
+     "Polammas mess is situated right opposite to Christ university's main campus. They're really famous for their Andhra meals and their Biriyani. We have tried their sholay Kabab a couple of times and…",
+     "I ordered twice from here and both the dishes were really good. I've ordered only a starter both time- French chicken and chicken roast dry. Both were good. It is a little spicy so if you don't like…",
+     "For a south Indian, who lives away from home, the food here will make you nostalgic. From the first bite I took till now, I know that if ever I miss home food, I am walking into this place. Meals…"
+    ]
+   },
+   {
+    "id": "r_aa9a0fdfa2d8",
+    "name": "Gyani Da Punjabi Dhaba",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "16, 1st Floor, CitiBank ATM Building, 100 Feet Road, 20th Main, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 1190,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Lassi",
+     "Paratha",
+     "Paneer Parantha",
+     "Butter Chicken",
+     "Punjabi Chicken",
+     "Shahi Paneer",
+     "Chicken Kolhapuri"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "A nice place to have dinner with friends. Food is awesome, staff is also very polite. Food tastes very close to Punjabi food, which is very hard to find in Bangalore. Only negative point will be…",
+     "A small restaurant n fast moving restaurants n staff were experienced n excellent. We ordered Aloo masala n Dal fry n Plain rice with jumbo Lassi. Very good taste as like i am in Punjab. The Aloo…",
+     "I have been to this place only once but I've loved every bit. The place is not much, there's minimal seating but if you are a foodie and nothing matters to you except good food, you will love it…"
+    ]
+   },
+   {
+    "id": "r_0997bf46e506",
+    "name": "Swad Punjab Da",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "324, 23rd Main, 3rd Cross, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 150,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 134,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Lassi",
+     "Veg Thali",
+     "Roti",
+     "Aloo Paratha",
+     "Egg Curry"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "quantity and quality both were good",
+     "Great Food, Nice Tasty, Authentic Punjab, Parata was simply superbb, Great Guys keep increasing the menu options and taste as well , Need Pickles for Stuff Parat",
+     "The food is really great..!! It has a home like taste, not oily and neither too spicy....!!!! Good quality and for sure recommendable to anyone looking out for having a nice decent experience."
+    ]
+   },
+   {
+    "id": "r_d6387f211c75",
+    "name": "Punjabi Swag",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "950, 16th Main Road, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 711,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Lassi",
+     "Murgh Lababdar",
+     "Chaap",
+     "Patiala Paneer",
+     "Butter Paneer",
+     "Butter Chicken",
+     "Chicken Rara"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Not up to the mark. Very average food according to the price. I had chicken masala and tandoori roti in which tandoori rotis were burnt from one side and the curry had a weird taste of masala. I…",
+     "A cool Dhaba style ambience. We opted for some special dishes so the price is a bit higher. apart from that food quality was good , quantity is also good.. We have chicken nun parathas, some special…",
+     "Awesome and unique ambience in the heart of Btm. Loved the chicken lababdar. The ambience gives u a feeling of real pujabi dhaba in Bangalore."
+    ]
+   },
+   {
+    "id": "r_a30e320c6975",
+    "name": "A2B - Adyar Ananda Bhavan",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "01, 100 Feet Ring Road, 1st Phase, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 40,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I'm a fan of their mini tiffin though it's overly priced... They use ghee in almost every dish... Quality wise A2B always checks end to end standards of the food that goes out of the kitchen which…",
+     "Have been here many a times, mostly to buy sweets from them before leaving for my hometown. Today, i ordered breakfast from them because I really like a2b's breakfast, there is one near our office…"
+    ]
+   },
+   {
+    "id": "r_0691d4fbe73c",
+    "name": "Kesar Sweet Shop and Fast Food",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "1021, 16th Main, 1st Stage, 1st Phase, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Chinese",
+     "Street Food",
+     "Mithai"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": null,
+    "budget_band": null,
+    "rating": 4.0,
+    "votes": 213,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Chole Bhature",
+     "Puri Sabzi",
+     "Chaat",
+     "Panipuri",
+     "Rasmalai",
+     "Jalebi",
+     "Pav Bhaji"
+    ],
+    "tags": [
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "They have opened a new outlet on Sarjapur Road . I had heard a lot about them hence visited this place one fine evening . We ordered chhole Bhatura, aloo paratha and lassi. The chhole bhatura was…"
+    ]
+   },
+   {
+    "id": "r_134c80ae215b",
+    "name": "PHEW (Play Hard Eat Wild)",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "240, 7th cross, 1st Main, Mico Layout, Opposite Sate Bank of India, 2nd Stage, BTM Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Continental",
+     "Lebanese",
+     "Middle Eastern",
+     "North Indian",
+     "Chinese",
+     "BBQ",
+     "Cafe"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 488,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Noodles",
+     "Shawarma",
+     "Brownie",
+     "Chicken Nachos",
+     "Veg Platter",
+     "Manchurian",
+     "Onion Rings"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Their shawarma is the best. Havent really tried any other dishes of theirs yet. Quantity is pretty less compared to the prices. An average place.",
+     "It's a small place in btm.. very average food and hospitality.. we had spring rolls, dragon rolls and so called sangria which tasted really bad.. you can avoid the place if you are in btm.",
+     "They mismatched the veg and nonveg items.this kind of behavior is not acceptable.on contacting zomato they said apologies and they hope to serve better next time. Food review:paneer was sour,the…"
+    ]
+   },
+   {
+    "id": "r_a5dc652fbb46",
+    "name": "Gorbandh",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "725,16th Main, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 86,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Aloo Paratha",
+     "Poha",
+     "Samosa",
+     "Kachori",
+     "Chaat"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I ordered Poha and Aloo Pyaaz Parantha for the first time from Gorband. As it was mentioned as Rajasthani touch restaurant I thought of giving it a shot. It was my first time and I must say the…",
+     "Have ordered from this place a couple of times, haven't been disappointed ever. The parathas are quite filling. The accompaniments are curd and one chutney, oh how much I love that chutney. If not…"
+    ]
+   },
+   {
+    "id": "r_273b23bba75e",
+    "name": "Roti Wala",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "688, 7th Main, 10th Cross Main Road, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 201,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Gulab Jamun",
+     "Buttermilk",
+     "Egg Bhurji",
+     "Sprout Salad",
+     "Roti"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Well, I never had a chance to visit the place. But these guys are surely working out some recipe seriously! I just love the food they serve. It has been, I guess 2 weeks straight, I have been…",
+     "The owner is very friendly and cooperative. The food very homely. It's extremely tasty. Price is very affordable. Everything in the menu is good. A must visit.",
+     "Soo after a tiring day, I decided to try out their food. I had ordered for a Make your own meal which comprised Dal, Vegetable curry and 4 chapatis. First things first, I really did not like their…"
+    ]
+   },
+   {
+    "id": "r_4c4a93175843",
+    "name": "Savoury - Sea Shell Restaurant",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "28, 1st Cross, Maruthi Nagar, Madiwala, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "HSR",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Arabian",
+     "North Indian",
+     "Chinese",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 468,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pulpy Grape Juice",
+     "Chicken Grill",
+     "Tandoori Chicken",
+     "Shawarma Roll",
+     "Bbq Chicken",
+     "Mutton Biryani",
+     "Tomato Soup"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Not a great reasturant , taste wise the food is between poor and ok, it's highly priced, ambience ok.. staff doesn't really give a shit wat u there for ... Been there once...don feel like goin…",
+     "One of my most go to places when am looking for fresh and tasty comfort food. Have eaten from this place god knows how many times. My all time favourite here is the porotta, it's always hot and…",
+     "I had their special chicken biryani. It was really tasty. It had lota of masala. This is one of the best biryani I've had from around my place. Really good. Had big 2 pieces of chicken with lots of…"
+    ]
+   },
+   {
+    "id": "r_22e577b041ea",
+    "name": "Chef All Nite",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "5th Cross, 4th Main Link Road, Behind Ayyappa Temple, Madiwala, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 464,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paneer Manchurian",
+     "Gulab Jamun",
+     "Noodles",
+     "Chicken Noodle",
+     "Butter Chicken",
+     "Vegetable Biryani"
+    ],
+    "tags": [
+     "delivery"
+    ],
+    "review_snippets": [
+     "Ordered baby corn Manchurian, chicken shezwan and veg noodles.... Everything was super duper spicy but tasty.. overall food was good.. just Imrove on the spicyness.. and send the ordered items.. (we…",
+     "Though I didn't go there to have the food, I ordered online, the Egg Fried Rice combo. To me it was good, definitely got the Chinese flavour. Amount was also sufficient for 1 person to eat, and…"
+    ]
+   },
+   {
+    "id": "r_f495cde82072",
+    "name": "Royal Biryani Kitchen",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "15/A, 4th Main, Behind Ayyappa Swamy Temple, Madiwala, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 197,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Dragon Chicken",
+     "Chicken Dum Biryani",
+     "Vegetable Biryani",
+     "Paneer Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "A huge order from me. Totally disappointed as it was for an occasion. None of the Biryanis I ordered was little worth. Mutton in the Biryani was not at all boiled and the rice did not taste like…",
+     "Non veg biryani was good.as expected veg was not worth.chicken biryani had a good taste.the quantity wasnt much but would suffice one person.... Packaging was nice.",
+     "Was a late night delivery order. Proper timing. Fine packaging. Prompt service. Warm food on a winter night. Hats off guys. Keep up the good work. Will keep ordering."
+    ]
+   }
+  ],
+  "scores": {
+   "r_0bf23561aeb0": 0.85,
+   "r_634ee2dcbc64": 0.658515,
+   "r_3ed737ed012c": 0.64302,
+   "r_581c433f2b7a": 0.624583,
+   "r_189caac0514c": 0.598569,
+   "r_8c20b22e24be": 0.573494,
+   "r_febca1872a52": 0.559996,
+   "r_d2d04aa96ed0": 0.549927,
+   "r_b996604a633c": 0.53174,
+   "r_2fa8b122ef00": 0.524939,
+   "r_422560f332b1": 0.520831,
+   "r_9ae84fadb599": 0.512896,
+   "r_54216ddf5ae3": 0.509577,
+   "r_6976db10fae7": 0.490049,
+   "r_aa9a0fdfa2d8": 0.464157,
+   "r_0997bf46e506": 0.445732,
+   "r_d6387f211c75": 0.444613,
+   "r_a30e320c6975": 0.432604,
+   "r_0691d4fbe73c": 0.43109,
+   "r_134c80ae215b": 0.430341,
+   "r_a5dc652fbb46": 0.429041,
+   "r_273b23bba75e": 0.428898,
+   "r_4c4a93175843": 0.428754,
+   "r_22e577b041ea": 0.428429,
+   "r_f495cde82072": 0.428138
+  },
+  "relaxations": [],
+  "total_matches": 148
+ },
+ "edit": {}
+}

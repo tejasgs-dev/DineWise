@@ -1,0 +1,731 @@
+{
+ "id": "common-04",
+ "result": {
+  "preferences": {
+   "location": "Jayanagar",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Jayanagar"
+   ],
+   "budget": "low",
+   "cuisines": [
+    "South Indian"
+   ],
+   "min_rating": 4.0,
+   "extras": "breakfast with my parents",
+   "extras_tags": [
+    "family_friendly"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_0e798753dac7",
+    "name": "Prems Graama Bhojanam",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "234, 32 A Cross, 2nd Main Road, 7th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 326,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Veg Thali",
+     "Matka Kulfi",
+     "Pongal",
+     "Buttermilk",
+     "Vada",
+     "Ragi Mudde",
+     "Curd Rice"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Located in Jayanagar 7th Block, Prem's Graama Bhojanam is a new and refreshing place to have good healthy and delicious food. We had items like Thatte Idly, Millet Paddy, Jolada Roti, Navane Rawa…",
+     "What a brilliant find! If you are in the vicinity and need a wholesome, goodness filled vegetarian meal, do drop in here. Went here for lunch today and place is a homely, neat space. It was so cute…",
+     "Have been here a few times for lunch and dinner. They are a millet based restaurant, very good for health conscious people They have dosas, rotis and rice varieties in all of which they use millets…"
+    ]
+   },
+   {
+    "id": "r_850b9e42c49a",
+    "name": "Bengaluru Cafe",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "6, 9th Cross, 9th Main, 2nd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 150,
+    "budget_band": "low",
+    "rating": 4.5,
+    "votes": 135,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Vada",
+     "Kesari Bath",
+     "Idli",
+     "Coffee",
+     "Benne Masala Dosa",
+     "Kharabath",
+     "Tea"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "There's No better feeling in the world than this crispy hot mouthwatering Masala dosa or stuffed dosa in your hand...? made from rice, lentils, potato, methi, and curry leaves, and served with…",
+     "Well this CAFE is EYE catching in jayanagar, the food here is good, options available here are - Dosa, Idly, Mangalore bajji and etc, It's actually over Hyped by a few foody blogger's for personal…",
+     "Have been hearing lot about this place so I decided to give a visit. Must say it's crowded and popular in the area. We started off with Kesari Bath which was tasty but it was too sweet. Next was…"
+    ]
+   },
+   {
+    "id": "r_4ebbe8338327",
+    "name": "Ranganna Military Hotel",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "61, 1st Floor, KR Road, 7th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 760,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Mutton Chops",
+     "Chicken Fry",
+     "Chicken Biryani",
+     "Paya",
+     "Mutton Fry",
+     "Chilli Chicken"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Pakka naati style military hotel. Had been to this place with my brother, tried Boti fry, kal soup, biryani all tasted very good. Service can be better.",
+     "Visited this place with my friend on a regular Friday 2.30 PM which is a good time to lunch. But which I gone thru was not at all expected. No biryani for 20mins but when I got biryani it was very…",
+     "Visited on my way back from work at about 8pm.. there were not many people present at this time... it must be usually crowded during the daytime ... ordered the traditional thalemamsa Fry, Keema…"
+    ]
+   },
+   {
+    "id": "r_3d504eb3ac93",
+    "name": "Mane Holige",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "Opposite Ganesha Temple Circle, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Mithai",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Sweet Shop",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 142,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Obbattu"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "For anyone who tries Holige from this place even got the first time will fall in love with it! Itwasmy first visit here and I tried (Shengha) and Coconut Holige! They serve it very fresh and hot…",
+     "4 starts because they don't have seating, otherwise it's a amazing place .....suddenly in love with holige?? tried coconut holige , daal holige and kova holige and ended up loving kova. Willing to…",
+     "Best finger licking holige available here. If you are in Bangalore and are sweet loving, do visit here. Value for money, lip smacking holige. I had coconut holige and it was lovely."
+    ]
+   },
+   {
+    "id": "r_8066cc4f69bc",
+    "name": "Brahmin Tiffins & Coffee",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "35/8, 11th Main Road, 30th Cross, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 100,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 424,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Idli",
+     "Masala Dosa",
+     "Filter Coffee",
+     "Upma",
+     "Aloo Palya",
+     "Crispy Vada",
+     "Kharabath"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "It's not a branch of the original Brahmins so don't get misleaded. However the taste is good. Plus you also get a place to sit. I liked the Masala dosa and idly.",
+     "Good idli vada and coffee. Khara bath is average. Golibaje is also available. The place has an ambience of old Bangalore days. Only cash accepted",
+     "Happen to visit here once while I was there around...also had heard a great deal about their coffees...good coffees n infact a lil on the stronger side I felt. Ample amount of seating n simple…"
+    ]
+   },
+   {
+    "id": "r_1bfcd25e5364",
+    "name": "Maiyas",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "459/30, 30th Cross, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Fast Food",
+     "Juices"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 1785,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Thali",
+     "Kharabath",
+     "Masala Dosa",
+     "Idli Vada",
+     "Vanilla Ice Cream",
+     "Bisi Bele Bhaath"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "We were here on a sunday. The time taken to provide seating was 45 minutes, which is way too long. We opted for Dosa Thali and boy were we disappointed. The tables are regular granite tables with…",
+     "Had a nice cup of filter coffee after watching the video from Delhi Food walk's Anubhav Sapra. Had to stand in a queue just for a Cup of coffee for the first time ever in my life. But it was worth…",
+     "I have been to Maiyas few years back and today went for lunch. The consistency and quality of food is great. The taste of the food is still same. Will definitely recommend this place. Service was…"
+    ]
+   },
+   {
+    "id": "r_6adc0eaf15bd",
+    "name": "Mysuru Coffee Thindi",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "764/44, 37th Cross 18th Main, 4th T Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Coffee"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 312,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Masala Dosa",
+     "Tea",
+     "Badam Milk",
+     "Vada",
+     "Idli",
+     "Raagi Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I had ordered dosa and keseribath Both were excellent and in very good quantity There package also was very good Dosa 5out5 Keseribath 5out5",
+     "One of the best breakfast n tiffin places. Idli - wadas, dosas, upmas and to top with an excellent coffee are their top selling items. I simply love this place and atleast visit it once in a month…",
+     "Been to this eat out several times only cause it is close by. This time in a bigger group, we tried idly with sambar dip, raagi roti, raagi dosa, akki roti otta, mudae gotta and coffee. Sambar…"
+    ]
+   },
+   {
+    "id": "r_3ce1b8b46d77",
+    "name": "Davangere Benna Dose Hotel",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "118,13th Main, 29th Cross, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 100,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 92,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Benne Dosa",
+     "Idli",
+     "Coffee"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "My favorite spot for benne dosa just loved it. The crispy aromatic benne dosa here is to die for and quality of food and hygiene is very good here. Ideal spot for breakfast.",
+     "Quiet a new destination in Jayanagar, hustly bustly Dosa was quiet tasty worthwhile and also made of ghee and the imp part is that it is cooked using old method of raw wood",
+     "My fav spot in Bengaluru for Benne Dosa. Just love it. The crispy aromatic benne dosa here is to die for And they serve good tea and coffee as well."
+    ]
+   },
+   {
+    "id": "r_a6e40647e344",
+    "name": "Food Springs",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "559, 32nd Cross, 10th A Main, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 233,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Honey Chilli Potatoes",
+     "Nachos",
+     "Lemonade",
+     "Hakka Noodles",
+     "Babycorn Manchurian",
+     "Mushroom Manchurian",
+     "Spring Roll"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": []
+   },
+   {
+    "id": "r_b0f3cbb3cccd",
+    "name": "Iyengar's Inn",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "A/54, 31st A Cross, 2nd Main, National College Road, 7th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 100,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 53,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Curd Rice",
+     "Bisi Bele Bhaath",
+     "Pongal"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Beautiful place to have a peaceful meal of our very own South Indian delicacies. Had been here for lunch, tried puliyogre which is like a bestseller in this place. The authentic Iyengar puliyogre…",
+     "Then only place to satisfy the cravings for melkote puliogare in jayanagar is this iyengar's inn. The use of brass utensils, balanced combination of spices and ghee make enhances the taste of every…"
+    ]
+   },
+   {
+    "id": "r_fc5e9365b602",
+    "name": "Upahara Darshini",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "Opposite Bangalore Central Mall, 9th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 167,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Vada",
+     "Coffee",
+     "Masala Dosa",
+     "Gulab Jamun",
+     "Roti",
+     "Idli",
+     "Tomato Soup"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This is located just opposite Bangalore Central mall, JP Nagar. This is totally vegetarian restaurant. The restaurant is spread on to two stored building. The ground floor section has no seating…",
+     "Normal! I?ve been here a couple of times. I?ve only tried their evening snacks. I?ve had Gobi Manchurian and Masala Puri. Gobi Manchurian was good, but the Masala puri was just passable.",
+     "Very bad experience here! Staff here are extremely rude and made us wait for 45 minutes and didn't give us the table. The ambience wasn't great too and tables and cutlery were extremely dirty."
+    ]
+   },
+   {
+    "id": "r_e0bfb7fb6fee",
+    "name": "The Krishna Grand Xpress",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "183/28, 2nd Main Road, 36th B Cross, 7th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 137,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Vada",
+     "Masala Dosa",
+     "Idli"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "There was a long waiting time for the food to get ready, we had ordered just basic north Indian and South Indian meals. The food taste was just mediocre. We also tried Arabian pulpy juice, as per…",
+     "Yesterday it was almost 10.30am still gave a try here... idly was ok... vada was nice.Chutney was really good. Sambhar average. Its a self service outlet and quick. Rates are ok.Aloo palya masala…",
+     "The Krishna grand Xpress is the Best place in Bangalore for breakfast , lunch , dinner , snacks and chats. Good ambiance. Good taste. Reasonable price. Love this place."
+    ]
+   },
+   {
+    "id": "r_e4d7445a63d0",
+    "name": "Kalpavriksha Upahara",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "1036, 26th Main, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 128,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Hygienic place, tasty food, self service and economical price.. worth for money and these people have chat counter , Chinese, North India, south India and tandoor.. almost they have all items in the…"
+    ]
+   },
+   {
+    "id": "r_024cca426b57",
+    "name": "Hatti Kaapi",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "126, Opposite Police Station, 7th Main, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 89,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Filter Coffee",
+     "Tea",
+     "Hot Coffee",
+     "Hatti Samosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Happened to visit this place after having breakfast elsewhere on a Saturday morning. It's your basic coffee/tea stall. A bit on the pricy side when compared to your normal Darshinis but the the…",
+     "Ambience - 3/5 Food - 4/5 Service - 4/5 VFM - 4/5 Parking - No Hatti Kaapi is a chain of coffee kiosks at various locations in Bangalore. We visited the Jayanagar branch one Sunday morning, after a…",
+     "Here you can find different types of coffee and snacks, the place is quite nice, best place for evening hangouts in Jayanagar, this is in front of Jayanagar 3rd block police station"
+    ]
+   },
+   {
+    "id": "r_3fc243b56b93",
+    "name": "Shree Venkateshwara North Karnataka Hotel",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "1/21, Vijaylaxmi Towers, 32 Cross, 10th Main, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 82,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Buttermilk",
+     "Thali",
+     "Brinjal Curry",
+     "Salad",
+     "Jowar Roti",
+     "Chilli Bhajji"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Best place in Jayanagar to get authentic North Karnataka food Because it tastes like home Get the special thali if you wanna taste everything It's definitely worth the price",
+     "Shree Venkateshwara North Karnataka Hotel jaynagara 4th block. the place is usually crowded but worth it. One of the best place for uttara Karnataka food. its in heart of jaynagara 4th block. its…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_0e798753dac7": 0.698687,
+   "r_850b9e42c49a": 0.666,
+   "r_4ebbe8338327": 0.519042,
+   "r_3d504eb3ac93": 0.489586,
+   "r_8066cc4f69bc": 0.477417,
+   "r_1bfcd25e5364": 0.4,
+   "r_6adc0eaf15bd": 0.365561,
+   "r_3ce1b8b46d77": 0.278844,
+   "r_a6e40647e344": 0.254776,
+   "r_b0f3cbb3cccd": 0.24,
+   "r_fc5e9365b602": 0.231099,
+   "r_e0bfb7fb6fee": 0.217043,
+   "r_e4d7445a63d0": 0.212224,
+   "r_024cca426b57": 0.186501,
+   "r_3fc243b56b93": 0.180715
+  },
+  "relaxations": [],
+  "total_matches": 15
+ },
+ "edit": {}
+}

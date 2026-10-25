@@ -1,0 +1,1278 @@
+{
+ "id": "unverifiable-02",
+ "result": {
+  "preferences": {
+   "location": "Whitefield",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "ITPL Main Road, Whitefield",
+    "Varthur Main Road, Whitefield",
+    "Whitefield"
+   ],
+   "budget": null,
+   "cuisines": [],
+   "min_rating": 4.0,
+   "extras": "open after midnight and pet friendly",
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_11ee80b40b1c",
+    "name": "Flechazo",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "120 A3, 2nd Floor, Santosh Tower, EPIP Industrial Area, Phase 1, Hoodi Village, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Asian",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 3004,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Mutton Kebab",
+     "Chicken Biryani",
+     "Sea Food",
+     "Chicken Dim Sum",
+     "Pasta",
+     "Mocktails"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Last week I had a Team launch at Flechazo. First of all, the ambience is superb here! A perfect destination for such gatherings. The food was really good. I would definitely recommend to try Lamb…",
+     "Visit this place for teem lunch. I had great experience to Flechazo. They have good buffet great hospitality. Good veg and nonveg stastar. Nice service friendly attitude..... Awesome.... Ambiance",
+     "Finally visited this place. Liked everything about the food. Place was a bit crowded. Sushi is must try and chat was good too. Paan ice cream is must try. Overall very much satisfied with the foood"
+    ]
+   },
+   {
+    "id": "r_079d1ac3cfe9",
+    "name": "AB's - Absolute Barbecues",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "2nd Floor, I20-A2, EPIP Zone, Near Vydehi Hospital, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "European",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 3009,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Roganjosh",
+     "Mutton Keema",
+     "Mutton Curry",
+     "Macaroon",
+     "Paan Ice Cream",
+     "Sea Food",
+     "Biryani"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The best buffet I would say in Bangalore.. cause they have so much variety and exotic dishes.loved the food and the service is also pretty good.",
+     "Visited this place for a team lunch. The barbecue starters were very good. They served veg kebab, crispy corn, barbecued fruits and paneer. The main course had relatively less choices but was…",
+     "Booked a table 2 days ago and the customer support is good. Has many buffet offers as we went on early bird offer there was a complementary drink however it was only beer and whisky but I don't know…"
+    ]
+   },
+   {
+    "id": "r_4190b5a55fe5",
+    "name": "Biergarten",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "2, Doddanekkundi, Whitefield Road, Mahadevpura, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Continental",
+     "European",
+     "BBQ",
+     "Chinese",
+     "Asian"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 2400,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 7064,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Wheat Beer",
+     "Risotto",
+     "Craft Beer",
+     "Caesar Salad",
+     "Pizza",
+     "Hefeweizen",
+     "Cheesy Garlic Bread"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We had been here on a Tuesday afternoon for lunch, the beer served is crisp and fresh. We ordered fish and chips and Thai curry, the food was tasty. Cons- Ambience isn't that great. The place isn't…",
+     "This is my second visit at Biergarten and the first time with my husband on occasion of his birthday. We enjoyed the starters and was full with it as the portion size is amazing. The BBQ chicken…",
+     "Great atmosphere on weekends. Must visit for the ambience and food. They have their own brewery so don't forget to try their beers! Have been there quite a few times and I'm never disappointed."
+    ]
+   },
+   {
+    "id": "r_a3c05497e03f",
+    "name": "Punjab Grill",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Ground Floor, Forum Shantiniketan, Whitefield Main Road, Hoodi, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 654,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Kulfi",
+     "Lunch Buffet",
+     "Murgh Lababdar",
+     "Kadhai Paneer",
+     "Dahi Kebab",
+     "Lassi",
+     "Butter Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This place is a must visit for all north indian foodies. The food is delicious and they taste perfect. We ordered paneer lababdar, nalli nihari, naan, tandoori roti for main course and rasmalai and…",
+     "What a costly food it was 675 rs chicken tikka. 675 chicken curry too much costly. But taste and service was good. Ambience is great. They provided charger point at wall side tables. Food was tasty…",
+     "Nice ambience, very polite staff but the glasses in which they served water had some dirt in it which they changed quickly after I told them and also the price of the food compared to the quantity…"
+    ]
+   },
+   {
+    "id": "r_84524fdaa324",
+    "name": "Windmills Craftworks",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "331, Road 5B, EPIP Area, Next to KTPO, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "American",
+     "North Indian",
+     "Salad"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 5954,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Keema Pav",
+     "Cocktails",
+     "Craft Beer",
+     "Pork Chops",
+     "Mocktails",
+     "Hefeweizen",
+     "Nachos"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "A review for Windmills has been a long overdue for me. For me Windmills is not just any joint but one where I am sure if I visit I'll feel relaxed and at ease. That's how it has been for a few years…",
+     "Amazing ambience! The music .. jazz! Everything gives the place a touch of calmness much needed to break the humdrum of the hustling cityy! Food was great! drinks were one of their kind ! Staff…",
+     "I have been here multiple times and in fact yesterday I was there for dinner with my friends. It's a very sophisticated restaurant and the Ale is excellent. They probably make the best fresh beer in…"
+    ]
+   },
+   {
+    "id": "r_a18973cb7e06",
+    "name": "Mainland China",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "28/2, 1st Floor, Siddapura, Whitefield Main Road, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 1562,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Jumbo Prawns",
+     "Tai Pai Chicken",
+     "Singapore Noodles",
+     "Wine",
+     "Chilli Chicken",
+     "Cocktails",
+     "Chicken Dim Sum"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Subol served us. The food and the service were both very good. I had an awesome time with my friends. This place provides a bang for your buck.",
+     "Thank you so much for making my parents anniversary an epic moment!! Brilliant service and ambience. The food was delicious with authentic flavors! The soups are a must try. Kudos to our server Mr…",
+     "This place was in my bucket list for a long time and finally was there.We went with buffet.Proper chinese food.Wide range of food varieties are available if you go with buffet.Starters are way too…"
+    ]
+   },
+   {
+    "id": "r_936598a7acae",
+    "name": "Chili's American Grill & Bar",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "20, Ground Floor, Phoenix Market City, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "American",
+     "Tex-Mex",
+     "Burger",
+     "BBQ",
+     "Mexican"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 4957,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Tex Mex",
+     "Burgers",
+     "Chaap",
+     "Cocktails",
+     "Chaat",
+     "Mushroom Soup",
+     "Pork Ribs"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This joint is quite small compared to its other outlets, and being in a mall it is pretty crowded. But the food and drinks are simply mesmerizing. Ordered veg tacos and smoked pasta which were…",
+     "It's a good to see the view from the chill's open out door area in phoenix market city mall we have ordered the ceaser salad & fries as well it's testy good service there I will to visit this…",
+     "This place is for Mexican food lover's,,**,, Yumm foods filled with yummy cheese and spicy jalapenos !!! Ambience was based over the American decor with good view of the mall...... Seiboy was too…"
+    ]
+   },
+   {
+    "id": "r_92ef49e4c59c",
+    "name": "BelgYum",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "2nd Floor, Phoenix Market City, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.6,
+    "votes": 1822,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Cappuccino",
+     "Coffee",
+     "Hot Chocolate",
+     "Mango Waffles",
+     "Nutella Waffle",
+     "Belgium Waffles",
+     "Chocolate Waffles"
+    ],
+    "tags": [
+     "desserts"
+    ],
+    "review_snippets": [
+     "Those waffles steal the show, nuff said A brightly lit shop on the second floor of Phoenix Market City, BelgYum doesnt show off too much on the decor front. Theres a clean, open kitchen done up…",
+     "One of the best rated waffle outlets in bangalore. And for good reason. They always have a large crowd but they put out orders just as quickly. All their waffles have a signature taste that's pretty…",
+     "This little waffle shop is on the top most level of Phoenix market city by the food court. They have some high stools and a white counter where you can sit and see the staff whip up some delicious…"
+    ]
+   },
+   {
+    "id": "r_662a35286b5c",
+    "name": "Maziga",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "3rd Floor, VR Mall, B Narayanapura, Mahadevapura, ITPL Main Road, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Modern Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 292,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mocktails",
+     "Fish",
+     "Biryani",
+     "Dal Makhani",
+     "Wine",
+     "Risotto",
+     "Chaat"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": []
+   },
+   {
+    "id": "r_692b63e2fd8b",
+    "name": "You Mee",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Ground Floor, Forum Shantiniketan, Whitefield Main Road, Thigalarapalya, Hoodi, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Sushi",
+     "Japanese",
+     "Chinese",
+     "Thai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 277,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Ramen",
+     "Sushi Platter",
+     "Sushi Bar",
+     "Pork Dumplings",
+     "Maki Roll",
+     "Japanese Green Tea",
+     "Thai Red Curry"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I've been searching to try Ramen in banglore for a longtime and finally found Youmee. Very good restaurant with different Japanese cartoon art ambience.. Food was served in a luxury bowl(China bowl)…",
+     "What an amazing experience!! I am a big time jap food lover, So trying this place was on my list since the time yo Mee was opened in forum. Talking about the food. Sushi- We started with shushi - &…",
+     "Felt very happy that authentic sushi place has opened nearby. Food: Ordered three different varieties of sushi and loved it all. Sushi presentation and taste is excellent. First time, I liked crab…"
+    ]
+   },
+   {
+    "id": "r_6fe4a445b514",
+    "name": "Chianti",
+    "city": "Bangalore",
+    "locality": "ITPL Main Road, Whitefield",
+    "address": "1, Ground Floor, Ascendas Park Square Mall, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 848,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Pasta",
+     "Salads",
+     "Potato Mash",
+     "Bruschettas",
+     "Blueberry Cheesecake",
+     "Virgin Pinacolada"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Had visited this place on a Monday night. I was restricted to having veg this day . So tried the raviolli with smoked cheese and mushrooms. Venture pizza. Raviolli is a must try here. Pizzas were…",
+     "My go to place for Italian in Whitefield! Everything about the restaurant is great - food, ambience and service. It being in mall is a slight disappointment but then life is all in a mall. I love…",
+     "It's very cool place to visit in park square. We went for lunch from office. So, we had to get back to work in an hour! This place is not for such quick visits. It's a wonderful ambiance and you can…"
+    ]
+   },
+   {
+    "id": "r_f5a2f31302f0",
+    "name": "The Pallet",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "HVP Crest, ITPL Main Road, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Continental",
+     "Mediterranean",
+     "Italian",
+     "North Indian",
+     "Finger Food",
+     "Asian",
+     "Momos"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 2745,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Craft Beer",
+     "Wine",
+     "Chilli Chicken",
+     "Wedges",
+     "Lamb",
+     "Cocktails",
+     "Masala Peanuts"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We visited this place on a Sunday evening, it is a closed place with immense wood work. Place was pretty crowded and noisy and too of that the DJ was playing random music at very high volume, it was…",
+     "Incredible place! Very large seating area. Amazing service, and food was absolutely fantastic. Each and every dish ordered was delicious. Good dancing space. DJ was amazing!",
+     "We went for Sunday brunch. The variety in the buffet menu was less, also, the menu was more like a lunch buffet than a brunch. Starters included crispy corn, veg kabab, seekh kabab, chicken tikka…"
+    ]
+   },
+   {
+    "id": "r_eab59686801b",
+    "name": "Galito's",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "120, Ground Floor, EPIP Zone, Near BMTC Bus Depot, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "African",
+     "Burger",
+     "Desserts",
+     "Beverages",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.6,
+    "votes": 595,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Garlic Bread",
+     "Peri Peri Chicken",
+     "Burgers",
+     "Chicken Grill",
+     "Chicken Wings",
+     "Peri Fries",
+     "Mocktails"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "One of my most favourite places to order from. Their tagline is 'Bold African Flavours' and you realize they are not kidding about BOLD when you realize how high their spicometer goes. And this is…",
+     "Galitos was a different experience for me! They has a different flavour to each and every dishes they served. Good Ambience and staffs to explain you the correct dish for you! I had tried some…",
+     "I have been here once. As per reviews by other users it is a nice place to have quick bites but my taste buds were not happy at all. Considering north indian taste buds, I would not recommend this…"
+    ]
+   },
+   {
+    "id": "r_e26cf6789a9e",
+    "name": "Oota Bangalore",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "331, 5B, EPIP Zone Landmarks, Near L&T Infotech, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 478,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Cocktails",
+     "Craft Beer",
+     "Chicken Sukha",
+     "Murgh Ghee Roast",
+     "Biryani",
+     "Neer Dosa",
+     "Vada"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Amazing and sumptuous ambience with a decent and sofisticated crowd if I may say. If you are someone who has this impression that South Indian food only means Idli and Dosa.. you will be amazed by…",
+     "Visited this place on a Friday night. We actually went to windmills and because of their bad service we decided to head to oota! The place looks so glamorous. Very well set up, extremely nice staff…",
+     "From the time of making booking to walking in is handled well. A soothing ambience welcomes you . Service was good and attentive. The fooddddd is amazingggg. They do give you a heads up of like 20…"
+    ]
+   },
+   {
+    "id": "r_d063408b24fd",
+    "name": "Bloomsbury's Global Kitchen & Bakehouse",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Ground Floor, EPIP Zone, Near BMTC Bus Depot, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "American",
+     "Cafe",
+     "Continental",
+     "French",
+     "Burger",
+     "Mexican",
+     "Desserts",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 756,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Cheesecake",
+     "Burgers",
+     "Pasta",
+     "Waffles",
+     "Veg Burger",
+     "Chocolate Cake"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Been here for a lunch on a weekend and the place really lived up to the expectations. Decor is very subtle, elegant and cafe like.. Food and the pricing is the highlight. Value for money for sure…",
+     "This is best place to have pastries and cake. I love this place a lot and visited first time. I had ordered eggless butterscotch slice cake and Blueberry Cheese Slice,both the cake slices were…",
+     "Excellent ambience and polite staff and good food especially the chicken sliders are tasty. It's nice to see that they have an elaborate menu to choose from and the service is amazingly fast! Must…"
+    ]
+   },
+   {
+    "id": "r_11aa3f931f91",
+    "name": "Imperio Restaurant",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Near Forum Value Mall, Prestige Ozone, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Arabian",
+     "Mughlai",
+     "Biryani",
+     "Seafood",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 2382,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Chocolate Sizzler",
+     "Mutton Curry",
+     "Egg Masala",
+     "Shawarma",
+     "Barbeque Chicken",
+     "Mutton Biryani",
+     "Crab Toast"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Yesterday went imperio Whitefield near forum value mall. I ordered shawarma + hyderabadi mutton biryani + non-veg thali. Everything was fine.",
+     "Good option for quick meal .. service is super fast and ambience is decent.. Try out the Malabari cuisine and Grilled dishes.. best thing is that it is open till late night. Thumbs up.",
+     "Good food. Pocket friendly place. Must try the Al fahm and falooda here. Friendly staff. Easily locatable. Nice place to have a calm economical good in group."
+    ]
+   },
+   {
+    "id": "r_7437c127b3a7",
+    "name": "Barbeque Nation",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "1st Floor, Ascendas Park Square Mall, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 2131,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Paneer Tikka",
+     "Fish",
+     "Mutton Curry",
+     "Coffee",
+     "Paan Kulfi",
+     "Mango Ice Cream",
+     "Pasta"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The name says it all if you want to have perfect barbeque then you should visit barbeque nation. They have got perfect non veg and veg starters only thing is that there staff is bit clumsy for the…",
+     "Not a good experience this time at BBQ nation. We were around 25 for team lunch at 11:30am. They serve initially foods which were not fresh. After we objected they started giving fresh and good…",
+     "Visited today not taking bookings for 2 pax waiting is also so long staff is also not cooperative. Not all recommended they are just seeking for only families and more number of people only for them…"
+    ]
+   },
+   {
+    "id": "r_c05ab78bf7dc",
+    "name": "Onesta",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Virginia Mall, 4th Floor, 10,11& 12/1, Ramagondanahalli Village, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 2110,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Margarita",
+     "Chicken Tikka",
+     "Chocolate Pizza",
+     "Prawn Ravioli",
+     "Mocktails",
+     "Potato Wedges",
+     "Tiramisu"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I went here for my nephew's birthday party. We had a great time. Food is good. Desert selection could be better. Ambience is kid. I was with an infant and found the place/staff to be kid friendly.",
+     "On a search for jalapeo cheese balls, I ended up ordering from this place.. I had ordered the following : Jalapeo cheese balls Chicken tikka pizza Herbed potato wedges Virgin mojito The jalapeo…",
+     "Firstly, I loved the ambience, it's on 4th floor of Virginia mall Whitefield .its a new outlet I guess, the staff was very courteous. The staff suggested us to go for 299 unlimited pizza offer plus…"
+    ]
+   },
+   {
+    "id": "r_252c8687896d",
+    "name": "Salt - Indian Restaurant - Bar & Grill",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "3rd Floor, VR Mall, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 2073,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Murgh Platter",
+     "Dessert Platter",
+     "Chicken Sizzler",
+     "Tiramisu",
+     "Lobster",
+     "Mocktails",
+     "Vegetable Biryani"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "After reading some really good reviews, I really thought of exploring this place. The ambience is quite inviting and the staff has definitely pleasing and courteous behavior. Now for the food, we…",
+     "Situated in VR MALL Bengaluru, this is nice place to have quiet family dinner. The ambience is nice dim light setting with open air seating options too. Staff is polite and prompt. Food is tasty but…",
+     "Visited Salt with my Mom and Husband on 2017 June. Quite a luxurious ambiance with great food. Basically this is a perfect example of fine dining. All the tables had separate lights and also table…"
+    ]
+   },
+   {
+    "id": "r_a37f2cdf7cef",
+    "name": "Red Rhino",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "4th Floor, Uptown Square, Seegehalli, Near Alliance 10 Downing Villas, Hoskote Road, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Continental",
+     "Mediterranean",
+     "South Indian",
+     "North Indian",
+     "Asian"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Pub"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 1980,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Beer",
+     "Margarita",
+     "Long Island Iced Tea",
+     "Cocktails",
+     "Pizza",
+     "Churros",
+     "Mocktails"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Red Rhino is a Brewery located off Whitefield and far from the hustle and bustle of the city. It is spread across 2 floors and I guess 25% of this area has the brewery housed. They are known to make…",
+     "Now we had heard so many good things about this place and maybe it was our high expectations or they were having a bad day, but overall this was a disappointment when we went there last Saturday for…",
+     "This was my third visit to Red Rhino. It is one of the best option you have around Segahalli, Bangalore. We went in with a group of 7 people and had a great time. We all had wheat beer and it was…"
+    ]
+   },
+   {
+    "id": "r_ab9a5130a4f3",
+    "name": "Feast - Sheraton Grand Bengaluru Whitefield Hotel &...",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center, Prestige Shantiniketan, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Continental",
+     "Asian",
+     "South Indian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 523,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Vegetable Biryani",
+     "Lamb",
+     "Pizza",
+     "Idli",
+     "Fish",
+     "Lunch Buffet",
+     "Butter Naan"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Good food and ambience.. Better than other five star hotel buffet spreads... Highlights are the desserts of this place.. Must try.. Gave my birthday party here today.. It was totally worth it",
+     "Went with my team for lunch. Best Ambience. Quite a lot of options from different cuisines for buffet. Andhra food Fest was going on then. Food wasn't that great and not worth the price.",
+     "An awesome Sunday afternoon lunch What a variety and food. It was an impromptu visit, and simply worth every penny spent. It was a wide spread, with amazing variety..superb fusion of food"
+    ]
+   },
+   {
+    "id": "r_4df3ab15550e",
+    "name": "Mooch Marod",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Prashanthi Complex, Channasandra, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 4.5,
+    "votes": 504,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Chaach",
+     "Sweet Lassi",
+     "Onion Paratha",
+     "Chicken Parantha",
+     "Vegetable Paratha",
+     "Aloo Methi"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Polite and friendly. Delicious paratha with awesome lassi. The most important thing I like about this place is service , staff and lassi. I love it",
+     "One of the best places and must visit in Bangalore. If you love North Indian paranthe, then this place is one to be in the list for sure. Must try their challenges, which I think are a fun way to…",
+     "After heard about this place, we decided to go for dinner.... Nd it was really great experience i just loved it... Mooch marod is an authentic parantha place in Bangalore which serves biggest nd…"
+    ]
+   },
+   {
+    "id": "r_65f32d84a770",
+    "name": "Shizusan Shophouse & Bar",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Level 2, Phoenix Marketcity, Mahadevpura, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Asian",
+     "Japanese",
+     "Vietnamese",
+     "Korean",
+     "Chinese",
+     "Thai"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 1313,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "California Roll",
+     "Cocktails",
+     "Mocktails",
+     "Maki Roll",
+     "Noodles",
+     "Veg Sushi",
+     "Momos"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Wanted to try this place for Asian cuisine. Ambiance: Nice but temperature was not very soothing. Food: We ordered Pulled Pork dumplings that was just fine. Pork Bao was really good though. Chicken…",
+     "Intended rating : 3.5 Food - 3.5/5 Ambience - 3.5/5 Service - 4/5 Hygiene - 4.5/5 Staff behaviour - 4.5/5 This is in Pheonix Marketcity. The Zomato menu is incorrect, that is from their Pune branch…",
+     "Great place for asian food lover Pros: calm and quiet place, authentic asian flavor Cons: little costly, variety is little less as per me. Visit this place if you want to try asian cuisine or if you…"
+    ]
+   },
+   {
+    "id": "r_935bd3ea6d87",
+    "name": "eat.fit",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "32/2G, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "North Indian",
+     "Biryani",
+     "Continental",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 1061,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Hyderabadi Chicken",
+     "Murgh Khurchan",
+     "Rajma",
+     "Brownie Chocolate",
+     "Cabbage Salad",
+     "Raita",
+     "Chicken Curry"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Eat.Fit, Whitefield, Bangalore ( Doddanakundi) . I ordered a dal Makhni meal from this outlet which had the following contents; - Dal Makhni - Lachha Parantha - vinegar onions and green chilly . Dal…",
+     "Fantastic, healthy food, extremely well-packaged and delicious food. There is less oil and the food is extremely high quality. If you're in the mood to eat some delicious brekkie, lunch or dinner…",
+     "I placed an online order for chicken grilled n noodles.I received it on time but it's extremely salty n spicy .Also the superfood mentioned is missing .Since my last 2-3 orders superfood is missing."
+    ]
+   },
+   {
+    "id": "r_87a41d543bf8",
+    "name": "Nasi And Mee",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "1B, 3rd Floor, VR Bangalore, Mahadevapura, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Malaysian",
+     "Thai",
+     "Singaporean",
+     "Asian",
+     "Chinese",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 908,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Noodles",
+     "Dumplings",
+     "Jumbo Prawns",
+     "Nasi Goreng",
+     "Papaya Salad",
+     "Sushi",
+     "Momos"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I love this place! The ambience is brilliant and their food is par excellence. I love their prawns and okra dish. Their mee laksa and spicy noodle soup is also brilliant. I adore their cocktails…",
+     "Very bad service and live music. The food is good but not authentic as everything on their menu is on the sweet side. The arrangement and ambiance of the restaurant can be improved, not good for a…",
+     "After a long day at shopping, went to this place for lunch. Maybe I am saying this because I recently had authentic Nasi Goreng in Bali, but the one here was not very convincing. But for what we can…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_11ee80b40b1c": 0.664216,
+   "r_079d1ac3cfe9": 0.614286,
+   "r_4190b5a55fe5": 0.6,
+   "r_a3c05497e03f": 0.55045,
+   "r_84524fdaa324": 0.542846,
+   "r_a18973cb7e06": 0.536855,
+   "r_936598a7acae": 0.535176,
+   "r_92ef49e4c59c": 0.493296,
+   "r_662a35286b5c": 0.466776,
+   "r_692b63e2fd8b": 0.464577,
+   "r_6fe4a445b514": 0.461309,
+   "r_f5a2f31302f0": 0.460444,
+   "r_eab59686801b": 0.446498,
+   "r_e26cf6789a9e": 0.437351,
+   "r_d063408b24fd": 0.406508,
+   "r_11aa3f931f91": 0.404509,
+   "r_7437c127b3a7": 0.39985,
+   "r_c05ab78bf7dc": 0.399436,
+   "r_252c8687896d": 0.398695,
+   "r_a37f2cdf7cef": 0.396775,
+   "r_ab9a5130a4f3": 0.391109,
+   "r_4df3ab15550e": 0.389563,
+   "r_65f32d84a770": 0.379591,
+   "r_935bd3ea6d87": 0.370679,
+   "r_87a41d543bf8": 0.364167
+  },
+  "relaxations": [],
+  "total_matches": 146
+ },
+ "edit": {}
+}

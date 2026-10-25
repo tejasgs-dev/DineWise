@@ -1,0 +1,1302 @@
+{
+ "id": "non-english-01",
+ "result": {
+  "preferences": {
+   "location": "Indiranagar",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Indiranagar"
+   ],
+   "budget": "medium",
+   "cuisines": [],
+   "min_rating": 4.0,
+   "extras": "बच्चों के साथ जाने लायक जगह",
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_ff9e89f903a3",
+    "name": "Santé Spa Cuisine",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "151, 2nd Cross, Domlur 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "Salad",
+     "Mediterranean"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.9,
+    "votes": 246,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Biryani",
+     "Tomato Soup",
+     "Farm Pizza",
+     "Dumplings",
+     "Lemonade",
+     "Salad",
+     "Smoothie Bowls"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I visited this lovely place recently and loved the food and ambience. I had lemondaes in two colors ; charcoal and pink. Both were refreshing. Fruit and Nut bhel was simply awesome. Spinach Hummus…",
+     "Healthy can be tasty. Sant Spa Cuisine definitely changed our perspective. We had a meal here the other day and it changed our life. We were offered detox shots (cucumber & mint water) as soon as we…",
+     "Food here was very delicious and we were very much surprised with the range of vegetarian dishes that they had to offer.10/10 for the food But the service here was extremely slow,it took almost half…"
+    ]
+   },
+   {
+    "id": "r_56dfcc85044b",
+    "name": "Smoor",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "1131, 100 Feet Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Cafe",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.6,
+    "votes": 1732,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Hot Chocolate",
+     "Chocolate Pastry",
+     "Cheesecake",
+     "Coffee",
+     "Chocolate Sundae",
+     "Chips",
+     "Mumbai Sandwich"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Getting straight to the point, the food is simply amazing. Yes, one might think the nothing can go wrong with chocolates, vanilla, ice creams, sauces, etc. But this, is exceptional. The cakes we had…",
+     "A haven for the desserts and chocolate lovers, Smoor touches all the right chords and how! The patisserie is visual merchandising at its best! Different types of chocolate bars, cookies, pastries…",
+     "Great food the Caesar salad was bliss Great ambiance Nice atmosphere Staff is very friendly Service is fast Food is great Will recommend"
+    ]
+   },
+   {
+    "id": "r_f0e9ba1f10a3",
+    "name": "Truffles",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "1st Stage, 100 feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Burger",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.6,
+    "votes": 1313,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Pasta",
+     "Crunchy Veg Burger",
+     "American Cheese Burger",
+     "Peri Peri Chicken Burger",
+     "Mojito",
+     "Chicken Paprika"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "We went on a Tuesday evening .Not very much crowded .Nice sitting place .Every single item we ordered had great taste and presentation .Special mention to creamy cheese pasta ,Choco frappe ,nachos…",
+     "Pocket Friendly food worth dying for. The service is real quick and the ambience is decent, what more do you need. The place is good to go, and stuff yourself, and satisfy all your food cravings!",
+     "Truffles is by far the best place to go to in the fanciest of locations to get really good, cheap food. I've gone here and to the other Truffles outlets multiple times and no dish has ever…"
+    ]
+   },
+   {
+    "id": "r_06982603f6fd",
+    "name": "Stoner",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "50, Zatakia Centre, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Pizza",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 550,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 2699,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Tiramisu Ice Cream",
+     "Chocolate Overload",
+     "Paneer Tikka Pizza",
+     "Hot Chocolate",
+     "Chicken Chilli Pizza",
+     "Mango Tango",
+     "Chocolate Lava"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "My all time favourite place when I just feeling like going out in the night and spending some time with my friends. What I love about is this place is that it's bustling with people but at the same…",
+     "Amazing flavors of ice cream with great quantity. Ordered Chipotle pizza, Italian chaska pizza, monkey business, blueberry Bliss and Nutella cheesecake. The quantity of ice cream is delightful. And…",
+     "Ordered the mango and the chocolate overload ice-creams, both of which were very good. Good consistency in the ice cream and the flavouring and the sugar were on point. They were packaged well as…"
+    ]
+   },
+   {
+    "id": "r_47f303deb8e2",
+    "name": "Bologna",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "759, 1st Floor, 100 Feet Road, Indira Nagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 769,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Tiramisu",
+     "Pasta",
+     "Pizza",
+     "Lasagne",
+     "Sea Food",
+     "Ravioli",
+     "Bruschettas"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "How can a restaurant just get all the factors right?? Well, you ought to make a visit to Bologna to understand that.. We were there on a weekday and the restaurant was running full. And still, we…",
+     "A friend tried this place and gave great reviews. The dcor, the ambiance, gives a very Italian-diner like feel. The menu was varied, lots of options. My friend had the Panzanella, which was quite…",
+     "Had been here for dinner and had a really good experience. The staff were very friendly and food was pretty good. We had ordered Red Wine Sangria and Black German Pinot Noir. The sangria was good…"
+    ]
+   },
+   {
+    "id": "r_ab4d548b2138",
+    "name": "Glen's Bakehouse",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "297, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Bakery",
+     "Cafe",
+     "Italian",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Bakery",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 5352,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Pizza",
+     "Cheesecake",
+     "Pasta",
+     "Potato Salad",
+     "Sandwiches",
+     "Chicken Pot Pie"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "I loved the decor and the ambiance... The staff was pleasant and responsive... We had - 1. Hot dog 2. Chocolate Macaron 3. Kiwi-Lemon bash The chocolate macaron was good and tasty... The Kiwi-Lemon…",
+     "The best cafe in Bangalore.One of the best in town and must try cake then you are here. It is very soft and fluffy and just melt in your mouth. Red velvet cup cakes and chocolate pastries are must…",
+     "Glen's bakehouse tops the list for most pastry and cake lovers. Their red-velvet cake is much talked about and is my absolute favourite among all the places I've tried so far. Some people like the…"
+    ]
+   },
+   {
+    "id": "r_ef7cbaface80",
+    "name": "Onesta",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "501, Binnamangala Extension, 1st stage, C.M.H Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 4709,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Bbq Pizza",
+     "Choux Pastry",
+     "Bbq Chicken",
+     "Tiramisu",
+     "Barbeque Chicken",
+     "Chicken Calzone",
+     "Pasta"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Ordered garlic bread and margarita pizza from here, the delivery was prompt and the packaging was neat. The pan crust pizza tasted good with right blend of cheese. althingsbeautiful.wordpress.com",
+     "I took my team here, we were bored of north indian food and wanted to try something else, so pizza came to our mind, place is famous for their unlimited pizza offer, I would say they have a…",
+     "Very good food and service.Polite staff and great green ambience. We came here a lot many times The new menu is good and pocket friendly but I miss my Prawn pesto pizza"
+    ]
+   },
+   {
+    "id": "r_688767dc4a57",
+    "name": "Lazy Suzy",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "36, 80 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Beverages",
+     "Burger",
+     "Desserts",
+     "Pizza",
+     "Bakery",
+     "European"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Bakery"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 1262,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Hot Chocolate",
+     "Pizza",
+     "Sandwiches",
+     "Pancakes",
+     "Mushroom Pasta",
+     "Pasta Salad",
+     "Sandwich"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Absolutely loved the ambience..the hot chocolate was amazing.....the best I have had. The eggs and the salad were pretty sumptuous too. Highly recommended....if you are in Bangalore, this is one…",
+     "Nice Relaxing cafe. Good for some brunch. Really liked the eggs benedict. The lamb burger was okay, we had asked them to add bacons which they forgot, and meat didn't taste that well. The herbed…",
+     "The ambience is very cute and the service is good. I absolutely loved the hot chocolate here. Pizza and salad were quite good as well. Overall a great experience here."
+    ]
+   },
+   {
+    "id": "r_294523a63b6e",
+    "name": "Lavonne",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "#263, Domlur 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Desserts"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 1132,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Burgers",
+     "Croissants",
+     "Cheesecake",
+     "Pasta",
+     "Sandwich",
+     "Spaghetti"
+    ],
+    "tags": [
+     "cafe",
+     "desserts"
+    ],
+    "review_snippets": [
+     "One of those places which desrves more than 5 stars. Amazing \"European \"themed decor. Plenty of seating options.. from sofas to arm chairs to wood chairs. Friendly and helpful staff. And of course…",
+     "After going through all reviews, I got a chance to get parcel. Firstly, desserts are great!! Likewise awesome taste awesome.. But I expected croissants to be very good, but disappointed. It look…",
+     "Lovely cafe and a wide range of desserts to try. Loved what ever we tried. But not much options for vegetarians. Overall it's a nice place for desserts."
+    ]
+   },
+   {
+    "id": "r_e64b2b13734e",
+    "name": "eat.fit",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "1/8, 1st Stage, 1st Cross, KK Computers Building, Shri Krishna Temple Road, Indiranagar, Bangalore",
+    "zones": [
+     "Frazer Town",
+     "Indiranagar",
+     "Kammanahalli",
+     "Lavelle Road",
+     "MG Road",
+     "Old Airport Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "North Indian",
+     "Biryani",
+     "Continental",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 882,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Salads",
+     "Sandwiches",
+     "Chicken Curry",
+     "Dal Makhani",
+     "Paratha",
+     "Noodles",
+     "Apple Mojito"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Curated menu for people who wants to eat clean. After a long over due, ordered lunch menu. Chefs special chicken thali and Chicken keema parantha wrap-Sufficient for 2people. Food quality-Good…",
+     "My expectations was far from meeting. The food was blunt. Although the quantity was good for 2 the taste of it was not satisfactory. It did not feel fresh.",
+     "Generally the food quality is good. But, today something was amiss. Ordered Hakka noodles and chilli chicken. There can be no Hakka noodles if you pour the chilli chicken gravy on the noodles. Not…"
+    ]
+   },
+   {
+    "id": "r_3a396687f2c6",
+    "name": "Maravanthe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "322/1, 1st Floor, CMH Road, Indiranagar, Bangalore",
+    "zones": [
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Seafood",
+     "Mangalorean"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 711,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Neer Dosa",
+     "Sea Food",
+     "Fish",
+     "Murgh Ghee Roast",
+     "Anjal Masala Fry",
+     "Prawn Ghee Roast",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The mangalorean in me was wishing to have the authentic food. The food was awesome and a clean restaurant in the busy streets of Indinagar. Loved it.",
+     "Very easy to locate this place . In first floor , with a warm ambience . Nice place to try the fish varieties . Coastal food at its best . Value for money !",
+     "Our quest for great coastal food led us to Maravanthe in Indiranagar. We were invited to sample some of their most popular Mangalorean dishes! We started of with a Crab soup, pretty standard- crab…"
+    ]
+   },
+   {
+    "id": "r_a69dddc8312d",
+    "name": "Monet's Bistro",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "9B, Binnamangala, Manavarthekaval, Michealpalya, 80 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 198,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Macaroon",
+     "Eclair",
+     "Coffee",
+     "Sandwich",
+     "Fries",
+     "Hot Chocolate"
+    ],
+    "tags": [
+     "cafe"
+    ],
+    "review_snippets": [
+     "Really nice place! Very simplistic and pretty ambiance, service was really good, and food was really nice. The moist chocolate coconut cake really deserves a mention. The burrito bowls are nice too…",
+     "This is a casual and well done up European style cafe. The interiors are simple and tastefully done. Their drinks and foods are good and well propotioned coupled with good and friendly staff. A good…",
+     "Visited this place recently for my lunch. The ambiance is really nice and peaceful. The staff is courteous too. So, I ordered for some Couscous and Pomegranate Salad. It tasted good and was filling…"
+    ]
+   },
+   {
+    "id": "r_fec83ad7ecd2",
+    "name": "Tandoori Taal",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "3169-B, 12th Main, HAL 2nd Stage, Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1799,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Veg Pulao",
+     "Sarso Da Saag",
+     "Murgh Makhani",
+     "Makkai Roti",
+     "Tandoori Chicken",
+     "Dal Makhani",
+     "Paya Shorba"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "It's a small place so you have to book a table in advance. The food is simply amazing and made with lot of love. The interiors remind you of punjabi dhaba. Be it lassi, chicken curry, naan or…",
+     "I read the zomato reviews and had went here for lunch, hoping to find some amazing food. But the food here is not up to the mark. The only good thing was the corn cigars. Aam Panna was a joke over…",
+     "Tiny little dining but has enough to give you a restaurant feeling. Well maintained small restaurant. Very good service. Had heard a lot about this place for North Indian food and their starters. Me…"
+    ]
+   },
+   {
+    "id": "r_dc81d7617f1a",
+    "name": "Esplanade",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "201, Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Bengali"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1563,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Fish",
+     "Daab Chingri",
+     "Luchi",
+     "Chicken Rezala",
+     "Plain Rice",
+     "Kosha Mangsho",
+     "Mochar Ghonto"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Great Amazzzzzing Bengali fine dining! Had Sunday lunch here.. Ambience is nice and inviting. Ilish mach n Kosha mangsho were divine. In starters had Fish chili and fish kobiraji. Both were great…",
+     "We visited this place on a Sunday evening. The ambience was comfy and soothing. We ordered a mix of vegetarian and meat based dishes. The food was delicious and out of the world. The food is so…",
+     "I went to this place on my friend's birthday and had a great time there . This place has a soothing ambience & offers not only good food but amazing service too. We had ordered prawns stuffed with…"
+    ]
+   },
+   {
+    "id": "r_ec10e2169fbb",
+    "name": "PurpleBasil.in",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Second Floor, Madison Complex, HAL 2nd Stage, Kodihalli, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Koramangala 6th Block",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 460,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta",
+     "Chicken Meal",
+     "Pongal",
+     "Pesarattu",
+     "Chicken Satay",
+     "Noodles",
+     "Salad"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "One of the better healthy food joints which offer only delivery. Their food is absolute delicious and light on your stomach too. They offer their food in 3 sizes, diet size, right size and 3 course…",
+     "Come January 2019 and most of us are trying our best to avoid junk and to eat as healthy as possible. Given our busy schedules, sometimes it becomes extremely difficult to stick to our well thought…",
+     "Extremely bad experience! I had to wait more than one hour for two salads to be delivered home to us. This is not done! Never ordering from this place again!"
+    ]
+   },
+   {
+    "id": "r_37cbb46c166e",
+    "name": "Ciclo Cafe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "12th Main Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "American"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1332,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Cheesy Fries",
+     "Chicken Ceaser Salad",
+     "Tiramisu",
+     "Salads",
+     "Cocktails",
+     "Burgers"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I recently visited to Bangalore and stop by ciclo cafe at Indiranagar. The cafe is situated on the main road , one of a European concept (the bicycle cafe ). I tried the boneless chicken wings and…",
+     "Have heard a lot about this cafe from friends in Bengaluru. So decided to have dinner here on my visit to the city. Cosy cafe with ground and first floor seating. The bar sure adds to the beauty…",
+     "I have always been a fan of coco whether it be Chennai, Gurgaon or Bangalore. It was a really nice experience here in Bangalore, the braised pork was an amazing dish which gives you an emotion…"
+    ]
+   },
+   {
+    "id": "r_fe2b2625ff56",
+    "name": "Empire Restaurant",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Next to BSNL, HAL 2nd Stage, 80 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "South Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 8304,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Dum Biryani",
+     "Fiery Chicken",
+     "Butter Chicken",
+     "Pepper Chicken",
+     "Paneer Tikka Masala",
+     "Chicken Grill",
+     "Chilli Chicken"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Kabab, ghee rice and shawarma !!! That's what pops up in my head when ever I hear about Empire. The last resort for mid-night carving, promise you get food here till 3am any night. If you're okay…",
+     "Ordered semi gravy mutton keema and butter naan from here - never ordering again! The mutton keema was so watery and the portion was too small for the price they are charging. The butter roti was ok…",
+     "I deducted 2 stars for service. The service sucks so much that you may never want to visit again. Nobody knows what exactly is going. There is a huge chaos. Apart from this, the ambiance and food is…"
+    ]
+   },
+   {
+    "id": "r_6f1b7afe31da",
+    "name": "Infinitea Tea Room & Tea Store",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "26, ESI Hospital Road, HAL 2nd Stage, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Cafe",
+     "Desserts",
+     "Salad",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 771,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Coffee",
+     "Momos",
+     "Sandwich",
+     "Tiramisu",
+     "Nachos",
+     "Kiwi Ice Tea",
+     "Masala Tea"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Get varieties of tea and a great place to have a good conversation. Let's you enjoy your tea with or without company. Easily a good joint to test great tea and good snacks that complements your tea",
+     "Cosy lil cafe to have infinit tea variety. They are offering all the possible varieties with the different kind of pastries and cakes. I loved the ambience, perfect for late evening cup of tea",
+     "Nice, cute little cafe to have (as the name suggests ) many different varieties of tea! Went with friends to have Sunday brunch here! We ordered white wine, along with Penne Arabiatta pasta and a…"
+    ]
+   },
+   {
+    "id": "r_9b543afed6c7",
+    "name": "Pulimunchi",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "307, 2nd Floor, 1st Stage, K.P. Square, 100 feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Mangalorean",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 695,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Murgh Ghee Roast",
+     "Neer Dosa",
+     "Sea Food",
+     "Tender Coconut Souffle",
+     "Crab Ghee Roast",
+     "Fish",
+     "Prawn Ghee Roast"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Good place for those who crave Costal food and pretty good service as well. Decent Ambience and quick service adds up to the delight. We tried a lot from their menu but my personal favorites were…",
+     "An amazing place in bangalore to have authentic mangalorean food... every dishes are delicious...they have a wide range of menu and best part is they serve only mangalorean delicacies.. Coming to…",
+     "One of the best manglorean food Reasonable and mr.sachin was humble and suggested us good dish's No alcohol and only wine are served, Ambience is traditional Must try desert tender coconut sufphle"
+    ]
+   },
+   {
+    "id": "r_e9e345dcfa12",
+    "name": "Nagarjuna",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "195, Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Andhra",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 850,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1926,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Andhra Style Biryani",
+     "Andhra Meal",
+     "Chicken Biryani",
+     "Butter Naan",
+     "Dal Palak",
+     "Andhra Thali"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This place has good meals.. But biryani is spicy to the point of unhealthy.. It causes burns and may even cause ulcers.. Besides the service is very poor.. Roger this.. Bill is something like…",
+     "We went around 3:00 pm on a Friday afternoon, we ordered a starter and 2 biryanis as they asked us to order everything we wanted as they would close soon. (By 3:30 pm) They served everything…",
+     "Very nice food , had Andhra meal and it was quite good. I am sure other items in menu would be good as well. Will come back for them , for the meal I had they were attentive to fill the plate and I…"
+    ]
+   },
+   {
+    "id": "r_ef6cd43f7d49",
+    "name": "The Teal Door Cafe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "618, 2nd Main Road, Binnamangala, Hoysala Nagar, Indiranagar, Bangalore",
+    "zones": [
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1920,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Mocktails",
+     "Sandwiches",
+     "Mushroom Soup",
+     "Crepe",
+     "Nachos",
+     "Idli Platter",
+     "Appam"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Not clean area at all. We sat on the top floor, it was a very bad experience. The outside area looks fine. However, about the food.. We ordered a latte, hot chocolate and nachos. The beverages were…",
+     "Visited this place for brunch as I like cafes in general and it was looking promising on zomato. Story and vision around its formation is interesting and can be found on first page of its menu…",
+     "Starting with the ambience, it is really good. However, with not many fans and no AC, going here on a warm afternoon is a bad idea. We were set ed by Deepika who was pro-active. Now about the food…"
+    ]
+   },
+   {
+    "id": "r_564aa0b82fdf",
+    "name": "Pot-O-Noodles",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "201, Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Asian",
+     "Japanese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 60,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Ramen",
+     "Noodles",
+     "Gyoza",
+     "Rolls",
+     "Dumplings",
+     "Wasabi Ice Cream",
+     "Lime Mojito"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I have been thinking about ordering from this place for a while but never really got a chance. Yesterday I ordered just their Chilli Garlic Noodles and I loved it. Can't wait to try some of their…",
+     "Pot o noodles , is a cute and peaceful place to have yummy ramen noodles . The ambience of the place is pleasant and welcoming. So I had been here on a Thursday night , was craving for some amazing…",
+     "I dropped here to have Chinese. It has a small seating area, 6-7 tables may be. ?Ordered : Chicken Wonton, Chicken & peppers in spicy coconut curry with steamed rice and Chicken Noodles - chicken…"
+    ]
+   },
+   {
+    "id": "r_dc2b7e9fb704",
+    "name": "Meghana Foods",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "544, First Floor, Near Indiranagar Metro Station, CMH Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1774,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Chicken Boneless Biryani",
+     "Paneer Biryani",
+     "Andhra Style Biryani",
+     "Tandoori Chicken",
+     "Hyderabadi Biryani",
+     "Prawn Biryani",
+     "Raita"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Always a safe choice for amazing Hyderabadi biryani. The Meghna special Biriyani is amazing. Their mutton pepper fry is also something worth eating.",
+     "Have had the boneless chicken biryani and the Chicken biryani (Normal). The boneless biryani seems to be less in terms of spices. However, the normal biryani is beyond tastiness.",
+     "For all Biriyani lovers. South-Indian Flavour Chicken biriyani and Meghana chicken 555 a good combination. Biriyani Quantity for two, if medium diet people. Tried chicken biriyani and lollipop…"
+    ]
+   },
+   {
+    "id": "r_790e77757a7b",
+    "name": "Bob's Bar",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "777/i, Opposite New Horizon School, HAL 2nd Stage, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Finger Food"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 548,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Chops",
+     "Pepper Chicken",
+     "Filter Coffee",
+     "Donne Biryani",
+     "Beer",
+     "Pork Ribs",
+     "Roast Beef"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "I had to try this place twice to review it. Coz the first time I ended up being drunk. So the next time, no drinks and only food. Before trying this place out I had a perception that food takes a…",
+     "Had to pay a second visit to reconfirm if I actually found Utopia or if it was the Monk tricking me the first time around. Every second takes you back to old Bangalore (especially the prices, am I…",
+     "Bob's the new kid on the block ! Who doesn't know about BOB ??? This used to be 100ft boutique earlier . Lovely place has a very gymkhana feel to it . Cheap to the hilt , nice food and ambience…"
+    ]
+   },
+   {
+    "id": "r_3005d2d9017a",
+    "name": "Bean Flickers",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "1083,5th Cross, Opposite Corporation Bank, 12th Main, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Fast Food",
+     "Coffee",
+     "Continental"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 398,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Coffee",
+     "Mutton Burger",
+     "Sandwiches",
+     "Hot Chocolate",
+     "Fries",
+     "Sandwich"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "This a cute lil cafe in the lanes of Indiranagar but they Cater to lot of customers as they keep in mind the needs of their guests. They have healthy options like detox meal, subs and on the other…",
+     "Bean flickers is a small outlet off the 12th main road in Indiranagar that mainly has subs and burgers! 4 of us visited and took the original chicken burger, mushroom melt cheesy burger, double…",
+     "Went with a friend for a working lunch. We had ordered and it was taking time. But then we were surprised by the answer. The sauce which they were using for cooking was being made freshly. Was…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_ff9e89f903a3": 0.545618,
+   "r_56dfcc85044b": 0.48118,
+   "r_f0e9ba1f10a3": 0.469025,
+   "r_06982603f6fd": 0.400653,
+   "r_47f303deb8e2": 0.395553,
+   "r_ab4d548b2138": 0.380711,
+   "r_ef7cbaface80": 0.375091,
+   "r_688767dc4a57": 0.367286,
+   "r_294523a63b6e": 0.362516,
+   "r_e64b2b13734e": 0.351567,
+   "r_3a396687f2c6": 0.342114,
+   "r_a69dddc8312d": 0.336128,
+   "r_fec83ad7ecd2": 0.332846,
+   "r_dc81d7617f1a": 0.326674,
+   "r_ec10e2169fbb": 0.323023,
+   "r_37cbb46c166e": 0.319655,
+   "r_fe2b2625ff56": 0.3,
+   "r_6f1b7afe31da": 0.295667,
+   "r_9b543afed6c7": 0.291115,
+   "r_e9e345dcfa12": 0.28584,
+   "r_ef6cd43f7d49": 0.285703,
+   "r_564aa0b82fdf": 0.284198,
+   "r_dc2b7e9fb704": 0.282232,
+   "r_790e77757a7b": 0.280696,
+   "r_3005d2d9017a": 0.26668
+  },
+  "relaxations": [],
+  "total_matches": 82
+ },
+ "edit": {}
+}

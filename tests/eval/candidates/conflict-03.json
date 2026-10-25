@@ -1,0 +1,1370 @@
+{
+ "id": "conflict-03",
+ "result": {
+  "preferences": {
+   "location": "MG Road",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "MG Road"
+   ],
+   "budget": "high",
+   "cuisines": [],
+   "min_rating": 0.0,
+   "extras": "a quick snack under 200 rupees",
+   "extras_tags": [
+    "quick_service"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_17b6f5e85423",
+    "name": "Yauatcha",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "1 MG Mall, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Asian",
+     "Cantonese",
+     "Tea"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 2800,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 2372,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Dumplings",
+     "Noodles",
+     "Cocktails",
+     "Mocktails",
+     "Mango Mascarpone Gateau",
+     "Macaroon",
+     "Chocolate Hazelnut Mousse"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We happend to have the set menu for the first time yesterday at Yauatcha and it was mind blowing! I've always loved Yauatcha , their Cheung fun is amazing, their char Sui is great! Everything Asian…",
+     "Amazing desserts. Decent food. Exemplary service. They really make you feel welcome. They could be a bit more value for money but overall a definite 4/5.",
+     "Yauatcha is an experience. This dim sum speciality restaurant is a sensory treat. The ambience is uniform with all the other branches that it has across the country. Must try : The crispy aromatic…"
+    ]
+   },
+   {
+    "id": "r_c6917675dbd9",
+    "name": "Rim Naam - The Oberoi",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "The Oberoi, 37-39, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Thai"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 3000,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 988,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Seafood Soup",
+     "Mocktails",
+     "Mushroom Salad",
+     "Thai Salad",
+     "Wine",
+     "Jasmine Rice",
+     "Thai Red Curry"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "fine_dining"
+    ],
+    "review_snippets": [
+     "I loved the experience at this place. Truly one of the best Thai / Asian restaurants. Lovely ambience , with an artificial lake around, this place is a quaint find within the Oberoi hotel as well…",
+     "If you are looking for a place with great ambience, service and want to try some Thai food, It is Rim Naam. It's beautiful place for a date, romantic dinner with light music. The service is…",
+     "Outstanding ambience with a open to the sides gazebo style setting in the middle of a water body. The service was very good, up to the Oberoi standards. We started with cocktails, and their Rim Naam…"
+    ]
+   },
+   {
+    "id": "r_1672d01eed20",
+    "name": "The 13th Floor",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Barton Centre, 84, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Asian",
+     "North Indian",
+     "Thai"
+    ],
+    "rest_types": [
+     "Lounge"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 4616,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Lasagne",
+     "Mocktails",
+     "Martini",
+     "Mutton Pepper",
+     "Long Island Iced Tea",
+     "Mojito"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This is a very late review and I'm so sorry about it. I decided to choose this place inorder to celebrate my best friend's surprise birthday last December. The best part about 13th floor is amazing…",
+     "Happend to be at this place on a Tuesday evening, the crowd there surprised me. The place was brimming with ppl. Coming to the place it was very dimly lit and had a tough time reading the menu…",
+     "13th Floor serves your with some of the most sumptuous starters. The ambience and the music is one of its kind. It's a place to visit for its ambience and great food."
+    ]
+   },
+   {
+    "id": "r_3c0001c37214",
+    "name": "ASEAN - On The Edge",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "84, 13th Floor, Barton Center, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Asian",
+     "Thai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 875,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Khao Suey",
+     "Mocktails",
+     "Salad",
+     "Beer",
+     "Malacca Curry",
+     "Sangria"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The restaurant's location and ambience does not need describing. It boasts a well know view of the city's skyline that few other places have. But it is not the view that commands the patronage of…",
+     "Went to this place with my husband today on my birthday after we saw the rating and reviews in Zomato. We have had a high expectation from the place and thankfully it exceeds our expectation. The…",
+     "Great Food, Great Ambiance. If you love Asian food, this is the best place to explore. Ambiance : Great Ambiance. Limited seating capacity with the expansive view of MG road. Food : Vietnamese…"
+    ]
+   },
+   {
+    "id": "r_812a5cc12049",
+    "name": "Ebony",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Barton Center, 84, 13th Floor, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 3152,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Appam",
+     "Khao Suey",
+     "Chicken Biryani",
+     "Kebab Platter",
+     "Rabri",
+     "Prawn",
+     "Pad Thai"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "One of Bangalore's old classics, serving great food thirteen floors up. While the views have been partially spoiled due to the metro buildings, the food is amazing as ever. The range is the biggest…",
+     "Went here on republic day to celebrate my mom's bday. The buffet price was higher since it was republic day. I had booked the table in advance since we wanted the outdoor seating and I had heard…",
+     "I had been to the 13th floor and On the edge numerous times but this time, we decided to visit Ebony instead. Located on the 13th floor of the Barton center, ebony has this magnificent view of the…"
+    ]
+   },
+   {
+    "id": "r_98b8b0895985",
+    "name": "Chianti",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "No.18, Ramanashree Arcade, Ground Floor, Ashok Nagar Post, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 340,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Ravioli",
+     "Tiramisu",
+     "Panna Cotta",
+     "Bruschettas",
+     "Seafood Pasta",
+     "Virgin Sangria"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "One of the best Chianti franchises in Bangalore. Easy to find parking here - great ambiance - quality food - brilliant service! I've been here twice and nothing has changed. Certainly revisiting!…",
+     "Always loved this place and have been so many times now, I just love the food. This was the first time we managed to use Zomato Gold so the cost was really less 🥳🥳.. Must go place as always",
+     "Ambience is quite great and is in prime location of Trinity-mg road, but the cost is actually quite expensive for the quantity they provide but with zomato gold membership it's worthy. If u want to…"
+    ]
+   },
+   {
+    "id": "r_b59dcb9a79c6",
+    "name": "Portland Steakhouse & Cafe",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "1, Brunton Road, 1st Cross, Ashok Nagar, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Steak",
+     "Italian",
+     "Continental",
+     "American",
+     "Burger",
+     "BBQ",
+     "Salad"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 2053,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Spaghetti",
+     "Beef Steak",
+     "Bbq Chicken Pizza",
+     "Burgers",
+     "Apple Pie",
+     "Ice Tea",
+     "Salads"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Love love love this place! One of my favourites , chicken in mushroom sauce with mulled wine , mutton chops and veg crispy burger! Must visit place in bangalore",
+     "The best place to enjoy the yummiest of steaks. The lamb steak is simply Yum. The portion is pretty good for one person. The ambience of the place is equally nice which makes you feel like an apt…",
+     "As the name goes, they specialize in steaks. If you know your steak and very specific about it is supposed to be done, this place is for you. From Tender Loin to filet mignon, they have it all…"
+    ]
+   },
+   {
+    "id": "r_2dbc0f4fb3b2",
+    "name": "Café Felix",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Level 5, 1 MG Mall, Swami Vivekananda Road, Trinity Circle, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "American",
+     "Cafe",
+     "Continental"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 737,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Burgers",
+     "Sandwiches",
+     "Salmon",
+     "Peanut Butter Smoothie",
+     "Margherita Pizza",
+     "Ravioli",
+     "Salad"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Ok, first of all - Felix deserves more than a 3/5. But they didn't impress me enough to warrant a 4, so 3.5/5 is the ideal rating for them (still don't know why Zomato removed fractional ratings)…",
+     "The place is cosy and the ambience is quite nice. It's one of those sophisticated places where you can sit and talk to the other person for hours. The music in the backdrop is just perfect as per…",
+     "Great food, great taste, superb presentation but bit expensive for the quantity provided. Well decorated with awesome lights. The place is quite huge and its usually very crowded especially in…"
+    ]
+   },
+   {
+    "id": "r_40c8b5e622ed",
+    "name": "Cafe Azzure",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "52, Brigade Road, Haridevpur, Shanthala Nagar, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Italian",
+     "Burger"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 2747,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Wedges",
+     "Pizza",
+     "Nachos",
+     "Mocktails",
+     "Burgers",
+     "Thick Shakes"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Hands down the best hookah place in the city centre. Lovely ambience and pastel decor with a view of the metro - can't complain! Food is decent, although found the twisted pizza a little overrated…",
+     "I'm still at the restaurant, waiting for an order I placed an hour back, which is a VEG CLASSIC BURGER! And now, when asked the waiter told it's not available. The place isn't even crowded. So I…",
+     "Guess were you should be at with friends after a long day at work!? Azzure is the answer! Perfect place to be at if you're a hookah lover just like me. . . They do amazing flavours which are…"
+    ]
+   },
+   {
+    "id": "r_eb183a9f67e5",
+    "name": "Le Jardin - The Oberoi",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "The Oberoi, 37-39, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "European",
+     "Mediterranean",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 3000,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 701,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Breakfast Buffet",
+     "Chocolate Cake",
+     "Mutton Biryani",
+     "Salads",
+     "Pasta",
+     "Chaat",
+     "Mushroom Soup"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "fine_dining"
+    ],
+    "review_snippets": [
+     "This is one of the oldest 5 stars in bangalore! Le Jardin serves Indian cuisine with a twist , it usually as many culinary feasts goin on , and we happened to visit the place on a similar occasion…",
+     "Nice setting, pleasing musician serenading us with hits from the eagles etal. I ordered the Raan Burger. I have a bone to pick here. Literally. I have cooked raan on many occasions and my take on…",
+     "I was here for breakfast on a weekday and I totally loved the experience. The ambience was nice and I particularly loved the outdoor setting. The spread was quite exhaustive and they had lots to…"
+    ]
+   },
+   {
+    "id": "r_00b4feaa8903",
+    "name": "Ging - Royal Orchid Central",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Royal Orchid Central, Level 10,Manipal Centre, Cubbon Road, Off MG Road,Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Asian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 232,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Paneer Satay",
+     "Beer",
+     "Creme Brulee",
+     "Crispy Prawns"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Impressive place for fine dinning. The restaurant offers really good and has fantastic ambience. Even though we went on weekday but it seems that have really good entertainment like DJ and band…",
+     "In love with this place! It's on the 10th floor, with a great view makes it perfect for the date nights. They The ambiance is very beautiful and classy. A large Japanese dragon painted on the plates…",
+     "New menu for Chinese new year 🧧 & unique cocktails . Serves all pan asian cuisine.. newly added dishes in the menu are some dimsums, starters & some main course and desserts.. pictures say it…"
+    ]
+   },
+   {
+    "id": "r_976c379566d4",
+    "name": "SkyDeck By Sherlock's",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Opposite Metro Station, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Chinese",
+     "Finger Food",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 1476,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Salad",
+     "Beer",
+     "Nachos",
+     "Chicken Wings",
+     "Onion Rings",
+     "Chilli Paneer",
+     "Roti"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Always been a regular at the Sherlock's... However this was our first time at this place.. The place was packed.. The location is easily accessible. However the visit not so great.. The ambience is…",
+     "The drinks were ok. The cosmos was really good and the Long island ice tea was pretty average. The Peri Peri wings we're superb though! The ambience and view from the terrace is beautiful!",
+     "The ambience is what steals the show at this Sherlock's. Dim lighting, good music, open air and a view of MG road ( if you sit facing the road ). A nice place to chill on a Friday night and forget…"
+    ]
+   },
+   {
+    "id": "r_5a7927b857cb",
+    "name": "Salvadores",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "5th Floor, Bangalore Central Mall, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Mediterranean",
+     "Continental",
+     "French",
+     "Italian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 198,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Wine",
+     "Salad",
+     "Steak",
+     "Coffee",
+     "Pork Chops"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This restaurant visit was pending ob offered us another dish and I tried the chimichurri chicken it was good. They had a good choices og wine. Staffs were polite and friendly. Overall nice place for…",
+     "This is one of the hidden treasures amidst a shopping place, yes its located atop bangalore central. It is a very classic place, with an beautiful interior and view. The food was just amazing…",
+     "Looking for old fashioned Bangalore charm and some great food then Salvadores Is your best bet. The menu is limited but every dish is fabulous. This place has an old world feel and the cuisine…"
+    ]
+   },
+   {
+    "id": "r_6149805a8687",
+    "name": "Memories of China - Taj MG Road Bengaluru",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Vivanta By Taj, 41/3, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Momos"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 3000,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 457,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Crispy Prawns",
+     "Momos",
+     "Cocktails",
+     "Pan Fried Noodles",
+     "Chocolate Cake",
+     "Veg Dim Sums",
+     "Dumplings"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Food connects! Yes, you must agree to this phrase, it connects different cultures, celebrations, apart from the cuisines. Chinese culture is also one such thing which I got connected through food…",
+     "The first thing you notice as you enter this place is the familiar aroma of chinese food. Which is the first sign that this place will be really good, and it was quite so. From the lack of…",
+     "Event : Went to Memories of China to celebrate my birthday. The staff was very courteous and provided a complementary cake at the end. Ambience: How a posh Chinese five star eatery would be. Cozy…"
+    ]
+   },
+   {
+    "id": "r_b35c749cc24e",
+    "name": "Smaaash",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "2nd &3rd Floor, 1 MG Mall, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Pizza",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 551,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Nachos",
+     "Draught Beer",
+     "Pasta",
+     "Brownie",
+     "Potli Biryani",
+     "Mojito"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Namaste ! We recently visited this place in one mg mall ! The ambiance and the service was good , above average ! It's sports bar kind of concept and is located inside smaaash For food we ordered…",
+     "Good food and a fun place to be. We ordered laccha parantha and palak combo in main course which was really good. Lots of games to explore and spend time with group of friends.",
+     "This is a great place to have a meal with friends after ab hard long day of games! Amazing draught beer that you must try!! :) Special shout out to Michael for being amazing!!"
+    ]
+   },
+   {
+    "id": "r_5d58f2519e8c",
+    "name": "White Plate",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "103, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Thai",
+     "Continental",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 264,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Tom Yum Soup",
+     "Lobster Bisque",
+     "Lobster Risotto",
+     "Pulled Pork",
+     "Lamb",
+     "Asparagus Risotto"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Went here on a weekday evening for dinner. You are greeted by a posh, neat and classy place as soon as you enter. The spacious restaurant is a semi-outdoor one, with the four rows of aesthetic…",
+     "Been there last evening. Staff was friendly and. Ambience is great. There is open dining and lots of fresh air. Good place to for corporate Dineout events.. Food was ok. Breads were good and…",
+     "They've changed the cuisine to Indian and also reduced the price of each dish by a considerable amount. The new dishes are surprisingly good. The butter naans were soft, chicken was cooked well."
+    ]
+   },
+   {
+    "id": "r_757f5789502b",
+    "name": "Ice - Taj MG Road Bengaluru",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Vivanta By Taj, 41/3, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Continental"
+    ],
+    "rest_types": [
+     "Club"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 2800,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 613,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Paneer Tikka",
+     "Beer"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The music is good energizing, but it seems some renovation was on otherwise the decor is not worth the Taj name. The place was dead yesterday with the exception of maybe 10 people.",
+     "The ambience was good. The pool side was great. Service was nice but it lacked the WOW feeling. My friends and I had gone on a Saturday Night and it did not seem that we have come on a weekend as…",
+     "Ice hosts amazing poolside parties. Went here last night for the poolside block party organized by VKP. There were two DJs playing superb tracks. Liked the poolside better than the one inside…"
+    ]
+   },
+   {
+    "id": "r_6267e90e9ddd",
+    "name": "Cafe Mozaic - Taj MG Road Bengaluru",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Vivanta By Taj, 41/3, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Italian",
+     "South Indian",
+     "Continental",
+     "Cafe",
+     "Salad"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Dine-out"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 568,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Paneer Lababdar",
+     "Sandwiches",
+     "Oysters",
+     "Paratha",
+     "Coffee",
+     "Jeera Rice",
+     "Biryani"
+    ],
+    "tags": [
+     "cafe",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Taj Vivanta has always justified it's name and food by the service and the taste they provide. Amazing and sumptuous lunch buffet. Please pardon me for having only pics of desserts coz of the sweet…",
+     "What: continental and Indian restaurant. Where: @taj mg road Ambience: excellent Stayed @ Taj for some official purpose and had a chance to have breakfast at cafe mozaic. The best place to have…",
+     "Good service and had a good time with my beloved the soup was good and the pasta was also good with spices and was tasty the staff was awesome and had a great dinner over all the option for veg is…"
+    ]
+   },
+   {
+    "id": "r_336084a79b97",
+    "name": "Fort Kochi",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "Level 5, 1 MG Road Mall, Trinity Circle, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Kerala",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 338,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Sea Food",
+     "Appam",
+     "Fish",
+     "Kerala Parotta",
+     "Sangria",
+     "Paratha",
+     "Cocktails"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The place serves kerela style food minus the coconut oil so can be enjoyed by non vegetarians of all kind. The place is nice not very attractive but the menu is good. A lot of options for seafoodd…",
+     "This place serves special dishes from different cuisines of Kerala . Ambience is good and a good place to visit with family. We ordered Fish fingers and Prawn Butter Pepper Garlic . For main course…",
+     "High end Malayali eatery.. nice , calm and soothing ambience. With a posh feel. We had fish fingers , prawns in starters . Both of them were good. Prawns are especially cooked really well. Nice…"
+    ]
+   },
+   {
+    "id": "r_e73c79de8335",
+    "name": "The Tao Terraces",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "5th Floor, 1 MG Mall, Opposite Vivanta by Taj, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Thai",
+     "Japanese",
+     "Korean",
+     "Burmese",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 2100,
+    "budget_band": "high",
+    "rating": 3.9,
+    "votes": 1943,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Salads",
+     "Cocktails",
+     "Khao Suey",
+     "Laksa",
+     "Jumbo Prawns",
+     "Veg Sushi",
+     "Espresso Martini"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Great ambience great food! This place is soothing with some slow music and the food is tasty. They serve Asian cusine like Chinese Korean and Japanese food. Tried the sushi here for the first time…",
+     "The beautiful place in the Zomato pictures. Thats what I've called it ever since I bookmarked Tao Terraces. The terrace which was the open sitting area has some really good ambience. However, no…",
+     "With a mesmerising and calm ambience, Tao Terraces is a beautiful place to visit. The restaurant offers various sitting options and they make sure you are very comfortable. It also offers a wide…"
+    ]
+   },
+   {
+    "id": "r_dfc7b1e1b782",
+    "name": "Monsoon - The Park Bangalore",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "The Park Bangalore, 14/7, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Italian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 3000,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 274,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Salads",
+     "Brownie",
+     "Cheesecake",
+     "Salad",
+     "Biryani",
+     "Dal Makhani",
+     "Pizza"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Food - 2/5 Ambience - 3/5 Service - 1/5 Can Try - Continental cuisine. Clue - Management at the restaurant seems to be by a bunch of interns who appear rather clueless. CHEATED us, by not serving…",
+     "Nice ambiance and great food. Went there for dinner. Had gold 1+1, so not a big dent in the pocket. Ha Frye herb encrusted grilled chicken, unlike the dry chick we get in other places, this was soft…",
+     "Went there for a Saturday Buffet date with wife and we had a great evening. The place has nicely set up the ambiance for a romantic dinner date They serve some really good food, spread was limited…"
+    ]
+   },
+   {
+    "id": "r_6dbc645648d5",
+    "name": "Mighty Small",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "2nd Floor, 1 MG Mall, Trinity Circle, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 259,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mocktails",
+     "Beer",
+     "Chips",
+     "Pizza",
+     "Salsa",
+     "Nachos",
+     "Roti"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "Pretty old player in the city. Good food unlike other bars and great service as well. Love the deserts. Overall great place. Would recommend a visit.",
+     "Ambience - 5 ( fun place for kids and people who love video games along with desk music latest hits) Drinks - 5 ( guava twist really worth a try) Food - 4 (great taste but nachos not crisp and needs…"
+    ]
+   },
+   {
+    "id": "r_32fd0a728b4a",
+    "name": "Tandoor",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "28, Centenary Building, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 2100,
+    "budget_band": "high",
+    "rating": 3.9,
+    "votes": 1377,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Dal Makhani",
+     "Chicken Malai Tikka",
+     "Paneer Makhani",
+     "Faluda",
+     "Jal-jeera",
+     "Cocktails"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Have been here for a team lunch..The experience was good, the food was great and staff very hospitable..quite an old place but have maintained their services very well..good show team!",
+     "Place looks beautiful really liked the interiors and the royal feel it gives. Visited on Saturday for family dinner and got the place . Food is very average being a North Indian the taste was…",
+     "We went there on a Wednesday evening. The ambience was good and the crowd was very decent. However, the restaurant seemed over priced and the food was not value for money. The shorba was very…"
+    ]
+   },
+   {
+    "id": "r_9ac6a3de6edb",
+    "name": "Szechwan Court - The Oberoi",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "The Oberoi, 37-39, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Chinese"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 171,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Crabmeat Soup",
+     "Sesame Chicken",
+     "Clear Soup",
+     "Peking Duck",
+     "Jasmine Tea",
+     "Crispy Lotus Stem",
+     "Sea Food"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining"
+    ],
+    "review_snippets": [
+     "Went to this place on Monday evening for dinner.The ambiance is cool and pleasant and the service was good.For soup we ordered cabmeat soup it tasted yummy ...the soup made perfectly without any raw…",
+     "Vegeterian food was excellent except sweet corn soup. Ambience is bad, feels like an old restaurant nowhere close to the fine dine experience. Food - 4.5/5 ( avoid sweet corn and desserts are bad)…",
+     "Food-4.5 Ambience-4 Service-4.5 Overall hotel- The food was amazing, the hotel is in the heart of the city with a lot of greenery and beautifully maintained, if anyone is looking for a fine dine for…"
+    ]
+   },
+   {
+    "id": "r_162c138bf03f",
+    "name": "Polo Club - The Oberoi",
+    "city": "Bangalore",
+    "locality": "MG Road",
+    "address": "The Oberoi, 37-39, MG Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "American",
+     "North Indian",
+     "European",
+     "Tex-Mex"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 3000,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 117,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Sangria",
+     "Wine",
+     "Burgers",
+     "Tea",
+     "Cheesecake",
+     "Cheese Croquettes",
+     "Chicken Grill"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining"
+    ],
+    "review_snippets": [
+     "Came here for a cup of coffee n tried their club sandwich with fries n the earthy detox juice . All 3 were good . Expensive but best quality ."
+    ]
+   }
+  ],
+  "scores": {
+   "r_17b6f5e85423": 0.673829,
+   "r_c6917675dbd9": 0.639415,
+   "r_1672d01eed20": 0.625,
+   "r_3c0001c37214": 0.597145,
+   "r_812a5cc12049": 0.572504,
+   "r_98b8b0895985": 0.560047,
+   "r_b59dcb9a79c6": 0.555652,
+   "r_2dbc0f4fb3b2": 0.552904,
+   "r_40c8b5e622ed": 0.529598,
+   "r_eb183a9f67e5": 0.513438,
+   "r_00b4feaa8903": 0.507572,
+   "r_976c379566d4": 0.505186,
+   "r_5a7927b857cb": 0.50137,
+   "r_6149805a8687": 0.496646,
+   "r_b35c749cc24e": 0.466486,
+   "r_5d58f2519e8c": 0.437632,
+   "r_757f5789502b": 0.433171,
+   "r_6267e90e9ddd": 0.430178,
+   "r_336084a79b97": 0.409815,
+   "r_e73c79de8335": 0.403488,
+   "r_dfc7b1e1b782": 0.401588,
+   "r_6dbc645648d5": 0.399383,
+   "r_32fd0a728b4a": 0.389958,
+   "r_9ac6a3de6edb": 0.383136,
+   "r_162c138bf03f": 0.36832
+  },
+  "relaxations": [],
+  "total_matches": 31
+ },
+ "edit": {}
+}

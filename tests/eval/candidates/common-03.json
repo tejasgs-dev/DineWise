@@ -1,0 +1,512 @@
+{
+ "id": "common-03",
+ "result": {
+  "preferences": {
+   "location": "Whitefield",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "ITPL Main Road, Whitefield",
+    "Varthur Main Road, Whitefield",
+    "Whitefield"
+   ],
+   "budget": "medium",
+   "cuisines": [
+    "Chinese"
+   ],
+   "min_rating": 4.0,
+   "extras": "quick service",
+   "extras_tags": [
+    "quick_service"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_87a41d543bf8",
+    "name": "Nasi And Mee",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "1B, 3rd Floor, VR Bangalore, Mahadevapura, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Malaysian",
+     "Thai",
+     "Singaporean",
+     "Asian",
+     "Chinese",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 908,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Noodles",
+     "Dumplings",
+     "Jumbo Prawns",
+     "Nasi Goreng",
+     "Papaya Salad",
+     "Sushi",
+     "Momos"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I love this place! The ambience is brilliant and their food is par excellence. I love their prawns and okra dish. Their mee laksa and spicy noodle soup is also brilliant. I adore their cocktails…",
+     "Very bad service and live music. The food is good but not authentic as everything on their menu is on the sweet side. The arrangement and ambiance of the restaurant can be improved, not good for a…",
+     "After a long day at shopping, went to this place for lunch. Maybe I am saying this because I recently had authentic Nasi Goreng in Bali, but the one here was not very convincing. But for what we can…"
+    ]
+   },
+   {
+    "id": "r_a8cd283edd1a",
+    "name": "The Wok Shop",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "S 26, 2nd Floor, Phoenix Market City, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Asian",
+     "Chinese",
+     "Momos",
+     "Fast Food",
+     "Indonesian",
+     "Korean"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 221,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Momos",
+     "Chocolate Bar",
+     "Fish",
+     "Sweet Potato Fries",
+     "Dumplings",
+     "Rice Noodles",
+     "Paneer Bao"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "We ordered a veg Bao with honey mustard sauce and made it a meal , served with sweet potato chips and ice tea . The Bao was soft and had a crispy crunchy potato and right flavours of honey mustard…",
+     "This tiny outlet located in Phoenix mall serves limited food items but up to the mark! I ordered fried rice with sambal sauce & grilled fish and chocolate bao zi. The fish was tender and grilled…",
+     "I have always been a fan of Wok kitchen, the idea of customizing food according to your taste makes you own the taste. The Wok Shop does exactly that, the price and quantity factor is a huge thumbs…"
+    ]
+   },
+   {
+    "id": "r_df8a1daf81cc",
+    "name": "Biriyani Zone",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "5/3, BEML Layout, Kundanahalli Gate, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Chinese",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 1633,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Plain Rice",
+     "Hyderabadi Biryani",
+     "Panneer Butter Masala",
+     "Mutton Biryani",
+     "Tandoori Chicken",
+     "Chicken Boneless Biryani",
+     "Vegetable Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I love the food here specially the biryani but what I don't like about this awesome place is service as water are not responding soon. Rest everything is fine",
+     "Have heard lots about this place as a go to destination for biryani lovers. So decided to order on a lazy afternoon. Thanks to uber eats got a 50 % discount on the same. I has ordered Mutton dum…",
+     "Very close to a perfect biryani per my expectations. Spicy and hot. Amazing to taste. Great portion size. However, I wish the serving time was a little less. Overall a good experience."
+    ]
+   },
+   {
+    "id": "r_0d893f50f861",
+    "name": "Hunger Genie",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Doddanakundi Industrial Area, Graphite India Road, Mahadevpura",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 165,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Rabri",
+     "Shahi Tukda",
+     "Paratha",
+     "Fruit Custard",
+     "Kheer",
+     "Malpua",
+     "Wings"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "quantity is so little for chicken , and what to eat with rice in the combo.",
+     "I got incomplete order, didn't get the complimentary dessert that comes with treats membership, also i got 6 pooris instead of 8,really bad experience",
+     "I ordered cheese parathe from here, online order. The food arrived on time, the packaging was nice (I guess the credits go to Zomato for this?). The taste was also really good."
+    ]
+   },
+   {
+    "id": "r_b23c811ce238",
+    "name": "Coastal Hub",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "3rd Floor, Santhosh Towers, 120 P A3, KIADB Export Promotion Industrial Area, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Kerala",
+     "Seafood",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 364,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Kerala Parotta",
+     "Appam",
+     "Ghee Rice",
+     "Sea Food",
+     "Paratha",
+     "Chicken Dum Biryani",
+     "Beef Fry"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Good Kerala food. It is now a go to place for me to order food home. The Kerala parathas here are one of the best I had in awhile in Bangalore. Have tried out the erachi dishes and the meals as well…",
+     "Been to this restaurant for many times for weekend lunch and dinner with family. They have a wide variety of dishes, most of dishes are authentic and taste really nice. Couple of times biriyani was…",
+     "This is my daily lunch options near to my office. Pretty decent place for quick lunch. One of the core reason for me and friends to choose this place is their quality of lunch and reasonable price…"
+    ]
+   },
+   {
+    "id": "r_761ffdfdc9d9",
+    "name": "Hyderabad Chefs",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "120-A2, First Floor, EPIP Area, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Hyderabadi",
+     "Andhra",
+     "North Indian",
+     "Chinese",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 277,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Hyderabadi Biryani",
+     "Chicken Biryani",
+     "Bamboo Chicken",
+     "Bbq Chicken",
+     "Vegetable Biryani",
+     "Tandoori Roti"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Can't help saying I love the food at this place. The go-to for Andhra food with varieties of biryani to try out. The Rajugari biryani and the bamboo chicken are my favourite while the bones soup…",
+     "Nice place but best part was they were playing Kannada songs ..we ordered Badami chicken kebab and chicken drumsticks, which were yum.. mostly this place is crowded but today it was that much..nice…",
+     "Good place for a quick lunch . Ambience good . Andhra cuisine . Food is good . Quiet pocket friendly . Good for group lunch .. service was quick . I felt it's a quiet good place to drop in for quick…"
+    ]
+   },
+   {
+    "id": "r_bc7cc937b28c",
+    "name": "The Kim Chi Chef",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "2, 1st Floor, Apple City Complex, Segehalli, Whitefield, Bangalore",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Thai",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 210,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Noodle",
+     "Momos",
+     "Manchow Soup"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Good to order and get it delivered. Best Indian Chinese place around Kadugodi. Delivery is alright and generally takes about 45 mins if you're in 3 Kms area. Food is better than other Chinese…",
+     "Honest, inexpensive and tasty Indo-Chinese food delivered in no time. What's there to not like when ordering in a hurry? I got confused with the packaging of some of the dishes and they were kind…",
+     "The food will surprise you for sure, great taste and service. Must try chicken momo, manchow soup, burnt garlic noodle, hunan chicken and lot more. It's been 3 time, I took delivery and not…"
+    ]
+   },
+   {
+    "id": "r_968ec7f076d6",
+    "name": "Sri Lakshmi Vaibhav",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "289, Opposite Whitefield Bus Stop, Near Jamia Masjid, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 160,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Was not at all impressed with the cuisine at this place. The rava onion dosa was way too oniony and rather bland. The vada was served cold and even the filter coffee was in effect not that hot.",
+     "The dosas over here will make you full, trust me on that! Ordered a Rava Masala Dosa for breakfast. The dosa crust was thick, so much so that without the masala also you can satisfy your hunger…",
+     "We had a quick breakfast at this outlet on the Whitefield main road after our 5K Marathon run. As we were starving out of hunger we stopped here for breakfast. They were having lot of South Indian…"
+    ]
+   },
+   {
+    "id": "r_1b558ba55571",
+    "name": "Southern Spice",
+    "city": "Bangalore",
+    "locality": "Varthur Main Road, Whitefield",
+    "address": "35/1B, Munnekolala, Varthur Main Road, Whitefield",
+    "zones": [
+     "Brookefield",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Biryani",
+     "Andhra"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 122,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Hyderabadi Biryani",
+     "Palak Paneer",
+     "Veg Thali",
+     "Mushroom Biryani",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "My wife was looking for andra style food,So we found southern spice. My wife ordered thali it was good as per her taste. And my ordered was mutton biriyani and mutton curry both were tasty. So I…",
+     "Horrible experience... one of my friend suggested this place .. but trust me taste less and poor in cleaning. Staff was not much trained.. We left our ordered items cause of lacked of service and…",
+     "Southern spice branch was opened lately near spice garden bus stop. One fine day i got an opportunity to visit this restaurant with my friend. Its quite big restaurant. I got seated and the waiter…"
+    ]
+   },
+   {
+    "id": "r_981475691b3b",
+    "name": "VIHAR Family Restaurant",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Opposite Vinayaka Cinemas, Varthur Main Road, Whitefield, Bangalore, Bengaluru",
+    "zones": [
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian",
+     "Mangalorean"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 69,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Sea Food",
+     "Murgh Ghee Roast",
+     "Chicken Handi"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Really good ambience restaurant which you can get in Varthur. You can hangout with your family. There are varieties of dishes. The service s good but the order takes it own time to prepare even if…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_87a41d543bf8": 0.803461,
+   "r_a8cd283edd1a": 0.616593,
+   "r_df8a1daf81cc": 0.4,
+   "r_0d893f50f861": 0.368525,
+   "r_b23c811ce238": 0.281052,
+   "r_761ffdfdc9d9": 0.259444,
+   "r_bc7cc937b28c": 0.23756,
+   "r_968ec7f076d6": 0.216098,
+   "r_1b558ba55571": 0.194733,
+   "r_981475691b3b": 0.15
+  },
+  "relaxations": [],
+  "total_matches": 10
+ },
+ "edit": {}
+}

@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Plus+Jakarta+Sans:wght@600;700&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{colors:{"on-tertiary-container":"#4c3200","on-surface":"#e4e1e6","surface-container":"#1f1f22","secondary-fixed":"#e8ddff","on-secondary-container":"#bda8ff","on-primary-fixed-variant":"#773300","on-background":"#e4e1e6","on-secondary-fixed":"#20005e","on-tertiary":"#432c00","surface-variant":"#353438","inverse-on-surface":"#303033","surface-container-high":"#2a2a2d","outline":"#a78b7d","surface-tint":"#ffb68e","surface-dim":"#131316","surface-container-lowest":"#0e0e11","on-tertiary-fixed":"#281900","surface-container-low":"#1b1b1e","error":"#ffb4ab","tertiary-fixed-dim":"#fcbb49","error-container":"#93000a","primary":"#ffb68e","primary-container":"#ff7a1a","secondary-container":"#4f28ae","on-primary-fixed":"#331200","on-primary":"#542200","tertiary":"#fcbb49","on-error":"#690005","outline-variant":"#584236","surface-container-highest":"#353438","surface":"#131316","on-secondary-fixed-variant":"#4f28ae","background":"#131316","tertiary-fixed":"#ffdead","primary-fixed-dim":"#ffb68e","tertiary-container":"#d19525","secondary":"#cdbdff","surface-bright":"#39393c","secondary-fixed-dim":"#cdbdff","primary-fixed":"#ffdbca","on-error-container":"#ffdad6","on-tertiary-fixed-variant":"#604100","inverse-surface":"#e4e1e6","on-primary-container":"#5e2700","on-surface-variant":"#e0c0b1","inverse-primary":"#9c4500","on-secondary":"#370095"},borderRadius:{"DEFAULT":"0.25rem","lg":"0.5rem","xl":"0.75rem","full":"9999px"},spacing:{"space-lg":"1.5rem","space-md":"1rem","space-xs":"0.25rem","space-sm":"0.5rem","margin":"1rem","gutter":"1rem","space-xl":"2rem","gutter-lg":"1.5rem","space-2xl":"3rem","margin-md":"1.5rem","margin-lg":"2rem"},fontFamily:{"headline-sm":["Plus Jakarta Sans"],"headline-md":["Plus Jakarta Sans"],"body-sm":["Inter"],"body-lg":["Inter"],"body-md":["Inter"],"display-hero-mobile":["Plus Jakarta Sans"],"label-lg":["Inter"],"label-tabular":["Inter"],"display-hero":["Plus Jakarta Sans"],"label-md":["Inter"],"headline-lg":["Plus Jakarta Sans"]},fontSize:{"headline-sm":["18px",{"lineHeight":"24px","letterSpacing":"0","fontWeight":"600"}],"headline-md":["22px",{"lineHeight":"28px","letterSpacing":"-0.005em","fontWeight":"600"}],"body-sm":["12px",{"lineHeight":"16px","letterSpacing":"0.01em","fontWeight":"400"}],"body-lg":["16px",{"lineHeight":"24px","letterSpacing":"0","fontWeight":"400"}],"body-md":["14px",{"lineHeight":"20px","letterSpacing":"0","fontWeight":"400"}],"display-hero-mobile":["32px",{"lineHeight":"40px","letterSpacing":"-0.015em","fontWeight":"700"}],"label-lg":["14px",{"lineHeight":"20px","letterSpacing":"0.01em","fontWeight":"600"}],"label-tabular":["13px",{"lineHeight":"18px","letterSpacing":"0.02em","fontWeight":"500"}],"display-hero":["44px",{"lineHeight":"52px","letterSpacing":"-0.02em","fontWeight":"700"}],"label-md":["12px",{"lineHeight":"16px","letterSpacing":"0.02em","fontWeight":"600"}],"headline-lg":["28px",{"lineHeight":"36px","letterSpacing":"-0.01em","fontWeight":"600"}]}}}};</script></head><body class="bg-background font-body-md text-on-surface antialiased selection:bg-primary-container selection:text-on-primary-container min-h-screen"><header class="fixed top-0 left-0 right-0 z-50 bg-surface/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.4)]"><div class="h-20 max-w-7xl mx-auto px-gutter-lg flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-md"><img alt="DineWise Brand Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1Wo0OpM-xYPy3JgIDLN8TmKQwEXVDBbAzN5tAl0zB0xU6hPEiaiAFP3YRWCRa9mv688Db1GTgGMEZlgCDus9f2XWC0Zcp9TRy4gUQFPS-iEHoKhb6LEczB-lH8AUHuMpG_rT2tbSrGP-VeAT4ks57wNIzbMJBUPG4xINJjZsCX2skrvt9001gQ6s0TwJIKu919Fh5ri7tZOTvN6NCHwIpomOF1HnVCJG5QwhT33wrUAyakrZhkTSbkuRwg"/><div class="flex flex-col"><div class="flex items-center gap-space-xs"><span class="font-headline-sm text-headline-sm tracking-tight text-on-surface">DineWise</span><span class="px-space-xs py-0.5 rounded-full bg-surface-container-high text-primary font-label-md text-body-sm font-semibold tracking-wide">BLR</span></div><span class="hidden sm:inline font-body-sm text-body-sm text-on-surface-variant/80">Restaurant picks for Bangalore, ranked and explained by AI</span></div></div><div class="flex items-center gap-space-md"><div class="hidden lg:flex items-center gap-space-xs px-space-md py-1.5 rounded-full bg-surface-container-low"><span class="relative flex h-2 w-2"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-secondary opacity-75"></span><span class="relative inline-flex rounded-full h-2 w-2 bg-secondary"></span></span><span class="font-label-md text-label-md text-secondary">AI ranking: on</span><span class="font-body-sm text-body-sm text-on-surface-variant/60 ml-1">• Live Engine</span></div><nav class="flex items-center gap-1 p-1 bg-surface-container-low rounded-xl overflow-x-auto max-w-[480px]" data-active-classes="bg-surface-container-highest text-on-surface font-semibold"><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="results" href="#">Results</a><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="welcome-empty" href="#">Welcome</a><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="loading-state" href="#">Loading</a><a aria-current="page" class="px-space-sm py-1.5 rounded-lg transition-colors whitespace-nowrap bg-surface-container-highest text-on-surface font-semibold" data-path="degraded-mode" href="#">Degraded</a><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="no-results" href="#">No Hits</a><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="did-you-mean" href="#">Did You Mean</a><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="service-error" href="#">503 Error</a><a class="px-space-sm py-1.5 rounded-lg font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-surface-container-high transition-colors whitespace-nowrap" data-path="rate-limited" href="#">Rate Limit</a></nav><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-background"><div class="flex flex-col w-full">
+<!-- Script to toggle shell AI live indicator to degraded state -->
+<script>
+    (function() {
+      const liveBadge = document.querySelector('header .relative.flex.h-2.w-2');
+      if (liveBadge && liveBadge.parentElement) {
+        liveBadge.parentElement.innerHTML = `
+          <span class="relative flex h-2 w-2">
+            <span class="inline-flex rounded-full h-2 w-2 bg-on-surface-variant/40"></span>
+          </span>
+          <span class="font-label-md text-label-md text-on-surface-variant">AI ranking: off</span>
+          <span class="font-body-sm text-body-sm text-on-surface-variant/50 ml-1">• Fallback Engine</span>
+        `;
+      }
+      const navLinks = document.querySelectorAll('header nav a');
+      navLinks.forEach(link => {
+        if (link.getAttribute('data-path') === 'degraded-mode') {
+          link.className = "px-space-sm py-1.5 rounded-lg font-label-md text-label-md bg-surface-container-highest text-on-surface font-semibold whitespace-nowrap shadow-sm";
+        }
+      });
+    })();
+  </script>
+<!-- Main Grid Layout (Split Desktop: Preferences Left / Results Right) -->
+<div class="max-w-7xl mx-auto w-full px-gutter md:px-gutter-lg py-space-lg">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-space-lg items-start">
+<!-- LEFT PREFERENCES PANEL (Desktop: 4 cols) -->
+<aside class="lg:col-span-4 w-full flex flex-col gap-space-md">
+<div class="bg-surface-container-low rounded-xl p-space-lg shadow-md relative overflow-hidden">
+<!-- Subtle Amber Header Strip to anchor offline state -->
+<div class="flex items-center justify-between pb-space-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-[20px]">tune</span>
+<span class="font-headline-sm text-headline-sm text-on-surface">Preferences</span>
+</div>
+<span class="font-label-md text-label-md px-2 py-0.5 rounded bg-surface-container text-on-surface-variant/80">Static Query</span>
+</div>
+<form class="flex flex-col gap-space-md mt-space-xs" onsubmit="event.preventDefault();">
+<!-- Locality Field -->
+<div class="flex flex-col gap-1.5">
+<label class="font-label-md text-label-md text-on-surface-variant flex items-center justify-between">
+<span>Locality / Zone</span>
+<span class="text-tertiary font-label-tabular text-body-sm">East Bangalore</span>
+</label>
+<div class="relative flex items-center">
+<span class="material-symbols-outlined absolute left-3 text-on-surface-variant/60 text-[20px]">location_on</span>
+<input class="w-full bg-surface-container text-on-surface pl-10 pr-4 py-2.5 rounded-lg font-body-md text-body-md focus:outline-none cursor-default shadow-inner" readonly="" type="text" value="Whitefield"/>
+</div>
+</div>
+<!-- Cuisines Field -->
+<div class="flex flex-col gap-1.5">
+<label class="font-label-md text-label-md text-on-surface-variant">Cuisines Selected</label>
+<div class="flex flex-wrap gap-1.5 p-2 bg-surface-container rounded-lg min-h-[46px] items-center">
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded bg-surface-container-high text-primary font-label-md text-body-sm">
+<span>Cafe</span>
+<span class="material-symbols-outlined text-[14px] text-on-surface-variant hover:text-on-surface cursor-pointer">close</span>
+</span>
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded bg-surface-container-high text-primary font-label-md text-body-sm">
+<span>Continental</span>
+<span class="material-symbols-outlined text-[14px] text-on-surface-variant hover:text-on-surface cursor-pointer">close</span>
+</span>
+</div>
+</div>
+<!-- Budget Filter -->
+<div class="flex flex-col gap-1.5">
+<label class="font-label-md text-label-md text-on-surface-variant">Target Budget</label>
+<div class="grid grid-cols-3 gap-2">
+<button class="py-2 rounded-lg bg-surface-container text-on-surface-variant font-label-md text-body-sm hover:bg-surface-container-high transition-colors" type="button">₹ Budget</button>
+<button class="py-2 rounded-lg bg-primary/20 text-primary font-label-md text-body-sm shadow-sm font-semibold" type="button">₹₹ Medium</button>
+<button class="py-2 rounded-lg bg-surface-container text-on-surface-variant font-label-md text-body-sm hover:bg-surface-container-high transition-colors" type="button">₹₹₹ Fine</button>
+</div>
+</div>
+<!-- Sort Mechanism (Deterministic) -->
+<div class="flex flex-col gap-1.5">
+<label class="font-label-md text-label-md text-on-surface-variant">Sort Pipeline</label>
+<div class="bg-surface-container px-3 py-2.5 rounded-lg flex items-center justify-between">
+<span class="font-body-md text-body-md text-on-surface">Verified Ratings × Volume</span>
+<span class="material-symbols-outlined text-tertiary text-[18px]">verified</span>
+</div>
+</div>
+<!-- CTA Button -->
+<button class="mt-space-sm w-full py-3 px-space-md rounded-full bg-primary-container text-on-primary-container font-label-lg text-label-lg font-bold flex items-center justify-center gap-space-xs shadow-[0_4px_16px_rgba(255,122,26,0.25)] hover:brightness-110 active:scale-[0.99] transition-all" type="submit">
+<span class="material-symbols-outlined text-[20px]">search</span>
+<span>Find restaurants</span>
+</button>
+</form>
+<!-- System Diagnostics Widget -->
+<div class="mt-space-lg pt-space-md bg-surface-container-lowest/50 rounded-lg p-space-sm flex flex-col gap-2">
+<div class="flex items-center justify-between">
+<span class="font-label-md text-label-md text-on-surface-variant">LLM Reasoner Cluster</span>
+<span class="font-label-md text-label-md text-tertiary flex items-center gap-1">
+<span class="h-1.5 w-1.5 rounded-full bg-tertiary inline-block"></span>
+                Standby (503)
+              </span>
+</div>
+<div class="w-full bg-surface-container-highest rounded-full h-1.5 overflow-hidden">
+<div class="bg-tertiary h-full rounded-full w-0 transition-all duration-500"></div>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant/70 leading-relaxed">
+              Heuristic engine fallback engaged. Semantic preference parsing will re-engage once upstream responds.
+            </p>
+</div>
+</div>
+<!-- Locality Micro-Map Reference -->
+<div class="bg-surface-container-low rounded-xl p-space-md flex flex-col gap-space-xs shadow-md">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-md text-label-md text-on-surface flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-primary">map</span>
+              Coverage Area: Whitefield
+            </span>
+<span class="font-label-tabular text-body-sm text-on-surface-variant">5.2 km radius</span>
+</div>
+<div class="w-full h-40 bg-surface-container rounded-lg bg-cover bg-center overflow-hidden relative shadow-inner" data-location="Whitefield, Bangalore, India" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuB86RZHltzK_B3EiNMwhQ45KBeq7MTEkZuccyX3cyk1auAXFLn-_z77KZNIs_7pvgxRoAyByfHGHAI0xPAO3WjVyo81rWv54BNSdxJWhL1U6WedSsZbzWrfhe9-7pSaQBAzc4a1D0_7caW-v-x7fHzlGG1zaKqcU1cdp08hvc6orr7Iq7yQy2xNMrBBYGidgSHWDtdSylvx9qm12exCvUA3KSHChfM3gzIzEA75UUL5Que6a6ujkXYy')">
+<div class="absolute inset-0 bg-gradient-to-t from-surface-container-lowest via-transparent to-transparent opacity-80"></div>
+<div class="absolute bottom-2 left-2 px-2 py-1 rounded bg-surface-container-lowest/90 backdrop-blur-sm text-on-surface font-label-tabular text-body-sm flex items-center gap-1.5">
+<span class="h-2 w-2 rounded-full bg-primary animate-pulse"></span>
+              Inner Circle, ITPL Main Rd, EPIP Zone
+            </div>
+</div>
+</div>
+</aside>
+<!-- RIGHT RESULTS AREA (Desktop: 8 cols) -->
+<section class="lg:col-span-8 w-full flex flex-col gap-space-md">
+<!-- DEGRADED BANNER (Amber theme with warning triangle) -->
+<div class="bg-surface-container-high rounded-xl p-space-md md:p-space-lg shadow-lg relative overflow-hidden">
+<div class="flex items-start gap-space-md">
+<div class="w-10 h-10 rounded-full bg-tertiary/20 flex items-center justify-center shrink-0 mt-0.5 text-tertiary shadow-sm">
+<span class="material-symbols-outlined text-[24px]">warning</span>
+</div>
+<div class="flex flex-col gap-1 flex-1">
+<div class="flex flex-wrap items-center gap-space-xs justify-between">
+<h1 class="font-headline-sm text-headline-sm text-tertiary font-bold tracking-tight">
+                  Basic ranking (AI unavailable)
+                </h1>
+<span class="px-2 py-0.5 rounded bg-surface-container text-tertiary font-label-tabular text-body-sm font-semibold">
+                  HTTP 503 Upstream
+                </span>
+</div>
+<p class="font-body-md text-body-md text-on-surface leading-snug">
+                These picks are ranked by rating and popularity, and the explanations are generated from the data.
+              </p>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1 leading-relaxed">
+                AI semantic reasoning is temporarily paused. Showing deterministic algorithmic sorting based on 4.0+ verified ratings.
+              </p>
+</div>
+</div>
+</div>
+<!-- Feed Subhead / Algorithmic Sorting Controls -->
+<div class="flex items-center justify-between px-space-xs pt-space-xs">
+<div class="flex items-center gap-space-sm">
+<span class="font-label-lg text-label-lg text-on-surface font-semibold">Top Curated Options</span>
+<span class="font-label-tabular text-body-sm px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant">5 Results</span>
+</div>
+<div class="flex items-center gap-2 text-on-surface-variant font-label-md text-label-md">
+<span>Algorithm:</span>
+<span class="text-on-surface bg-surface-container-low px-2 py-1 rounded">Bayesian Mean Score</span>
+</div>
+</div>
+<!-- RESTAURANT CARDS LIST -->
+<div class="flex flex-col gap-space-md">
+<!-- CARD 1: Windmills Craftworks (#1) -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row">
+<!-- Media Aspect / Thumbnail -->
+<div class="md:w-56 h-48 md:h-auto relative shrink-0 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500" data-alt="Intimate dimly-lit interior of Windmills Craftworks microbrewery in Whitefield Bangalore with sleek wooden library shelves, golden amber craft beer glass on polished walnut table, and soft warm background acoustic stage lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDorDY5LcFBFJWnfbhJTwz1055sTQ9jARVdy_y2B2fsW5q9sxNLM5g6p1Z1KhTULDeQQh5MjoycqOqYRIkc0wycWbKpsWRw6kGZOJq7DQIoMM-g-rvR4dtX1XzkUpk6ivfGaHeBIzB5B6E5bKfLAxrzW6RZD1ENt3glwHfnUZNhtGXntcQaodOg0NZjXi1IMEAZlmrYtDuMhM7OS2GmiAPqLZKUJjdC_JZ9cMhZB7LMGYNcrOojBMvF"/>
+<div class="absolute top-3 left-3 flex items-center">
+<span class="h-7 w-7 rounded-full bg-primary-container text-on-primary-container font-headline-sm text-headline-sm flex items-center justify-center font-bold shadow-md">
+                  #1
+                </span>
+</div>
+</div>
+<!-- Card Body -->
+<div class="p-space-md md:p-space-lg flex-1 flex flex-col justify-between gap-space-sm">
+<div class="flex flex-col gap-1.5">
+<div class="flex items-start justify-between gap-space-sm">
+<div>
+<h2 class="font-headline-md text-headline-md text-on-surface font-bold tracking-tight">Windmills Craftworks</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Microbrewery &amp; Jazz Lounge • EPIP Zone, Whitefield</p>
+</div>
+<!-- Right Source Pill: Basic ranking (Grey outline / #6B6B75 equivalent) -->
+<span class="px-2.5 py-1 rounded-full bg-surface-container text-on-surface-variant font-label-md text-label-md shrink-0 shadow-sm">
+                    Basic ranking
+                  </span>
+</div>
+<!-- Metrics strip -->
+<div class="flex flex-wrap items-center gap-x-space-md gap-y-1 mt-1 text-on-surface-variant font-label-tabular text-body-sm">
+<span class="text-tertiary font-bold flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                    4.7
+                    <span class="text-on-surface-variant font-normal">(9,800 votes)</span>
+</span>
+<span>•</span>
+<span class="text-on-surface">₹2,200 for two</span>
+<span>•</span>
+<span>Locality: Whitefield</span>
+</div>
+<!-- Tag Chips -->
+<div class="flex flex-wrap gap-1.5 mt-2">
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Microbrewery</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Jazz Lounge</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Table booking</span>
+</div>
+</div>
+<!-- Deterministic Explanation Box -->
+<div class="bg-surface-container rounded-lg p-space-sm mt-1 flex items-start gap-2">
+<span class="material-symbols-outlined text-on-surface-variant/70 text-[18px] shrink-0 mt-0.5">analytics</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed">
+                  Highest rated establishment in Whitefield based on aggregate user reviews and consistent dining scores.
+                </p>
+</div>
+<!-- Card Action Row -->
+<div class="flex items-center justify-between pt-1">
+<span class="font-body-sm text-body-sm text-on-surface-variant/60 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">schedule</span> Open now • Closes 1:00 AM
+                </span>
+<button class="px-space-md py-1.5 rounded-full bg-surface-container-high hover:bg-surface-bright text-on-surface font-label-md text-label-md font-semibold transition-colors">
+                  View Menu
+                </button>
+</div>
+</div>
+</article>
+<!-- CARD 2: Glen's Bakehouse (#2) -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row">
+<div class="md:w-56 h-48 md:h-auto relative shrink-0 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500" data-alt="Cozy warm European style bakery in Bangalore with display glass counter filled with red velvet cupcakes, sourdough breads, espresso machine steaming, and rustic brick archways." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmklKw3jaMelWPi0-kE6OW84raIQD5uYLRIJ1vXK8Prn6zfHjwlYVv1f8uKl68f4V8_OrP0pWgF0sKXaXXLoUk40lqzJCFuEL-bgZsY_waBU8I8T0I3gmUV0_pccfeC4y2s2OGlmWY2jTBIhIXvIsPiyFgoKBzLxILWdj24xVpqSODYOLdoHPanmzVyzTqAxLmAwxJeeicKyfAkBLuoRl32qMvuIDVDCIsmF3Nn-oUFzH3aMPCrzuk"/>
+<div class="absolute top-3 left-3 flex items-center">
+<span class="h-7 w-7 rounded-full bg-primary-container text-on-primary-container font-headline-sm text-headline-sm flex items-center justify-center font-bold shadow-md">
+                  #2
+                </span>
+</div>
+</div>
+<div class="p-space-md md:p-space-lg flex-1 flex flex-col justify-between gap-space-sm">
+<div class="flex flex-col gap-1.5">
+<div class="flex items-start justify-between gap-space-sm">
+<div>
+<h2 class="font-headline-md text-headline-md text-on-surface font-bold tracking-tight">Glen's Bakehouse</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Bakery, Cafe &amp; Italian • Whitefield Main Road</p>
+</div>
+<span class="px-2.5 py-1 rounded-full bg-surface-container text-on-surface-variant font-label-md text-label-md shrink-0 shadow-sm">
+                    Basic ranking
+                  </span>
+</div>
+<div class="flex flex-wrap items-center gap-x-space-md gap-y-1 mt-1 text-on-surface-variant font-label-tabular text-body-sm">
+<span class="text-tertiary font-bold flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                    4.3
+                    <span class="text-on-surface-variant font-normal">(7,100 votes)</span>
+</span>
+<span>•</span>
+<span class="text-on-surface">₹800 for two</span>
+<span>•</span>
+<span>Locality: Whitefield</span>
+</div>
+<div class="flex flex-wrap gap-1.5 mt-2">
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Bakery</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Cafe</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Desserts</span>
+</div>
+</div>
+<div class="bg-surface-container rounded-lg p-space-sm mt-1 flex items-start gap-2">
+<span class="material-symbols-outlined text-on-surface-variant/70 text-[18px] shrink-0 mt-0.5">analytics</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed">
+                  Popular cafe known for signature red velvet cupcakes and quick casual lunches.
+                </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="font-body-sm text-body-sm text-on-surface-variant/60 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">schedule</span> Open now • Closes 11:30 PM
+                </span>
+<button class="px-space-md py-1.5 rounded-full bg-surface-container-high hover:bg-surface-bright text-on-surface font-label-md text-label-md font-semibold transition-colors">
+                  View Menu
+                </button>
+</div>
+</div>
+</article>
+<!-- CARD 3: TherPuP - A Dog Cafe (#3) -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row">
+<div class="md:w-56 h-48 md:h-auto relative shrink-0 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500" data-alt="Lush green outdoor lawn cafe setting with wooden picnic benches, string fairy lights hanging from banyan trees, happily dining patrons with friendly dogs playing in Whitefield." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDlwFmJHO0SnTl112W2AAWkcfOo4gCtoX7IekuRZ5MFiBkGnGqFu6GOpFZdaSksrc8DY8T5mizC14wf7nM3FESOXzh571738UwXDcVyOmgm6Aj5rI_ACK1gpj_6j-0_zf2hJeWk1QtG2rG6vZx_R3eJ09j1YkYxK44cDWcSR3gF2yOQzHBtvkC4K0Jrc-PM-2zxHnb7G0T_tk-IEiAX__jhN9adDmlJiek8SAv9e9m5hxAIPfAbHcnS"/>
+<div class="absolute top-3 left-3 flex items-center">
+<span class="h-7 w-7 rounded-full bg-primary-container text-on-primary-container font-headline-sm text-headline-sm flex items-center justify-center font-bold shadow-md">
+                  #3
+                </span>
+</div>
+</div>
+<div class="p-space-md md:p-space-lg flex-1 flex flex-col justify-between gap-space-sm">
+<div class="flex flex-col gap-1.5">
+<div class="flex items-start justify-between gap-space-sm">
+<div>
+<h2 class="font-headline-md text-headline-md text-on-surface font-bold tracking-tight">TherPuP - A Dog Cafe</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Casual Cafe &amp; Pet Playzone • Kaikondrahalli, Whitefield Road</p>
+</div>
+<span class="px-2.5 py-1 rounded-full bg-surface-container text-on-surface-variant font-label-md text-label-md shrink-0 shadow-sm">
+                    Basic ranking
+                  </span>
+</div>
+<div class="flex flex-wrap items-center gap-x-space-md gap-y-1 mt-1 text-on-surface-variant font-label-tabular text-body-sm">
+<span class="text-tertiary font-bold flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                    4.2
+                    <span class="text-on-surface-variant font-normal">(4,300 votes)</span>
+</span>
+<span>•</span>
+<span class="text-on-surface">₹700 for two</span>
+<span>•</span>
+<span>Locality: Whitefield</span>
+</div>
+<div class="flex flex-wrap gap-1.5 mt-2">
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Pet Friendly</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Outdoor</span>
+</div>
+</div>
+<div class="bg-surface-container rounded-lg p-space-sm mt-1 flex items-start gap-2">
+<span class="material-symbols-outlined text-on-surface-variant/70 text-[18px] shrink-0 mt-0.5">analytics</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed">
+                  Ranked #3 based on family popularity and pet-friendly outdoor seating.
+                </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="font-body-sm text-body-sm text-on-surface-variant/60 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">schedule</span> Closes at 9:00 PM
+                </span>
+<button class="px-space-md py-1.5 rounded-full bg-surface-container-high hover:bg-surface-bright text-on-surface font-label-md text-label-md font-semibold transition-colors">
+                  View Menu
+                </button>
+</div>
+</div>
+</article>
+<!-- CARD 4: The Pallet - Brewhouse & Kitchen (#4) -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row">
+<div class="md:w-56 h-48 md:h-auto relative shrink-0 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500" data-alt="Massive industrial chic brewpub with exposed metal piping, wooden pallets architectural art, glowing copper brew tanks in background and cocktail tables." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCCmK6SB9pAGHc8Xh3CZME-qcsEmP6XoOOMswUWmZmOJUz60_P3Q74wzUAgmmtfRgVDMsJXd-xvzm_zXxGXwGdQkjRWXgIFNQWOCFU7aVxK1fLU3y546rZ_6x4XGVR15ScXUTO2sxqsYO73Dv6RGEfGCkpE-zIS7MwMxbeGrYCMPUD2sxisr6t_hKRBeIPr-ePN2w_JDLIva6OggeAi40Dlnl7Hz_0RjgQHRW8wBDWMRCkPCa1iZuEL"/>
+<div class="absolute top-3 left-3 flex items-center">
+<span class="h-7 w-7 rounded-full bg-primary-container text-on-primary-container font-headline-sm text-headline-sm flex items-center justify-center font-bold shadow-md">
+                  #4
+                </span>
+</div>
+</div>
+<div class="p-space-md md:p-space-lg flex-1 flex flex-col justify-between gap-space-sm">
+<div class="flex flex-col gap-1.5">
+<div class="flex items-start justify-between gap-space-sm">
+<div>
+<h2 class="font-headline-md text-headline-md text-on-surface font-bold tracking-tight">The Pallet - Brewhouse &amp; Kitchen</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Microbrewery, Continental, Pan-Asian • ITPL Main Road</p>
+</div>
+<span class="px-2.5 py-1 rounded-full bg-surface-container text-on-surface-variant font-label-md text-label-md shrink-0 shadow-sm">
+                    Basic ranking
+                  </span>
+</div>
+<div class="flex flex-wrap items-center gap-x-space-md gap-y-1 mt-1 text-on-surface-variant font-label-tabular text-body-sm">
+<span class="text-tertiary font-bold flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                    4.4
+                    <span class="text-on-surface-variant font-normal">(5,200 votes)</span>
+</span>
+<span>•</span>
+<span class="text-on-surface">₹1,400 for two</span>
+<span>•</span>
+<span>Locality: Whitefield</span>
+</div>
+<div class="flex flex-wrap gap-1.5 mt-2">
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Craft Beers</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Live Music</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Spacious Seating</span>
+</div>
+</div>
+<div class="bg-surface-container rounded-lg p-space-sm mt-1 flex items-start gap-2">
+<span class="material-symbols-outlined text-on-surface-variant/70 text-[18px] shrink-0 mt-0.5">analytics</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed">
+                  Ranked #4 by review count for large groups, craft brewing diversity, and weekend seating capacity.
+                </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="font-body-sm text-body-sm text-on-surface-variant/60 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">schedule</span> Open now • Closes 12:30 AM
+                </span>
+<button class="px-space-md py-1.5 rounded-full bg-surface-container-high hover:bg-surface-bright text-on-surface font-label-md text-label-md font-semibold transition-colors">
+                  View Menu
+                </button>
+</div>
+</div>
+</article>
+<!-- CARD 5: Udupi Park (#5) -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row">
+<div class="md:w-56 h-48 md:h-auto relative shrink-0 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500" data-alt="Crisp golden brown masala dosa served with fresh coconut chutney and piping hot sambar in stainless steel bowls at an authentic bustling South Indian diner." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDZQc-h5NJhHs0kaNdFQd8bQmnlNUsQXUNIBpW6hINb51Lv5QMRmV0zKGnRRJa4xHfNkXZWkKrz5TQWqShPXz6cXwr8_3HaprnyYwWr9Oe6sCTbZwHIyIg1odl8BtKQFQFWDbEZKL0hOu_FeTCQ98wqLKuGu3b2pWHtviybJ6qX5hNGlfxj8tbK00MHnTh8YU6a2h0z5v8QhYCJR2SN-7GRrnadYY7DT2iVrFuL5P3Vb7kMmvv-il4d"/>
+<div class="absolute top-3 left-3 flex items-center">
+<span class="h-7 w-7 rounded-full bg-primary-container text-on-primary-container font-headline-sm text-headline-sm flex items-center justify-center font-bold shadow-md">
+                  #5
+                </span>
+</div>
+</div>
+<div class="p-space-md md:p-space-lg flex-1 flex flex-col justify-between gap-space-sm">
+<div class="flex flex-col gap-1.5">
+<div class="flex items-start justify-between gap-space-sm">
+<div>
+<h2 class="font-headline-md text-headline-md text-on-surface font-bold tracking-tight">Udupi Park</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">South Indian, Quick Bites, Filter Coffee • Kundalahalli Gate, Whitefield</p>
+</div>
+<span class="px-2.5 py-1 rounded-full bg-surface-container text-on-surface-variant font-label-md text-label-md shrink-0 shadow-sm">
+                    Basic ranking
+                  </span>
+</div>
+<div class="flex flex-wrap items-center gap-x-space-md gap-y-1 mt-1 text-on-surface-variant font-label-tabular text-body-sm">
+<span class="text-tertiary font-bold flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                    4.1
+                    <span class="text-on-surface-variant font-normal">(11,000 votes)</span>
+</span>
+<span>•</span>
+<span class="text-on-surface">₹300 for two</span>
+<span>•</span>
+<span>Locality: Whitefield</span>
+</div>
+<div class="flex flex-wrap gap-1.5 mt-2">
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Pure Veg</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Fast Service</span>
+<span class="px-2 py-0.5 rounded bg-surface-container-high text-on-surface font-label-md text-body-sm">Breakfast Landmark</span>
+</div>
+</div>
+<div class="bg-surface-container rounded-lg p-space-sm mt-1 flex items-start gap-2">
+<span class="material-symbols-outlined text-on-surface-variant/70 text-[18px] shrink-0 mt-0.5">analytics</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed">
+                  High-frequency visit volume with 11,000+ ratings for quick dining and verified South Indian value.
+                </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="font-body-sm text-body-sm text-on-surface-variant/60 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">schedule</span> Open now • Closes 10:30 PM
+                </span>
+<button class="px-space-md py-1.5 rounded-full bg-surface-container-high hover:bg-surface-bright text-on-surface font-label-md text-label-md font-semibold transition-colors">
+                  View Menu
+                </button>
+</div>
+</div>
+</article>
+</div>
+<!-- FOOTER METADATA BAR (Strictly adhering to requested specs) -->
+<div class="bg-surface-container-lowest rounded-xl p-space-md mt-space-sm flex flex-col sm:flex-row items-center justify-between gap-space-xs text-on-surface-variant font-label-tabular text-body-sm">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-[16px] text-tertiary">database</span>
+<span>18 candidates evaluated</span>
+<span>·</span>
+<span>Ranked by popularity &amp; rating algorithm</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="px-2 py-0.5 rounded bg-surface-container text-on-surface font-semibold">120 ms</span>
+<span class="text-on-surface-variant/50">fallback response</span>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div></main><footer class="w-full bg-surface-container-lowest mt-space-2xl py-space-xl"><div class="max-w-7xl mx-auto px-gutter-lg flex flex-col sm:flex-row items-center justify-between gap-space-md text-on-surface-variant font-body-sm text-body-sm"><div><span>© 2025 DineWise Bangalore. Curating Koramangala, Indiranagar, Lavelle Road &amp; beyond.</span></div><div class="flex items-center gap-space-lg"><span class="text-on-surface-variant/80">Model: Culinary-GPT-4v Bangalore Edition</span><span class="text-secondary">Late-Night &amp; Cafe Intelligence</span></div></div></footer></body></html>

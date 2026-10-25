@@ -1,0 +1,1308 @@
+{
+ "id": "unverifiable-01",
+ "result": {
+  "preferences": {
+   "location": "Jayanagar",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Jayanagar"
+   ],
+   "budget": "medium",
+   "cuisines": [
+    "Chinese"
+   ],
+   "min_rating": 0.0,
+   "extras": "must be wheelchair accessible",
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_dd0cceaa9962",
+    "name": "Empire Restaurant",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "4, Opposite NMKRV College, 21st C Cross Road, 3rd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "South Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 5060,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Grill",
+     "Ghee Rice",
+     "Butter Chicken",
+     "Shawarma",
+     "Mutton Shaadi Ki Biryani",
+     "Chicken Tikka Masala",
+     "Mutton Keema Dosa"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Empire as usual. A bit costly but does justice with good quantity and quality. The packing was good and hot as well. Looking forward to visit again soon",
+     "Grill and tandoori is an all timer goto, but the quality is suppressed in the recent past. Shwarama is a must try. Butter chicken gravy+kerela parota in the mains!",
+     "I feel this is an hyped restaurent. Empire is a well known chain of restaurent but taste is just average. Some of food which I ordered like thali,biriyani and kabab are just average. The best thing…"
+    ]
+   },
+   {
+    "id": "r_25950c6c1228",
+    "name": "Shanmukha",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "1313, Near Bangalore Central Mall, 25th Main, 9th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Biryani",
+     "Andhra",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 2020,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Egg Biryani",
+     "Egg Chilli",
+     "Mutton Biryani",
+     "Hyderabadi Biryani",
+     "Naan",
+     "Raita",
+     "Shanmukha Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Worst tandoori I have eaten today...literally rubber. The guy who received the call was arrogant...have been eating here for so long and never experienced such arrogant guy...",
+     "I really like the food here, I had the shanmukha special chicken biryani,chicken 555,butter chicken,chicken majestic everything tasted really good and I loved the food,the ambience was not so good…",
+     "Andra prawn fry dry and Hyderabadi Chicken dum biryani is what we have tried and it was really good. My exact rating would be 3.5 - 0.5 less for the taste and less 1 for the slow service. Hope…"
+    ]
+   },
+   {
+    "id": "r_1ea93a7cc3b9",
+    "name": "Once Upon a Rooftop",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "278/A, 9th Main Road, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Italian",
+     "Chinese",
+     "Thai"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1278,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Cocktails",
+     "Pasta",
+     "Churros",
+     "Mushroom Soup",
+     "Mocktails",
+     "Panna Cotta"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Their menu is wide variety and great quantity! One of their floor is under renovation hence seating is uncomfortable and congested. This time we were offered roof top on top floor and was slightly…",
+     "What: casual dining Where: jayanagar Ambience: good We ordered fu Fu chicken, chicken meat balls, french fries, chicken skewers, chicken peking bowl The place is ok ok. Its very small comparatively…",
+     "A restaurant with a great setting in a crowded place like Jayanagar . The Australian red wine was really good. Also majestic melon drink is a must try . Egg biriyani was awesome . Overall top…"
+    ]
+   },
+   {
+    "id": "r_938308d3a1e4",
+    "name": "1947",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "62, The High Street Building, 5th Floor, 4T Block, Opposite Vijaya College, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 950,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 2359,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Tomato Soup",
+     "Salad",
+     "Kulcha",
+     "Chaat",
+     "Kulfi",
+     "Panipuri"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Been here twice now and I love this place...the ambiance is good..the food tastes great and the service is top notch...try to get a table by the window and you can see a beautiful view of Bangalore…",
+     "Had a very nice Saturday evening dinner at 1947, 4th block Jayanagar. Along with two more couples, we were a group of 6. Their cheese corn soup was excellent. Maincourse was also great. We ordered 3…",
+     "It's purely veg, the place is at a great location,the view is great from the terrace,the staff is friendly, the food is pretty good, dal makhani was awesome, tawa veg was pretty good the jeera rice…"
+    ]
+   },
+   {
+    "id": "r_37375855130b",
+    "name": "The Royal Corner - Pai Viceroy",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "Pai Viceroy, 1504, 16th Cross, 9th Main, 3rd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 815,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Breakfast Buffet",
+     "Kulcha",
+     "Almond Soup",
+     "Lunch Buffet",
+     "Roti",
+     "Mocktails",
+     "Vegetarian"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Been here for buffet lunch with a big team. One of the good veg buffets in Jayanagara. Have plenty dishes in the list & most of it are worth the try.",
+     "We had been there for breakfast... Breakfast buffet is really nice... Mixed fruit juice and vanilla milkshake Cupcakes, slice cake, veg sandwich, cut fruits Idli, vada with tomato chutney n coconut…",
+     "It was a good experience Good service, except the soups(tomato and vegetables noodle soup) all other dishes were good. We had paneer Afghani Tikka -4/5 Rajasthani roti, stuffed paratha, garlic naan…"
+    ]
+   },
+   {
+    "id": "r_d05cde90472d",
+    "name": "Eshanya",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "33, 26th Main, 36th Cross, 4th T Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 1082,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Spring Roll",
+     "Vanilla Ice Cream",
+     "Veg Thali",
+     "Biryani",
+     "Thandai",
+     "Roti",
+     "Tikka"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The food was good as always the service was also quick The best part about that place is the open air theme and you feel so good and fresh when you have food there especially when it's raining It's…",
+     "Eshanya as the name says is on the northeastern part of jayanagar! The ambient simplicity and the amazing food in a roof top make an evening very memorable here. Must try: Paneer Tikka #rajeshwrites",
+     "We had been here for a birthday celebration and this was not our first choice. However, I had been here few times and was impressed with the food. So suggested this place. This place used to be a…"
+    ]
+   },
+   {
+    "id": "r_79faa7328ead",
+    "name": "Andhra Ruchulu",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "The President Hotel, 79/8, Diagonal Road, 3rd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Andhra",
+     "Biryani",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 682,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Chicken Sholay",
+     "Chicken Biryani",
+     "Andhra Meal",
+     "Mutton Biryani",
+     "Chicken Guntur",
+     "Andhra Thali",
+     "Guava Ice Cream"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Been here recently - we booked a table about 3 hours in advance, we were a large group so we confirmed by calling back if we had the reservation confirmed which they said we did. We turned up and we…",
+     "Too good for the best Andhra meals which is unlimited and service is also good enough ambience is not that great it Would have been better if it was more of vegetarian menu.",
+     "Wanted to try this place from so many days and finally we had been here for dinner with family . It was quite amazing and well organised for the family dinner we had a very gud experience. The food…"
+    ]
+   },
+   {
+    "id": "r_b911b9173e3f",
+    "name": "Biryanis And More",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "178, Next To Old KEB Office, 8th F Main Road, 24b Cross, 3rd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Chinese",
+     "Andhra",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 631,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Prawn Biryani",
+     "Dragon Chicken",
+     "Chicken Dum Biryani",
+     "Chicken Boneless Biryani",
+     "Paneer Tikka",
+     "Afghani Biryani",
+     "Mughlai Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Dear Biryanis and more... I cannot express how happy I am to have eaten the food you serve. I have never been there but I've ordered quite a few times and every single time you've amazed me. Please…",
+     "They have variety of biryani. We have tried Boneless chicken Biryani and Egg Biryani. Boneless biryani is good. We have also tried Chiken noodles which was nothing great.",
+     "Absolutely amazing biryanis available here, we tried the Afghani chicken biryani and it was delicious. The pricing is on the higher side for the service and ambience offered. Service needs to…"
+    ]
+   },
+   {
+    "id": "r_8179f1581c91",
+    "name": "Fusion Theory",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "34/1, 3rd & 4th Floor, 36th Cross, 6th Main, 4th Block, Jayanagar, Bengaluru",
+    "zones": [
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Continental",
+     "Biryani",
+     "Desserts",
+     "Italian",
+     "North Indian",
+     "Chinese",
+     "Modern Indian",
+     "Asian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 336,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Mocktails",
+     "Paneer Tikka",
+     "Chinese Bhel",
+     "Biryani",
+     "Aam Panna",
+     "Panipuri"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "A new restaurant in Jayanagar which lived up to my expectation. Fusion Theory is all about mixing up two different cuisines for something new. You can actually go to this place if you are confused…",
+     "Let's start of with the ambiance - 4/5 pretty good a bit compact but good. Food- 3.5/5 expected more from this place due to all the hype and the zomato ratings but was dissapointed once we got the…",
+     "The rating is just for their ambiance and service. Food taste is horrible. We ordered for Indo Chinese bhel which was very very spicy. We ended up drinking the entire jug of water kept there n asked…"
+    ]
+   },
+   {
+    "id": "r_e3e58edf0b41",
+    "name": "Cafe Cosy",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "433/3/1, 4th Floor, 28th Cross, 10th Main, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Chinese",
+     "Continental",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 117,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Pizza",
+     "Mocktails",
+     "Jalapeno Poppers"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Cafe Cosy,as the name suggests is quite a cosy place. They have a vast menu for food and hookah for quite exciting prices. Tried quite a lot of dishes there from starters to desserts. For starters…",
+     "The ambience is great, the hookah flavour we opted for was the best! I would love to visit this place again. Nice staff, great food , perfect place for hookah! Thankyou",
+     "Cosy cafe in jayanagar 4th block an amazing place to chill out and also is a rooftop cafe. Ambience - The place has good interiors with a neat seating and proper lighting. It feels good to enjoy and…"
+    ]
+   },
+   {
+    "id": "r_d3132812f03a",
+    "name": "Thyme & Whisk",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "56/1, Sri Krishna Towers, 9th Main Road, 5th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Asian",
+     "Chinese",
+     "Continental",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 109,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Momos",
+     "Brownie",
+     "Hakka Noodles",
+     "Nachos",
+     "White Pasta",
+     "Hot Chocolate"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Me and my school besties had our reunion here and the place was just right to celebrate that. We ordered fries for starters and I had green tea to get ready for tasting all the glorious food, the…",
+     "This place is good and the food tasted good. Ambiance and service is good. The presentation of the food was too good. Price is high for the quantity they serve. But the taste is too good. Good place…",
+     "One more paradise for vegetarians. You name the cuisine and we cover it. That's one of the quote on the wall and they are almost upto it. From chana chur chat to fondu, from chole bhature to…"
+    ]
+   },
+   {
+    "id": "r_207d2d7943e8",
+    "name": "Al-Bek",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "Opposite Jayadeva Hospital, 9th Block, Off Bannerghatta Road, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Chinese",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 692,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Biryani",
+     "Chicken Shawarama",
+     "Chicken Grill",
+     "Pepper Chicken",
+     "Chicken Shwarma Roll",
+     "Chicken Tikka",
+     "Punjabi Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Ordered mutton biryani and chicken kebab . For a change biryani was not spicy nor oily. Typical Bangalore style biryani . Kebab was crispy and nice except only ribs and bones were served . Service…",
+     "Been there on Sunday at around 9:30 PM and every other dish we asked for was not available :( Had to settle for few options that were available! We ordered for Pahadi Kabad and Tandoori Kabab based…",
+     "I loved the place. Ambiance was awesome and so was the food.you have to wait a bit to get a seat but it's worth.they mostly have a lot of variety in mughlai dishes.the best thing which I liked is…"
+    ]
+   },
+   {
+    "id": "r_c20753c6f4c2",
+    "name": "Rajathadri Food Fort",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "19/49, Near National College, 2nd Main, 31st Cross, 7th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 469,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Butter Naan",
+     "Filter Coffee",
+     "Pav Bhaji",
+     "Vada",
+     "Babycorn Manchurian",
+     "Tea",
+     "Paneer Tikka Masala"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Very crowded place, u almost need to wait Everytime u visit. Decent pricing, decent taste, decent quantity. Their indianized Chinese tastes ok ok. But good for a quick bite which in and around…",
+     "Good food,quick service,good amnience what else do you need in a restaurant. I really like the food over her I took a panner manchurian,mushroom 65 and a baby corn pepper dry and Malawi kofta with…",
+     "Rajathadri food fort is the Best hotel I ever come across in Bangalore. Best taste. Best ambiance. Reasonable price. It is situated in nice place. Totally loved it."
+    ]
+   },
+   {
+    "id": "r_a5ba5e468761",
+    "name": "Sri Udupi Food Hub",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "155, 43rd Cross Road, 8th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 176,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Filter Coffee",
+     "Masala Dosa",
+     "Idli",
+     "Vada"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": []
+   },
+   {
+    "id": "r_db6023598c25",
+    "name": "Samskruti - Sanman Gardenia",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "2, Ashoka Pillar Circle, 2nd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 7th Block",
+     "Lavelle Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 550,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 142,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Roti",
+     "Butter Kulcha",
+     "Fried Rice",
+     "Tomato Soup",
+     "Curd Rice",
+     "Lunch Buffet",
+     "Paneer Tikka"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Enjoyed the buffet spread, reasonably priced with polite service. Ala carte are very highly priced and hence I guess it works to go for the buffet option .",
+     "Good Food & Good Service !!! I visited this place for a team lunch recently and the place is very welcoming.We were a team of 10 people and could get the seats easily. We opted for the Buffet.The…",
+     "Fine! I've been here a couple of times and the food seems to be fair. We also had organized a party in their hall and the food was decent."
+    ]
+   },
+   {
+    "id": "r_c3003821e1f3",
+    "name": "Golden Oak - La Marvella Sarovar Premiere Hotel",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "La Marvella Hotel, 1, 14th Cross, South End Circle, 2nd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Chinese",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 371,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Salads",
+     "Tiramisu",
+     "Rasmalai",
+     "Biryani",
+     "Lunch Buffet",
+     "Roti",
+     "Chaat"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Ambience -5/5 Food - 4/5 Service - 4/5 VFM - 4/5 Parking - Valet The Golden Oak is the in house restaurant at the La Marvella Sarovar hotel at JP Nagar. The decor of the restaurant is grand and very…",
+     "Beautiful ambiance, valet parking.. good food.. I recommend this place for family dining.. we loved dal makhni, Broccoli tikka, pulav and Biriyani..",
+     "The restaurant has some great South Indian delicacies. The masala dosa with three varieties of chutney were nice. However sambar though good was given only after a few requests. Ambience is good and…"
+    ]
+   },
+   {
+    "id": "r_7606816ffe66",
+    "name": "Chung's Chinese Corner",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "295, Sri Krishna Complex, 10th Main, 3rd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 225,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Manchow Soup",
+     "Wonton Soup",
+     "Momos",
+     "Chowmein",
+     "American Chopsuey",
+     "Chop Suey",
+     "Spring Roll"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "We had ordered drums of heaven.. chicken mushroom soup..mixed koithai and chicken American chopsuey.. Ambience was okay-ish The food was good... Finally got some good Chinese food around here...",
+     "It's a nice place to have chinese food .. Good ambiance... Service was a bit late... Overall very good... I had ordered schezwan noodles and the taste was pretth good",
+     "Regular Customer here! We drop by here every week since my office is close by. Great service and amazing food. I recommend all their sea food, koithio, chowmien, Malaysian noodles etc. Also, this…"
+    ]
+   },
+   {
+    "id": "r_662d5d4622e5",
+    "name": "De Thaali",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "137/4, 8th Main Road, 27th Cross, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 550,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 145,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Malai Kofta",
+     "Sandwich",
+     "Naan"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "A small place to hangout with your friend while eating the regular food. The ambiance is perfect and the place is a must visit for a good afternoon lunch."
+    ]
+   },
+   {
+    "id": "r_23b4e6a6f84d",
+    "name": "Desi Rasoi",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "57, 1st & 2nd Floor, SLV Arcade, 40th Cross, 5th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Chinese",
+     "Rajasthani"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 363,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Hara Bhara Kebab",
+     "Lunch Buffet",
+     "Naan",
+     "Babycorn Manchurian",
+     "Malai Kofta",
+     "Noodles",
+     "Gulab Jamun"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "desserts",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Went there on a weekday for dinner. With rajasthani decor, this place serves north indian veg food. Menu has less options but decently priced. We opted for buffet. First they serve one welcome drink…",
+     "We opted for buffet here, chats and starters are only good to have main courses are not up to the mark . Even desert also not good. Welcome drink is also not that good. They add too many sweet to…",
+     "The ambience is rajasthani style. The service is slow, even when you ask for something, they take a long time to serve. It has got both buffet and alacarte. The taste is decent nothing spectacular…"
+    ]
+   },
+   {
+    "id": "r_81c9f5a42427",
+    "name": "Hyderabad Bawarchi",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "4,30th Cross, Jayanagar T Block,Tilaknagar Main Road, Bangalore, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 5th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Biryani",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 118,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Khubani Ka Meetha",
+     "Mutton Biryani",
+     "Chicken Biryani",
+     "Tandoori Chicken",
+     "Hyderabadi Dum Biryani",
+     "Raita"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Located on main road of Tilaknagar, been to this place only to taste Biryani. Can't say it's an authentic like what we get in Hyderabad, but it was spicy and good. They serve half and full portion…",
+     "This place serves some of the best biryani. They also offer you to customise your biryani based on the amount of masala you require. Haven't dined in at this place but I prefer to get it packed…"
+    ]
+   },
+   {
+    "id": "r_0a40b9860033",
+    "name": "Saarangi Fine Dining",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "The Royal Comfort, 453/2/16, 27th Cross, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": null,
+    "votes": 285,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Panipuri",
+     "Pongal",
+     "Paneer Manchurian",
+     "Coffee",
+     "Palak Paneer",
+     "Chaat",
+     "Thali"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "P.S This is not a fine dining restaurant! It's just a normal restaurant which is over prized. They do not even have a table napkin. After asking for 3 to 4 times and waiting for 20 minutes , finally…"
+    ]
+   },
+   {
+    "id": "r_da1b452ff888",
+    "name": "Mangalore Pearl",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "197/F, 8th B Main, 27th Cross, 3rd Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Mangalorean",
+     "Seafood",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 246,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Neer Dosa",
+     "Sea Food",
+     "Ghee Rice",
+     "Marwai Sukka",
+     "Egg Biryani",
+     "Kori Roti",
+     "Thai Fish"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Nice place.. of course parking is an issue.. can't help.. but I would recommend this place for seafood and also vegetarians can accompany.. nice ambiance.. no fish smell around.. good veg options…"
+    ]
+   },
+   {
+    "id": "r_7ea3a5ccd491",
+    "name": "Curry Leaves",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "1616, 36th Cross, East End Main Road, 9th Block, Jayanagar, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Andhra",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 233,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Andhra Meal",
+     "Vegetable Biryani",
+     "Veg Thali",
+     "Chicken Chettinad",
+     "French Chicken",
+     "Manchurian"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I think me and my office team came here 3 times in 2 months time for lunch. Good food, good ambience, good service. The South Indian chicken dishes I had here at #CurryLeaves to me are awesome…"
+    ]
+   },
+   {
+    "id": "r_2c6872639828",
+    "name": "Central Jail Restaurant",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "433/30/1, 28th Cross, 10th Main, Opposite BDA Complex, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Andhra",
+     "Seafood",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 3.7,
+    "votes": 429,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Wings",
+     "Lime Soda",
+     "Manchow Soup",
+     "Biryani",
+     "Fried Rice",
+     "Chop Suey",
+     "Tandoori Roti"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Located on a busy road in Jayanagar, this restaurant is pretty crowded. Their special CJR spicy soup is top-notch. Taste, quantity and service - 3.5/5 I like to suggest the restaurant about the…",
+     "I really got sacred when I first entered..I really liked the concept and felt that m in jail in reality ..Staffs are really prompt , professional and attentive .Quick service,reasonable price .I…",
+     "Everything about this place was below average. Service : ultimate slow and bad Ambience : was good, just what we can imagine a jail. But hygiene was very very poor. Ultimate dirty plates and glass…"
+    ]
+   },
+   {
+    "id": "r_e33ae167cde5",
+    "name": "Sukh Sagar",
+    "city": "Bangalore",
+    "locality": "Jayanagar",
+    "address": "30th Cross, 8th Main, Near Jain Temple, 4th Block, Jayanagar, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 156,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pav Bhaji",
+     "Chaat",
+     "Sandwiches",
+     "Coffee",
+     "Noodles",
+     "Masala Dosa",
+     "Roti"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "The food quality and quantity is good. Service is quick and a hygenic restaurant too. I ordered one curd rice . It was a mixture of veggies and curry leaves , a good taste indeed. Price is pocket…",
+     "The food is ok! The service is quick but the taste is average. It has been an oldie in Jayanagar and staying in Jayanagar for all my life, the taste of food here is no more up to the mark! Their…",
+     "Best place to grab a quick breakfast or have a nice meal with family or friends. The food is all made fresh and very hygienic. They have the self service counter in the groundfloor and seating…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_dd0cceaa9962": 0.85,
+   "r_25950c6c1228": 0.794969,
+   "r_1ea93a7cc3b9": 0.781559,
+   "r_938308d3a1e4": 0.743264,
+   "r_37375855130b": 0.740261,
+   "r_d05cde90472d": 0.720433,
+   "r_79faa7328ead": 0.706921,
+   "r_b911b9173e3f": 0.704646,
+   "r_8179f1581c91": 0.686215,
+   "r_e3e58edf0b41": 0.683582,
+   "r_d3132812f03a": 0.681524,
+   "r_207d2d7943e8": 0.679222,
+   "r_c20753c6f4c2": 0.667841,
+   "r_a5ba5e468761": 0.667341,
+   "r_db6023598c25": 0.632964,
+   "r_c3003821e1f3": 0.632862,
+   "r_7606816ffe66": 0.618254,
+   "r_662d5d4622e5": 0.605448,
+   "r_23b4e6a6f84d": 0.604099,
+   "r_81c9f5a42427": 0.599454,
+   "r_0a40b9860033": 0.597031,
+   "r_da1b452ff888": 0.592734,
+   "r_7ea3a5ccd491": 0.591149,
+   "r_2c6872639828": 0.580859,
+   "r_e33ae167cde5": 0.579452
+  },
+  "relaxations": [],
+  "total_matches": 52
+ },
+ "edit": {}
+}

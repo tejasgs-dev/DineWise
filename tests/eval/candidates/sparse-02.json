@@ -1,0 +1,1307 @@
+{
+ "id": "sparse-02",
+ "result": {
+  "preferences": {
+   "location": "Kengeri",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Kengeri"
+   ],
+   "budget": null,
+   "cuisines": [
+    "Thai"
+   ],
+   "min_rating": 4.8,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_2e8af5a92547",
+    "name": "Asia Kitchen By Mainland China",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "136, Ground Floor, 1st Cross, 5th Block, Jyoti Niwas College Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Asian",
+     "Chinese",
+     "Thai",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 2256,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Noodles",
+     "Chicken Dim Sum",
+     "Pad Thai Noodle",
+     "Jumbo Prawns",
+     "Cocktails",
+     "Prawn Sushi",
+     "Treasure Soup"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Order the dim sum and khau suey The taste of truffle in the dimsum wasn't very high Felt like something was missing The khau suey was decent however they prepared and gave it to us Mostly it's to be…",
+     "This was my 2nd visit. Previously i have opted for buffet. But this time it was not buffet. I love their each and every food. They also served complementary desert. Everyone should try this place.",
+     "Tempura shrimp sushi rolls- 5/5 Cantonese style chicken pan fried noodles- 4/5 Loved the ambience, food and behavior of the staff. The sushi was super delicious. It was served with ginger pickle…"
+    ]
+   },
+   {
+    "id": "r_443e46e4c156",
+    "name": "Byg Brewski Brewing Company",
+    "city": "Bangalore",
+    "locality": "Sarjapur Road",
+    "address": "Behind MK Retail, Sarjapur Road, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Italian",
+     "South Indian",
+     "Finger Food"
+    ],
+    "rest_types": [
+     "Microbrewery"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 16832,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Butter Chicken",
+     "Dahi Kebab",
+     "Rajma Chawal",
+     "Craft Beer",
+     "Teriyaki Fish",
+     "Buffalo Wings"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This is an absolute great place. The service is great. Cheers to 'Rajesh'! Their signature drink, the brewski potion and their naga bao are 'must try'. Will visit again.",
+     "Best example to say \"Brand\" name works, and even the reviews and information i got from my surroundings about this place was very good, as soon as we entered Inside the crowd and ambience attracted…",
+     "This is definitely one of the best places in Sarjapur. Excellent place with good food, great ambience and courteous staff. Must visit place. They have live band."
+    ]
+   },
+   {
+    "id": "r_0bf23561aeb0",
+    "name": "AB's - Absolute Barbecues",
+    "city": "Bangalore",
+    "locality": "BTM",
+    "address": "100 Feet Road, 1st Phase, Near Jayadeva Flyover, 2nd Stage, BTM, Bangalore",
+    "zones": [
+     "BTM",
+     "JP Nagar",
+     "Jayanagar",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "European",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 6490,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Tangdi Chicken",
+     "Bbq Buffet",
+     "Chocolate Icecreams",
+     "Kofta Curry",
+     "Mutton Seekh Kabab",
+     "Paneer Curry",
+     "Mutton Keema"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Thapush and Rahul served us really well on a packed Sunday noon. The barbeque is brilliant here. One should visit for a good meal of starters and desserts.",
+     "AB's is a good place to have buffet food. Their live counter is a good thing, though the quantity they serve in the live counter is very less and it's just for taste purpose. Blue Angel and Indian…",
+     "Undoubtedly the best buffet restaurant. Food is always amazing and well prepared. Service is great! Staff is polite and cheerful. Ambience is also great. Overall one of the best places to hangout…"
+    ]
+   },
+   {
+    "id": "r_1cd06f9b8552",
+    "name": "Hammered",
+    "city": "Bangalore",
+    "locality": "Cunningham Road",
+    "address": "18, Ali Askar Road, Cunningham Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Thai",
+     "Japanese",
+     "Continental",
+     "Cafe"
+    ],
+    "rest_types": [
+     "Pub",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 4845,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Sangria",
+     "Chicken Satay",
+     "Crispy Corn",
+     "Masala Fries",
+     "Wood Fire Pizza",
+     "Pesto Pasta",
+     "Cocktails"
+    ],
+    "tags": [
+     "bar",
+     "cafe",
+     "delivery",
+     "desserts",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The service was really bad else I would have rated it a 4. The food is actually pretty tasty. I highly recommend the potato wedges and for cheese lovers the naga chilly cheese toast (its not that…",
+     "A nice place to hangout with a bunch of friends, liked the interiors of place..quite spacious and quirky designs. They also have the option of Hukah. Coming to the food..had ordered for pav Bajji…",
+     "Great place to catch up for drinks, shisha or even dinner. I am very skeptical about bar food but Hammered was just a whole new level. I recommend the chicken pop corn, rodeo burger, indo chinese…"
+    ]
+   },
+   {
+    "id": "r_11ee80b40b1c",
+    "name": "Flechazo",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "120 A3, 2nd Floor, Santosh Tower, EPIP Industrial Area, Phase 1, Hoodi Village, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Asian",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 3004,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Mutton Kebab",
+     "Chicken Biryani",
+     "Sea Food",
+     "Chicken Dim Sum",
+     "Pasta",
+     "Mocktails"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Last week I had a Team launch at Flechazo. First of all, the ambience is superb here! A perfect destination for such gatherings. The food was really good. I would definitely recommend to try Lamb…",
+     "Visit this place for teem lunch. I had great experience to Flechazo. They have good buffet great hospitality. Good veg and nonveg stastar. Nice service friendly attitude..... Awesome.... Ambiance",
+     "Finally visited this place. Liked everything about the food. Place was a bit crowded. Sushi is must try and chat was good too. Paan ice cream is must try. Overall very much satisfied with the foood"
+    ]
+   },
+   {
+    "id": "r_d0047662b956",
+    "name": "Milano Ice Cream",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "460, 2nd Cross, Krishna Temple Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.9,
+    "votes": 2090,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Pie",
+     "Vanilla Gelato",
+     "Mango Ice Cream",
+     "Tiramisu",
+     "Truffle",
+     "Gelato Ice Cream",
+     "Ice Cream Sandwiches"
+    ],
+    "tags": [
+     "desserts"
+    ],
+    "review_snippets": [
+     "Loveeee the ice cream here All the flavours are so so so good And especially the way they serve it I took quells and mango this time Was a perfect combination quelli was very sweet and mango was…",
+     "Absolutely love this place. ?? The ambiance is very simple with no extra effort put in making the place stand out. It's neatly designed and has a few tables and chairs for those who wish to enjoy…",
+     "After hearing a lot about this place me and my friend (Sista Sridevi ) went here on a Sunday afternoon. It's about walkable distance from metro station. It was completely crowded and we somehow…"
+    ]
+   },
+   {
+    "id": "r_2999f77096b3",
+    "name": "Punjab Grill",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "26/1, Dr Rajkumar Road, Brigade Gateway Campus, Malleshwaram Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.9,
+    "votes": 1985,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Chicken Malai Tikka",
+     "Jalebi Rabri",
+     "Lunch Buffet",
+     "Paneer Tikka",
+     "Kulfi",
+     "Jumbo Prawns",
+     "Murgh Malai"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Good food, great service by Sabuj. All the staff was courteous and considerate. Authentic north indian food in Bangalore is hard to find. Quantities are huge but Sabuj have great recommendations and…",
+     "One of the best places I had visited and few 5 star rating by me. Visited on a Sunday afternoon and got seating without any wait. We mainly tried starters which were sufficient to fill the appetite…",
+     "I was here with my parents for lunch. The food we ordered were quite good in terms of taste and the ambiance was pretty good too, while the staff was pretty helpful as well. The place has got my…"
+    ]
+   },
+   {
+    "id": "r_7b920766453b",
+    "name": "AB's - Absolute Barbecues",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "90/4, 3rd Floor, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "European",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 12121,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Raj Kachori",
+     "Paan Kulfi",
+     "Churros",
+     "Butter Chicken",
+     "Momos",
+     "Bbq Prawns",
+     "Pudding"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We came here for a team dinner. Quite big place to accommodate a good number of people together. Ambience is very noisy which I don't like personally. Service is really very fast though the…",
+     "The usual AB's culture, menu and taste which you get at all the AB's. Still it is much better compared to other such places I feel due to some special drinks and food items they get time to time. I…",
+     "Had been with my friends for birthday occasions My Rating Food 5/5 Service 5/5 Ambiance 4.5/5 Value for Money 5/5 Detailed review up shortly"
+    ]
+   },
+   {
+    "id": "r_d6bbffae0eeb",
+    "name": "Belgian Waffle Factory",
+    "city": "Bangalore",
+    "locality": "Brigade Road",
+    "address": "65, Markham Road, Ashok Nagar, Brigade Road, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "Lavelle Road",
+     "MG Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.9,
+    "votes": 1750,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Berryblast",
+     "Nachos",
+     "Chocolate Waffles",
+     "Nutella Waffle",
+     "Chocolate Overload",
+     "Sandwiches"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Looks like there's a scam going on here with the staff.I had 2 waffles and was given 1 bill which was 7 hours old.See the time in both the bills. Waffles are excellent as always",
+     "Waffles are totally worth it, really loved the red velvet cheese waffle, it was too creamy. Also, I'll recommend 'The sin' waffle. Staff is really cool and friendly. Ambience and decoration - 10/10.",
+     "So I visited this outlet of belgian waffle factory few days ago, I loved the smell when you enter just amazing. I tried the dark chocolate and belgian chocolate waffles. Both were amazing. Must have…"
+    ]
+   },
+   {
+    "id": "r_8edd4185f0a7",
+    "name": "The Black Pearl",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "20/7, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 7284,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Dahipuri",
+     "Jal-jeera",
+     "Jalebi Rabri",
+     "Chicken Grill",
+     "Mutton Seekh Kabab",
+     "Mutton Curry",
+     "Chocolate Sandwich"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Best place for buffet people and they are offering bst service and people are so kind. Everything is perfect and best. Try best ice gola here",
+     "Had been here for there lunch buffet with my colleagues My Rating Food 5/5 Service 5/5 Ambiance 4.5/5 Value for Money 5/5 Detailed review up shortly",
+     "Pretty good. Had booked it for team dinner for 14 people arrangements were good food quality was good all food were hot and tasty .. buffet was good to go.. starters were perfect the main course…"
+    ]
+   },
+   {
+    "id": "r_c02e2b73b8d7",
+    "name": "Chili's American Grill & Bar",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "2nd Floor, Orion Mall, Dr. Rajkumar Road, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "American",
+     "Tex-Mex",
+     "Burger",
+     "BBQ",
+     "Mexican"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 6470,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Veg Platter",
+     "Burgers",
+     "Mushroom Soup",
+     "Cocktails",
+     "Nachos",
+     "Lemon Margarita",
+     "Chicken Fajita"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I just love this place. I have visited it so many times that even the staffs started greeting us with a smile as they recognise us now. Great food, great ambience and good music will be played at…",
+     "Pricey menu for the quality of food they serve. Drinks too are exuberantly priced. Bottled beer with MRP of 100 is sold for 399 + taxes. I simply couldn't comprehend the logic behind it. As of food…",
+     "We were here on valentines day. Good place with good view. The portion size was really too much. We had to skip the main course because we were quiet filled with the starters. We ordered for nachos…"
+    ]
+   },
+   {
+    "id": "r_e1e90e5cf756",
+    "name": "The Boozy Griffin",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "20/7, 4th & 5th Floor, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "European",
+     "Continental"
+    ],
+    "rest_types": [
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 4705,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Singapore Sling",
+     "Sea Food Platter",
+     "Cocktails",
+     "Long Island Iced Tea",
+     "Vanilla Ice Cream",
+     "Martini",
+     "Ghee Rice"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Best calamari i have had till date. It was crispy outside soft and juicy inside. Chili churi prawns was perfectly spiced and grilled. Burger was big juicy lots of veggies and served with french fries.",
+     "We came here with my family, carrying with zamato gold, here drinks was real nice and food also delicious and the music was awesome, overall great experience with my all family,",
+     "The cocktails are must try here .. the staff was polite . The guy who is serving us named showkat was good. Overall experience was good though me and my friends have been here before and it's always…"
+    ]
+   },
+   {
+    "id": "r_9ad0dbeb407f",
+    "name": "CTR",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "7th Cross, Margosa Road, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 150,
+    "budget_band": "low",
+    "rating": 4.8,
+    "votes": 4421,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Benne Masala Dosa",
+     "Filter Coffee",
+     "Chai",
+     "Butter Masala Dosa",
+     "Crispy Vada",
+     "Tea",
+     "Kesari Bath"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Extremely crowded place at all times.. Shows how good the food is! The benne Masala Dosa is really amazing here. Kesari bhath is good too. Service is fast and prices are reasonable.",
+     "One of the legendary outlets of Bangalore,this place is famous for its crispy benne masala dosa. You need to come here to find out why this place is always crowded even on weekdays. Their dosas are…",
+     "On a mission to find a good breakfast joint and the one that I have not visited earlier, I landed here..and it's worth all the walk here.. It's quite amusing to see a houseful kinda scenario that…"
+    ]
+   },
+   {
+    "id": "r_6fea9d3bfe13",
+    "name": "The Globe Grub",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "2nd Floor, Soul Space Paradigm, Above Bata Showroom, Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Asian",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 3932,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Curry",
+     "Mutton Seekh",
+     "Brownie",
+     "Gol Gappe",
+     "Fish",
+     "Rabri",
+     "Chicken Curry"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "|| Wednesday Dinner || It was a random plan last wednesday to go out for dinner. I was craving for Buffet Food and we did not want to go far so we selected this place in Marathahalli for our dinner…",
+     "I went for team buffet lunch at this place and had an amazing dining experience here. Starter food items like Cajun Potatoes, Broccoli and Crispy Corn tasted delicious. Main Course had Veg Biryani…",
+     "I wonder how this restaurant is rated 4.8 after so many reviews. It makes me question how many of those are genuine reviews (not that I have any strong evidence of fake reviews). We had booked a…"
+    ]
+   },
+   {
+    "id": "r_c75b4cda7ea5",
+    "name": "Barbeque Nation",
+    "city": "Bangalore",
+    "locality": "JP Nagar",
+    "address": "67, 15th Cross, 6th B Main, JP Nagar, Bangalore",
+    "zones": [
+     "BTM",
+     "Bannerghatta Road",
+     "JP Nagar",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 3864,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Lunch Buffet",
+     "Goan Fish Curry",
+     "Mocktails",
+     "Chicken Biryani",
+     "Cocktails",
+     "Paan Kulfi",
+     "Pasta"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "It is awesome place. Staffs are so friendly. Music is quite good. I think No need to talk about food because the name itself saying that , the barbeque in the town. Water melon n pineapple barbeque…",
+     "Vibrant and good vibes most of the time. They have really friendly staffs and who performs their services promptly. Food served is really tasty and full of flavours. The fact that they serve wide…",
+     "Starters, starters, starters. Wow, that filled me up completely. The main course was a push. And yet, these starters were so delicious, that I did not long for the main course. Anyhow, the buffet…"
+    ]
+   },
+   {
+    "id": "r_cc38f4e692da",
+    "name": "Brahmin's Coffee Bar",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "Ranga Rao Road, Near Shankar Mutt, Shankarapura, Near Basavanagudi, Bangalore",
+    "zones": [
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 100,
+    "budget_band": "low",
+    "rating": 4.8,
+    "votes": 2679,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Filter Coffee",
+     "Kesari Bath",
+     "Idli Vada",
+     "Upma",
+     "Badam Milk",
+     "Kharabath",
+     "Tea"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Very soft idly, soft as butter. It melted like butter in every bite. It was dipped in the pool of delicious chutney. Coffee was the best I've ever had.",
+     "This is definitely one of the many awesome small hotels in Bangalore that serve the best idly's. The fluffy idly's with crispy fresh vadas floating in a plate of delicious chutney is something that…",
+     "This restaurant was introduced by a taxi driver whom I traveled for a customer meet Byfar the best Idly and Chutney I have tasted in Bangalore. Small but neatly maintained restaurant bustling Right…"
+    ]
+   },
+   {
+    "id": "r_808cdc981414",
+    "name": "Toit",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "298, Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Italian",
+     "American",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Microbrewery"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 14956,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Beer",
+     "Pesto Pizza",
+     "Nachos",
+     "Cocktails",
+     "Beef Lasagna",
+     "Mai Thai",
+     "Tacos"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "The crowd keeps flowing in and out at Toit. It's always packed and might have to wait to get a table. The ambience at Toit is very classy, with dim lighting it just sets the mood right. We tried…",
+     "This place has always topped my go to list. Apart from their beers, don't forget to try their Lust chocolate and Hosian grilled chicken with mushroom sauce. Be it hanging out with friends, or…",
+     "Visited on a weekend this time. Place was full pack as usual, had to weight around 20-25 minutes for the table. Place was too noisy that we barely heard eachother sitting across the table. Order…"
+    ]
+   },
+   {
+    "id": "r_cf8f445563b4",
+    "name": "Truffles",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "28, 4th 'B' Cross, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Burger",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.7,
+    "votes": 14726,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Pasta",
+     "Cocktails",
+     "American Cheese Burger",
+     "Chicken Salad",
+     "Pancakes",
+     "Chocolate Dessert"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Not bad but the burgers didn't match my expectations. So a lil disappointed but not too much as they were better than some of the burger brands",
+     "Overhyped ! Deserts are better than the savoury dishes ! I've ordered burgers a few times and I've never been able to enjoy it. Their hot dogs are decent but I have had better. I am not sure if…",
+     "Package: 4/5 Food: 4/5 Tried their Alfredo pasta, it was amazing. Packaging was good, and food preparation time was less. Overall good experience"
+    ]
+   },
+   {
+    "id": "r_692b63e2fd8b",
+    "name": "You Mee",
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "address": "Ground Floor, Forum Shantiniketan, Whitefield Main Road, Thigalarapalya, Hoodi, Whitefield, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Whitefield"
+    ],
+    "cuisines": [
+     "Sushi",
+     "Japanese",
+     "Chinese",
+     "Thai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 277,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Ramen",
+     "Sushi Platter",
+     "Sushi Bar",
+     "Pork Dumplings",
+     "Maki Roll",
+     "Japanese Green Tea",
+     "Thai Red Curry"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I've been searching to try Ramen in banglore for a longtime and finally found Youmee. Very good restaurant with different Japanese cartoon art ambience.. Food was served in a luxury bowl(China bowl)…",
+     "What an amazing experience!! I am a big time jap food lover, So trying this place was on my list since the time yo Mee was opened in forum. Talking about the food. Sushi- We started with shushi - &…",
+     "Felt very happy that authentic sushi place has opened nearby. Food: Ordered three different varieties of sushi and loved it all. Sushi presentation and taste is excellent. First time, I liked crab…"
+    ]
+   },
+   {
+    "id": "r_68723a18f87f",
+    "name": "The Pizza Bakery",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2985, 12th Main, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian",
+     "Pizza",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 1785,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Garlic Bread",
+     "Beer",
+     "Tiramisu",
+     "Vanilla Ice Cream",
+     "Ravioli",
+     "Salads"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "A by chance visit to this place turned out to be super. A nice cute place on 12th Main Indiranagar. Side entrance and up the staircase to a very warm & welcoming staff. Very efficient and prompt…",
+     "Food - 5 Ambience - 4.5 Service - 5 Starting from the Beverage, Garlic Bread, to pizza and the dessert. The food was with great taste and aroma. Properly baked and served . Ambience is really good…",
+     "As we entered the restaurant it was promising us with the smells of a wood fired pizza. Hungry as we were we ordered beer and pizza only. The ambience is great. We got seated on the terrace... a…"
+    ]
+   },
+   {
+    "id": "r_ff9e89f903a3",
+    "name": "Santé Spa Cuisine",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "151, 2nd Cross, Domlur 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "Salad",
+     "Mediterranean"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.9,
+    "votes": 246,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Biryani",
+     "Tomato Soup",
+     "Farm Pizza",
+     "Dumplings",
+     "Lemonade",
+     "Salad",
+     "Smoothie Bowls"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I visited this lovely place recently and loved the food and ambience. I had lemondaes in two colors ; charcoal and pink. Both were refreshing. Fruit and Nut bhel was simply awesome. Spinach Hummus…",
+     "Healthy can be tasty. Sant Spa Cuisine definitely changed our perspective. We had a meal here the other day and it changed our life. We were offered detox shots (cucumber & mint water) as soon as we…",
+     "Food here was very delicious and we were very much surprised with the range of vegetarian dishes that they had to offer.10/10 for the food But the service here was extremely slow,it took almost half…"
+    ]
+   },
+   {
+    "id": "r_eb9e1278c789",
+    "name": "The Black Pearl",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "105, 1st A Cross Road, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 10550,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Chocolate Lollipop",
+     "Chocolate Biscuit",
+     "Fire Shots",
+     "Sangria",
+     "Chocolate Ganache",
+     "Paneer Makhani",
+     "Corn Fry"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Amazing experience amazing food. I have never had such amazing variety of food in buffet before. Deepesh was very help for the service and he kept in mind to serve his best.",
+     "Everything was fine here. You have a lot of good options in starters. Gol gappas were good. Don't try Pav Bhaji at all. Crab salad is a must. In mains the items served were quite mainstream. But…",
+     "I went to this place with my team. It was better than most buffets i have seen in bangalore. ============== What i found was good/different 1. Chilli fish 2.ice cream counter 3.main course was much…"
+    ]
+   },
+   {
+    "id": "r_fa7a2742d856",
+    "name": "Belgian Waffle Factory",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "13 KHB Colony, 17th Main, M.I.G, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.9,
+    "votes": 201,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Oreo Waffle",
+     "Nachos",
+     "Coffee",
+     "Chocolate Waffles",
+     "Nutella Waffle",
+     "Salsa",
+     "Belgian Waffles"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "FYI, I have no photos for this review but i have visited this place and my review is legit. i came here with 2 friends and the place is pretty cramped. Seatings are available for 7-8 people and it…",
+     "Big fan of Belgian Waffle Factory Brigade road. I recently ordered from this newly open outlet and taste was decent. As usual i ordered my Fav sin and red velvet, but by the time order came to me…",
+     "I haven't been to this branch, but I ordered waffles from here and it was yummy! Just as good as the Brigade Road branch. The waffles were crisp and still hot when they reached me, which was…"
+    ]
+   },
+   {
+    "id": "r_f0d7ce56f3c0",
+    "name": "Barbecue by Punjab Grill",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "Unit T-1, Third Floor, Sampige Road, Mantri Square Mall, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 1367,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Prawn",
+     "Panipuri",
+     "Chaat",
+     "Biryani",
+     "Paan Ice Cream",
+     "Brownie",
+     "Tandoori Prawns"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Dashed in and out of the place but, I was very impressed by the buffet spread. Had time only to try the crispy corn and found it to be really good. The ambience and service are both really nice.",
+     "Good place for Buffet. There are pretty good options for Veg buffet. Love the barbeque and desserts Good option for corporate lunch/Dinner. Food: 4/5 Ambience : 4/5",
+     "Amazing place for a die hard foodie. Ambience is decent,staff members were humble especially Rahaman,who took us though the entire menu. Food-4.5 Ambience-4 Staff-5"
+    ]
+   },
+   {
+    "id": "r_cc337968ceaa",
+    "name": "O.G. Variar & Sons",
+    "city": "Bangalore",
+    "locality": "Rajajinagar",
+    "address": "12th Main, 2nd Block, Rajajinagar, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "Bakery",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Bakery"
+    ],
+    "listing_types": [
+     "Desserts"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.8,
+    "votes": 1161,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Veg Puff",
+     "Plum Cake",
+     "Sponge Cake",
+     "Tea",
+     "Coconut Biscuits",
+     "Fruit Cake",
+     "Apple Cake"
+    ],
+    "tags": [
+     "desserts"
+    ],
+    "review_snippets": [
+     "This place has a legacy !! As i moved from delhi to Bangalore the taste gap was way too high and didn't expected to have a great taste here especially from a bakery !! But this place is above all…",
+     "Probably the most famous bakery in bangalore, it's butter biscuits are to die for. The veg puffs are for too. Prices could be a little more reasonable though.",
+     "This is one amazing place for all the bakery foods and it's the oldest also famous for its authentic taste they have maintained till now . Totally worth ordering the milk biscuits, cakes and puffs…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_2e8af5a92547": 0.771942,
+   "r_443e46e4c156": 0.7,
+   "r_0bf23561aeb0": 0.66298,
+   "r_1cd06f9b8552": 0.651626,
+   "r_11ee80b40b1c": 0.633062,
+   "r_d0047662b956": 0.618974,
+   "r_2999f77096b3": 0.616972,
+   "r_7b920766453b": 0.612245,
+   "r_d6bbffae0eeb": 0.61208,
+   "r_8edd4185f0a7": 0.592463,
+   "r_c02e2b73b8d7": 0.58786,
+   "r_e1e90e5cf756": 0.575488,
+   "r_9ad0dbeb407f": 0.573069,
+   "r_6fea9d3bfe13": 0.568517,
+   "r_c75b4cda7ea5": 0.567839,
+   "r_cc38f4e692da": 0.553615,
+   "r_808cdc981414": 0.54541,
+   "r_cf8f445563b4": 0.544808,
+   "r_692b63e2fd8b": 0.540586,
+   "r_68723a18f87f": 0.537849,
+   "r_ff9e89f903a3": 0.535993,
+   "r_eb9e1278c789": 0.531853,
+   "r_fa7a2742d856": 0.52818,
+   "r_f0d7ce56f3c0": 0.527491,
+   "r_cc337968ceaa": 0.52115
+  },
+  "relaxations": [
+   "Minimum rating lowered from 4.8 to 4.3",
+   "Included places that don't serve Thai (those that do still rank first)",
+   "Search widened to all of Bangalore"
+  ],
+  "total_matches": 612
+ },
+ "edit": {}
+}

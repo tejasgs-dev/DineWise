@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "echo \"window.DINEWISE_API_BASE = \\\"$DINEWISE_API_BASE\\\";\" > config.js",
+  "outputDirectory": ".",
+  "rewrites": [{ "source": "/static/:path*", "destination": "/:path*" }],
+  "headers": [
+    {
+      "source": "/images/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800, immutable" }]
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+ "id": "conflict-01",
+ "result": {
+  "preferences": {
+   "location": "Indiranagar",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Indiranagar"
+   ],
+   "budget": "low",
+   "cuisines": [],
+   "min_rating": 4.0,
+   "extras": "fine dining, fancy and upscale",
+   "extras_tags": [
+    "fine_dining"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_d0047662b956",
+    "name": "Milano Ice Cream",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "460, 2nd Cross, Krishna Temple Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.9,
+    "votes": 2090,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Pie",
+     "Vanilla Gelato",
+     "Mango Ice Cream",
+     "Tiramisu",
+     "Truffle",
+     "Gelato Ice Cream",
+     "Ice Cream Sandwiches"
+    ],
+    "tags": [
+     "desserts"
+    ],
+    "review_snippets": [
+     "Loveeee the ice cream here All the flavours are so so so good And especially the way they serve it I took quells and mango this time Was a perfect combination quelli was very sweet and mango was…",
+     "Absolutely love this place. ?? The ambiance is very simple with no extra effort put in making the place stand out. It's neatly designed and has a few tables and chairs for those who wish to enjoy…",
+     "After hearing a lot about this place me and my friend (Sista Sridevi ) went here on a Sunday afternoon. It's about walkable distance from metro station. It was completely crowded and we somehow…"
+    ]
+   },
+   {
+    "id": "r_957659922a61",
+    "name": "Corner House Ice Cream",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "3283, 2nd Stage, Off Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.7,
+    "votes": 2174,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Hot Chocolate Fudge",
+     "Chocolate Mousse",
+     "Brownie Fudge Sundae",
+     "Almond Fudge",
+     "Banana Split",
+     "Ice Cream Sundae",
+     "Apple Pie"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "This place is one of the few places that defines Bangalore. One of the first places I heard about when I landed in Bangalore. Now it has become a must-visit almost every weekend. Else, we order…",
+     "corner house ice creams are just awesome and yummy. Who does not like ice creams especially corner house. Their ice creams are so tasty and yummy. This time tried cakeamocha which had cake and mocha…",
+     "Ordered a brownie fudge today at around 8:30 pm. Guess what a surprise I got?? No brownie! There were only crumbling pieces of a brownie and then when I realized that hey! I might be missing…"
+    ]
+   },
+   {
+    "id": "r_e539cbaf87f9",
+    "name": "Natural Ice Cream",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Next to Apple Of My Eye, 12th Main, 2nd Stage, HAL, Off 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Desserts"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.6,
+    "votes": 945,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mango Ice Cream",
+     "Coffee",
+     "Chocolate Icecreams",
+     "Tender Coconut Ice Cream",
+     "Kala Jamun",
+     "Kesar Pista",
+     "Malai Korma"
+    ],
+    "tags": [
+     "desserts"
+    ],
+    "review_snippets": [
+     "Awesome place to hang out frndz. Ambiance 5 out of 5. Ice cream 7 out of 5 I love each and everything about this place. From unique design of the wall and unique food. Loved to visit again....",
+     "With December comes the strawberry flavour of natural I e cream and it's best strawberry flavoured ice cream. If you are fruit ice cream fan this is the place for you.",
+     "I liked the icecream s, they were different and delicious. We tries gajar halwa, malai and tender coconut icecream. Waffle cone were fresh and crispy. And prices were also reasonable. However…"
+    ]
+   },
+   {
+    "id": "r_509fcdd3d4a3",
+    "name": "Apsara Ice Cream",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "100/1B, 10th Cross, 2nd Main, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.6,
+    "votes": 206,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Panipuri",
+     "Faluda",
+     "Guava Ice Cream",
+     "Kulfi",
+     "Belgian Chocolate",
+     "Coffee",
+     "Masala Chai"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "A tiny Ice cream parlour with amazing Ice creams. I visited this place long back after noticing rave reviews about their ice creams on Zomato. After having ice creams, I felt that the rave reviews…",
+     "Best ice creams in the town. Favourite is cookies and cream and brownie blast ? Good quality and the place is clean. There's seating available too.",
+     "The best ice cream they offer is gol gappa which is very unique in its own kind.They have chilli guava & jamun flavour as well. The best thing about pineapple ice cream was that it had chunks in it…"
+    ]
+   },
+   {
+    "id": "r_32134b897679",
+    "name": "Mavalli Tiffin Room (MTR)",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 1878,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa",
+     "Filter Coffee",
+     "Lunch Thali",
+     "Rava Idli",
+     "Neer Dosa",
+     "Medu Vada",
+     "Tea"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Best place for the South Indian breakfast lovers. The food is yummiest and a heartfelt satisfaction. Masala dosa is my favorite. Pretty much every dish is served with a small cup of ghee which…",
+     "One of the best place to have your breakfast. Generally not a big fan of Karnataka style dishes but I like this place because it is still the best had various things from their Masala Dosa to…",
+     "Lunch in South Indian style. They try to stay original to the formula. But the point of adding onions to bisi belebath and tomato bath is beyond me. There they lost the authenticity. Keep one of…"
+    ]
+   },
+   {
+    "id": "r_8e54f1e5bf9d",
+    "name": "Chai Days",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2019, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Tea",
+     "Beverages",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.5,
+    "votes": 134,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Banana Cake",
+     "Ginger Tea",
+     "Samosa",
+     "Masala Chai",
+     "Saffron Chai",
+     "Banana Walnut",
+     "Ginger Chai"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "God given soft buns. A little to crowded, a little to soft on the buns. A good portion of quantity with quality. There is always a reason for chai these days.",
+     "The best banana walnut cake I have ever had! It is so difficult to describe. The BEST the BEST the BEST! I'm ordering again right away. Found a gem of a tea shop! Yeee",
+     "Nice taste . Good packing of tea. But i think its a huge waste of plastic but it is a great concept of sending tea.. The glasses are so small .. overall a good taste of tea..."
+    ]
+   },
+   {
+    "id": "r_bdc3acc51fdd",
+    "name": "GMT - Gelateria Montecatini Terme",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "298, 6th Main, Opposite Iris Apartment, 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Ice Cream"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.4,
+    "votes": 282,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Gelato Ice Cream",
+     "Chocolate Icecreams",
+     "Tiramisu",
+     "Coffee",
+     "Italian Icecream",
+     "Caramel Ice Cream",
+     "Waffle Cone"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Really flavourful gelatos, we had the mocha chocolate Irish cream, champagne and raspberry. Fresh and rich taste. Plus the decor was pretty cute and cozy. And they gave me three flavors in the small…",
+     "This is a nice place for desserts along with nice ambiance. We ordered for a chocolate flavour ice cream along with an alcoholic flavour. I don't exactly remember the flavour names but taste wise…",
+     "I'd heard so much about the ice cream here that I was quite excited to try it out. The place is beautiful and is apt for a nice, quiet evening with friends and family. This makes for a great…"
+    ]
+   },
+   {
+    "id": "r_4ca80dd81116",
+    "name": "Mama Mia!",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "12th Main Road Junction, Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Cafe"
+    ],
+    "rest_types": [
+     "Dessert Parlor",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 429,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Gelato",
+     "Strawberry Sundae",
+     "Hot Chocolate",
+     "Brownie",
+     "Wedges",
+     "Peri Peri Fries",
+     "Thick Shakes"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "A amazing place for icecream Got a large variety of icecream flavour Tried the ice cream cake was good!! Like it would surely recommend this place to others;!",
+     "Not a big fan of gelato. I went for the ambience. Nice setup for a long chat. The gelato I ordered was kinda good. The fries were okay. I dont know why but Gelato does not excite me as much as…",
+     "Mama mia was just 2 mins away from my hotel, and I visited this place everyday in my 4 day stay in Bangalore. This place offers some very exciting flavours of italian ice cream and very delicious…"
+    ]
+   },
+   {
+    "id": "r_07f167ffc640",
+    "name": "Gobble Up Churros Cafe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Street Food",
+     "Continental",
+     "Mexican",
+     "Beverages",
+     "Cafe",
+     "Desserts",
+     "Spanish"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 379,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Churros",
+     "Empanadas",
+     "Hot Chocolate",
+     "Chocolate Banana",
+     "Salad",
+     "Chocolate Shake",
+     "Patata Bravas"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "We had a craving for churros. This was the nearest cafe and the ratings were pretty good. To be honest i was satisfied with the experience. The churros could have been a little warmer. That was the…",
+     "One word - amazing. Order the plain churros with the hazelnut chocolate dip, you won't regret it. I'm so glad there's a place that serves churros with different toppings/stuffings. It satisfies your…",
+     "Gobble up churros🥨 A small cafe in indiranagar opposite to BSNL office, they serve churros and other spanish dishes Place is cute and small to hangout with friends they have comfortable seating also…"
+    ]
+   },
+   {
+    "id": "r_4cd33f227537",
+    "name": "Sri Udupi Park",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "270, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 781,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Idli Vada",
+     "Tea",
+     "Masala Dosa",
+     "Filter Coffee",
+     "Pav Bhaji",
+     "Kesari Bath",
+     "Chaat"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "A no non-sense \"we serve great food and nothing else\" kinda place. Limited seating and a few standing tables. While Ragi dosa seems to be the most raved about dish here, I ended up trying Dal…",
+     "Amazing place , authentic South Indian . The specials are good . Pocket friendly . We tried the Ragi dosa . Too good . Very light for the stomach . Self service and serving both options available…",
+     "Just like anyother Udidpi restaurant. Self and service areas separate. Tasty South Indian food but crowded. Quick service. Good place for quick bites :-)"
+    ]
+   },
+   {
+    "id": "r_2e6298147699",
+    "name": "Cream Stone",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "621/B, 12th Main, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 743,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chocolate Icecreams",
+     "Coffee Craze",
+     "Chocolava",
+     "Ferrero Rocher",
+     "Waffles",
+     "Nutella Brownie",
+     "Tiramisu"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Not recommended for delivery.. no crunchy... Melted little... And nuts are little less.. disponted... Sorry... Needs to be improve.. please have there don't order...",
+     "This place is one stop for all your sweet and ice cream cravings. Sitting arrangements and ambiance is lovely and cozy. Loved the quick service. My favourite over here is willy Wonka and fruit…",
+     "Pretty nice place if you're getting your midnight cravings for some desserts. Do give it a try! Personally, I love the Oreo Shot here and Nutella one as well."
+    ]
+   },
+   {
+    "id": "r_5e524b02cbc7",
+    "name": "Bite Me Cupcakes",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "383, HAL 2nd Stage, Opposite Croma, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 631,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Cup Cake",
+     "Gooey Chocolate Cupcake",
+     "Tiramisu",
+     "Choco Cake"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Bite me is a fantastic place to grab a bunch of cupcakes. They have a great selection of cupcakes that come in all shapes and sizes. Ambience: (3/5) It is clearly not designed for seating though it…",
+     "I highly recommend this place if you are craving for desserts. Have tried this place a couple of times and the cupcakes served are the Best most importantly its veg too. Must try Red velvet cupcake.",
+     "I had heard a lot of positive things about this place and Bite me did not disappoint. I bought the choco cake, double chocolate, red velvet and butterscotch . I could not wait to dig into the food…"
+    ]
+   },
+   {
+    "id": "r_efb9b6c50418",
+    "name": "Kitchen of Joy",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "12th Main, HAL 2nd Stage, ESI To Domlur, Service Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Bengali",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 581,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Egg Roll",
+     "Chai",
+     "Ginger Tea",
+     "Biryani",
+     "Rasgulla",
+     "Luchi"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "If you are craving for Kolkata style street food this is the place!!! We had ordered Chicken and Mutton mughlai paratha. It was very crispy and stuffed with filling. For sweet we had gulab jamun…",
+     "This place is a cute nice place to chill with your friends after a hectic day at work. If you plan to do so, accompany your relaxation time with some lebu cha their speciality, chicken cutlet and…",
+     "Good place to hang out reminds you of Kolkata days if you have ever visited, rolls are quit good and the cutlet are nice, pocket friendly place"
+    ]
+   },
+   {
+    "id": "r_753779d796a6",
+    "name": "XO Belgian Waffle",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "954, 12th Main Road, HAL 2nd Stage, Appareddipalya, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.4,
+    "votes": 96,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chocolate Waffles",
+     "Hot Chocolate",
+     "Nutella Waffle",
+     "Vanilla Ice Cream",
+     "Thick Shakes",
+     "Kit Kat Shake",
+     "Banana Caramel"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "It is a cute small outlet in Indiranagar where you can enjoy with your friends. The red velvet base waffles were my favourite. The night and day waffle and honey maple waffle are also great. You can…",
+     "This is a cute little waffle joint on 12th main. They offer a variety of flavours of waffles and some thick shakes. I've been there a couple of times for a quick bite of chocolate waffles, these are…",
+     "We were at this waffle place at one of the Saturdays. These are the following items which we tried- Food- 1) The ultimate X-mas waffle- Now this waffle comes with loads of fresh strawberries, banana…"
+    ]
+   },
+   {
+    "id": "r_6db331e354ab",
+    "name": "Biggies Burger 'n' More",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "7/1, G J Complex, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Burger",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 195,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Mojito",
+     "Sea Food",
+     "Hot Dog",
+     "Crab Burger",
+     "French Fries",
+     "Peri Fries"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Horribly expensive burgers that you would NOT want to eat Go here if you have a lot of money to waste on bad food.. and take me along to see the look in your face and be able to say I TOLD YOU SO",
+     "I get that when you order Peri Peri Chicken Burger, it will be spicy. I have no complaints about spiciness, the more the better actually. But, how can a burger be ONLY spicy? Peri Peri powder…",
+     "Hey friends, yesterday was a fun Sunday. I had been to shopping in Commercial street, Bangalore. We had some chats there too and had lots of fun. While returning back home, we stopped at a newly…"
+    ]
+   },
+   {
+    "id": "r_6b0af4015a6f",
+    "name": "Chai Point",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "970, 12th Main, 5th Cross, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Beverage Shop",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 179,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Ginger Tea",
+     "Maggi",
+     "Ice Tea",
+     "Ginger Chai",
+     "Samosa",
+     "Lemon Tea",
+     "Vada Pav"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Chai Point is my go to place. I end up chilling there probably thrice or so in a week because of my obvious love for 'Chai'. I usually have their Ginger Tea and I love it. Also, I really like their…",
+     "A nice little place with some outdoor seating as well. The service was nice and quick. We had a masala chai which was very refreshing, a cranberry iced tea which was flavourful, a bun omelette and…",
+     "The best tea of city. I totally loved it. I am from chandigarh so i am here for a week . today is my first morning and i ordered tea from chai point . I totally liked it . The taste was nice .. The…"
+    ]
+   },
+   {
+    "id": "r_320b2a33a01f",
+    "name": "Brownie Heaven",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "6, 18th Main Road, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Koramangala 6th Block",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.3,
+    "votes": 132,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Mocha Fudge",
+     "Red Velvet Brownie",
+     "Salted Caramel",
+     "Brownie Chocolate"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "This is a tiny place serving just brownies.... variety of brownies. I felt the place is ok. Nothing special. Plus i felt the price for what is served is a bit more.",
+     "I have ordered triple chocolate brownie from this place, and truly impressed by the taste..Too good..Would like to taste other flavors as well",
+     "Completely justifies the name. It was literally heaven when you eat those brownies. We travelled almost 20kms just to try this place and we weren't disappointed at all. With GPS we could easily…"
+    ]
+   },
+   {
+    "id": "r_b134d297a6ba",
+    "name": "California Burrito",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "23, Ground Floor Sri Avenue 3rd B Cross, 60 Feet Service Road, Domlur 2nd Stage Extension, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Mexican",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.2,
+    "votes": 253,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Rice Bowl",
+     "California Burrito",
+     "Nachos",
+     "Salad",
+     "Burrito Bowl",
+     "Chips",
+     "Rice Bowls"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ordered a rice bowl and it was damn good! I wish it could have a been a tad bit spicier, but it was good nevertheless! A little expensive, but I'd come back to try the burritos sometime.",
+     "Good food, friendly staff and good service. Sitting area is a bit small but I think it's enough. Quality and taste is very consistent and hence worth the cost. I would suggest to increase drinks…",
+     "We love to grab a healthy meal once in a while and that is exactly what these guys offer! Their salads are our favourite (we opt of the rice topping) but with all the other fresh toppings it is a…"
+    ]
+   },
+   {
+    "id": "r_13780def3c9e",
+    "name": "Khan Saheb Grills and Rolls",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Ground Floor, Sri Shiva Sai Complex, 13th Cross, 7th Main, 2nd Stage, HAL, Off Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 1074,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Beda Roti",
+     "Veggie Roll",
+     "Chicken Seekh Roll",
+     "Chicken Kalimirch",
+     "Kathi Roll",
+     "Mutton Kebab Roll"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ordered a chicken tikka roll with single egg from here. The food was packed pretty well. I was not very impressed with the taste (it wasn't very flavorful) as i have had way better kathi rolls than…",
+     "Great option for non veg lovers. Value for money. Good rolls available.. would highly recommend the Chicken peri peri roll, chicken garlic chilli roll..",
+     "Tried Chicken tikka double roll, Malawi roll, egg double and chicken tikka, taste was good specially my daughter enjoyed the tikka, wish they would served mint chutney with the kebabs and rolls…"
+    ]
+   },
+   {
+    "id": "r_21585a1dc022",
+    "name": "Krispy Kreme",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "788, Near Sony Centre, 12th Main, HAL, Stage 2, Off 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 261,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Donut",
+     "Filter Coffee",
+     "Cookie Crunch",
+     "Custard",
+     "Hot Chocolate",
+     "Hot Coffee",
+     "Latte"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "This is my first time to visit here, as i hd came Banglore for some work and was staying wid my relatives, so this outlet is walking distance. Ok so i hd taken 1 chocolate cake donut, 1 Caramel…",
+     "Tried their chocolate dream donut. Since it was my first time from this brand I didn't expect it to be so good. It was an absolute delight. Highly recommend over any other donut place!",
+     "I tried the blueberry rush. It was soft with blueberry jam filling oozing out with every bite. And sweet something sprinkled on top. In short I found heaven in every bite."
+    ]
+   },
+   {
+    "id": "r_70f0562f4303",
+    "name": "Keventers",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "949, Ground Floor, HAL 2nd Stage, 12th Main, 100 feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Beverages",
+     "Ice Cream"
+    ],
+    "rest_types": [
+     "Beverage Shop",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 571,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Thick Shakes",
+     "Choco Chip Shake",
+     "Choco Hazelnut",
+     "Chocolate Hazelnut Shake",
+     "Oreo Shake",
+     "Kit Kat Shake",
+     "Butterscotch Shake"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "What a way to end a food outing. Kaventers you have a new fan. The Guilty Pleasure Sundae and The DARK Conspiracy Sundae. What a treat! Could not appreciate the shakes but these were another level…",
+     "The place serves great beverages along with a good range of choices to choose from.Haven't been disappointed ever with the order, I have been a pretty regular to the place.Thank you team!",
+     "As a crazy lover of thickshakes, I ordered in their Chocolate Oreo Thickshake. Though it tasted pretty good, it's definitely not worth the price. Also, keeping in mind the superior thickshakes that…"
+    ]
+   },
+   {
+    "id": "r_3787f72e99cb",
+    "name": "Donne Biriyani House",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "8/ 9, 17th F Cross, 2nd Stage, Indiranagar, Bengaluru",
+    "zones": [
+     "Brigade Road",
+     "Church Street",
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 496,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pepper Chicken",
+     "Chicken Biryani",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Came to know this place through zomato Lunch Deals. Tried Pepper chicken biriyani combo, first time order was good with the quantity and quality wise. Tried the same combo based on the last…",
+     "The points are only for the food. The ambience is pretty shabby. Nonetheless, the food is worth going there for. We ordered both chicken and mutton biriyani and both were really good. Do ask for the…",
+     "I placed an online delivery for mutton biryani. The delivery was prompt and the biryani tasted good, what I liked was the perfect blend of spices and good pieces of mutton…"
+    ]
+   },
+   {
+    "id": "r_45780a262ff4",
+    "name": "Delite Chaat House",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "621/B, 12th Main, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Street Food",
+     "Gujarati"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 454,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chaat",
+     "Dabeli",
+     "Pav Bhaji",
+     "Sandwiches",
+     "Farsan",
+     "Sandwich",
+     "Vada Pav"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ordered papdi chaat for home delivery. I liked the fact that they had packed papdi separately from curd and chutneys since it prevents the papdi from getting soggy. However I was disappointed by the…",
+     "Delite Chat House has been a go to place for chats. The chats served here is highly influenced from Gujarat. Which you can see in its slightly sweet taste in almost all chats. You can ask for spice…",
+     "We were passing by this place and saw a lot of food delivery guys picking up food here and pouncing in each other. We wanted to know what the rush was all about and we guys ended up here. And as the…"
+    ]
+   },
+   {
+    "id": "r_f66b43ca1f2b",
+    "name": "Frozen Bottle",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "37, 80 Feet Road, HAL, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Beverages",
+     "Desserts",
+     "Ice Cream"
+    ],
+    "rest_types": [
+     "Beverage Shop"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 174,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Ferrero Rocher",
+     "Belgian Chocolate",
+     "Brownie",
+     "Milk Shake",
+     "Cake Jar",
+     "Salted Caramel",
+     "Chocolate Hazelnut"
+    ],
+    "tags": [
+     "delivery"
+    ],
+    "review_snippets": [
+     "Just what indiranagar needed. Frozen bottle is an absolute favourite for shakes! Love their salted caramel, kesar Badam,gulkand, filter coffee shakes . All so filling and delicious. Also tried their…",
+     "Ordered Nutty Choco jumbo jar was 209rs. It\"s the smallest dessert I ever had at this price. Idk why they have mentioned Jumbo jar. Don't fall for the scam. Quantity wasn't the problem if even it…",
+     "I just love the range of flavours they have to offer.. it pretty much caters to all taste buds.. must try rosy gulkand.. it's differently awesome."
+    ]
+   },
+   {
+    "id": "r_84870f76ff0e",
+    "name": "Tempteys",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "237, 1st D Cross, 18th Main, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor",
+     "Beverage Shop"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 135,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Gelato",
+     "Thick Shakes",
+     "Corn Flakes",
+     "Raspberry Shake",
+     "Brownie",
+     "Oreo Shake"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "The items available in the menu are awesome and the way of preparation is unbelievable. However, there is only one issue where if you have ordered multiple chocolate flavour shakes and you are a…",
+     "I placed an order online for an Oreo shake. The delivery was on time and the Oreo shake was very good!! Can't wait to try out different shakes and items on their menu!!"
+    ]
+   }
+  ],
+  "scores": {
+   "r_d0047662b956": 0.69749,
+   "r_957659922a61": 0.6,
+   "r_e539cbaf87f9": 0.496953,
+   "r_509fcdd3d4a3": 0.400133,
+   "r_32134b897679": 0.390679,
+   "r_8e54f1e5bf9d": 0.322897,
+   "r_bdc3acc51fdd": 0.320059,
+   "r_4ca80dd81116": 0.296714,
+   "r_07f167ffc640": 0.288838,
+   "r_4cd33f227537": 0.284822,
+   "r_2e6298147699": 0.281648,
+   "r_5e524b02cbc7": 0.271252,
+   "r_efb9b6c50418": 0.266001,
+   "r_753779d796a6": 0.251835,
+   "r_6db331e354ab": 0.246654,
+   "r_6b0af4015a6f": 0.241228,
+   "r_320b2a33a01f": 0.221946,
+   "r_b134d297a6ba": 0.21317,
+   "r_13780def3c9e": 0.205098,
+   "r_21585a1dc022": 0.165146,
+   "r_70f0562f4303": 0.164896,
+   "r_3787f72e99cb": 0.155941,
+   "r_45780a262ff4": 0.150315,
+   "r_f66b43ca1f2b": 0.139433,
+   "r_84870f76ff0e": 0.123368
+  },
+  "relaxations": [],
+  "total_matches": 40
+ },
+ "edit": {}
+}

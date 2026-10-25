@@ -1,0 +1,567 @@
+{
+ "id": "common-01",
+ "result": {
+  "preferences": {
+   "location": "Indiranagar",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Indiranagar"
+   ],
+   "budget": "medium",
+   "cuisines": [
+    "Italian"
+   ],
+   "min_rating": 4.0,
+   "extras": "family-friendly, not too loud",
+   "extras_tags": [
+    "family_friendly"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_47f303deb8e2",
+    "name": "Bologna",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "759, 1st Floor, 100 Feet Road, Indira Nagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 769,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Tiramisu",
+     "Pasta",
+     "Pizza",
+     "Lasagne",
+     "Sea Food",
+     "Ravioli",
+     "Bruschettas"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "How can a restaurant just get all the factors right?? Well, you ought to make a visit to Bologna to understand that.. We were there on a weekday and the restaurant was running full. And still, we…",
+     "A friend tried this place and gave great reviews. The dcor, the ambiance, gives a very Italian-diner like feel. The menu was varied, lots of options. My friend had the Panzanella, which was quite…",
+     "Had been here for dinner and had a really good experience. The staff were very friendly and food was pretty good. We had ordered Red Wine Sangria and Black German Pinot Noir. The sangria was good…"
+    ]
+   },
+   {
+    "id": "r_ef7cbaface80",
+    "name": "Onesta",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "501, Binnamangala Extension, 1st stage, C.M.H Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 4709,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Bbq Pizza",
+     "Choux Pastry",
+     "Bbq Chicken",
+     "Tiramisu",
+     "Barbeque Chicken",
+     "Chicken Calzone",
+     "Pasta"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Ordered garlic bread and margarita pizza from here, the delivery was prompt and the packaging was neat. The pan crust pizza tasted good with right blend of cheese. althingsbeautiful.wordpress.com",
+     "I took my team here, we were bored of north indian food and wanted to try something else, so pizza came to our mind, place is famous for their unlimited pizza offer, I would say they have a…",
+     "Very good food and service.Polite staff and great green ambience. We came here a lot many times The new menu is good and pocket friendly but I miss my Prawn pesto pizza"
+    ]
+   },
+   {
+    "id": "r_37cbb46c166e",
+    "name": "Ciclo Cafe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "12th Main Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "American"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1332,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Cheesy Fries",
+     "Chicken Ceaser Salad",
+     "Tiramisu",
+     "Salads",
+     "Cocktails",
+     "Burgers"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I recently visited to Bangalore and stop by ciclo cafe at Indiranagar. The cafe is situated on the main road , one of a European concept (the bicycle cafe ). I tried the boneless chicken wings and…",
+     "Have heard a lot about this cafe from friends in Bengaluru. So decided to have dinner here on my visit to the city. Cosy cafe with ground and first floor seating. The bar sure adds to the beauty…",
+     "I have always been a fan of coco whether it be Chennai, Gurgaon or Bangalore. It was a really nice experience here in Bangalore, the braised pork was an amazing dish which gives you an emotion…"
+    ]
+   },
+   {
+    "id": "r_ab4d548b2138",
+    "name": "Glen's Bakehouse",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "297, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Frazer Town",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Bakery",
+     "Cafe",
+     "Italian",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Bakery",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 5352,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Pizza",
+     "Cheesecake",
+     "Pasta",
+     "Potato Salad",
+     "Sandwiches",
+     "Chicken Pot Pie"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "I loved the decor and the ambiance... The staff was pleasant and responsive... We had - 1. Hot dog 2. Chocolate Macaron 3. Kiwi-Lemon bash The chocolate macaron was good and tasty... The Kiwi-Lemon…",
+     "The best cafe in Bangalore.One of the best in town and must try cake then you are here. It is very soft and fluffy and just melt in your mouth. Red velvet cup cakes and chocolate pastries are must…",
+     "Glen's bakehouse tops the list for most pastry and cake lovers. Their red-velvet cake is much talked about and is my absolute favourite among all the places I've tried so far. Some people like the…"
+    ]
+   },
+   {
+    "id": "r_8d54b956d9ae",
+    "name": "Tea Brew",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "172, 2nd Cross Road, Off Indiranagar Double Road, Indiranagar",
+    "zones": [
+     "Indiranagar",
+     "Koramangala 6th Block",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Momos",
+     "Italian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 1157,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Momos",
+     "Wedges",
+     "Chai",
+     "Veg Club Sandwich",
+     "Masala Tea",
+     "Pasta",
+     "Hot Chocolate"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Seemed to be quite popular as it had quite a crowd. Nice place with provision for indoor and outdoor seating. We tried their chicken pizza and chilli chicken (the taste was amazing). For drinks we…",
+     "We went here today evening for some short eats. The joint is situated in a calm area, though not far from the busy road. Most of the outdoor seatings were occupied. We ordered Crispy Chilli Potato…",
+     "We went there for brunch and the food was tasty and was really filling. The shakes weren't that great. But had a good experience and the staff was really nice."
+    ]
+   },
+   {
+    "id": "r_40ff895bbcd0",
+    "name": "Smally's Resto Cafe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2985, 1st Floor,12th Main, HAL 2nd stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Burger",
+     "American",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 427,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Peri Peri Chicken Steak",
+     "Pizza",
+     "Pasta",
+     "Meat Balls",
+     "Beef Burger",
+     "Hot Chocolate"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "What is with Bangalore and slow service everywhere! Smally's is really small in terms of space! Food was good, must try, spicy tobasco chicken wings, lamb burger and cheesecake. I was told to try…",
+     "Best burgers at an affordable cost. Must try : KFC burger-Karnataka fried chicken burger and the Peri Peri chicken burger. A side of fries with the burger as an add on makes it much more enjoyable!",
+     "This place always brightens me up. The theme of the place goes by it's name. Good seating and overall vibe. We ordered the Peri Peri steak and the chikaboo burger. Loved the filling of the burger…"
+    ]
+   },
+   {
+    "id": "r_3d0a41d2afbb",
+    "name": "Cafe Braqa",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "3353, 5th Cross, 12th Main, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Continental",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 147,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Ginger Tea",
+     "Cup Cake",
+     "Sandwich",
+     "Pasta",
+     "Pizza",
+     "Cappuccino",
+     "Cheese Sticks"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This place is bad very bad, I had. Ordered chicken parmesan and cheese fingers. Firstly they did not send the dip with cheese fingers which is bad service and then the biggest and major blunder they…",
+     "It's one of the tiny hidden gems in Indranagar. Small and cute interiors with outside and inside sitting area. I found the main art piece at the entrance not at all appealing. It kind of kills the…",
+     "A nice small cozy place. I really liked there food. The service was a bit slow but still fine. We tried there chilly cheese toast, cheese sticks, pink sauce penne pasta and hot chocolate. Every…"
+    ]
+   },
+   {
+    "id": "r_08b815170628",
+    "name": "Eddy's Cafe",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "314, 6th Main, Defence Colony, 2nd stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Salad",
+     "Continental",
+     "Healthy Food",
+     "Italian",
+     "Coffee",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 142,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Dark Chocolate Shake",
+     "Cappuccino",
+     "Pancakes",
+     "Hot Chocolate",
+     "Wedges",
+     "Waffles",
+     "Garlic Bread"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Went to this place on a Sunday for breakfast and I really liked the place. It has outdoor and indoor seating. The food was good. We ordered 'her majesty' and eggs and toast and waffles. Didn't…",
+     "I visited Eddy's yesterday. It's a little cafe in a corner of Indiranagar. It's a pretty peaceful place of you just wanna go and chill alone/with your friends over a cup of coffee. I tried their…",
+     "Eddy's Cafe is primarily a breakfast spot, and a fairly good one at that. I had the 'Her Majesty' breakfast platter, which consisted of scrambled eggs, chicken sausages and ham, baked beans, potato…"
+    ]
+   },
+   {
+    "id": "r_733cb335660d",
+    "name": "Django",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "442, 9th Avenue Building, 9th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Beverages",
+     "Italian",
+     "Pizza",
+     "Burger"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 220,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Burgers",
+     "Coffee",
+     "Peri Peri Chicken Wings",
+     "Beef Burger",
+     "Veggie Pizza",
+     "Mango Salad",
+     "Chicken Burger"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts",
+     "quick_service",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This place is somewhere in Indiranagar. A bit away from main roads giving it a benefit of being a quite place. The food taste really good. Ordered Hawaiian chicken pizza. If you love pineapple on…",
+     "I recently visited this cafe . I tried the chicken wings, it was really fresh and juicy. Next i tried the burger it was flavourful. Overall I loved the food, the place had a good hygiene.. Would i…",
+     "This cafe is quite a good options for some burger and pizza cravings. I tried the calzones which was huge in size I doubt you can finish it all alone. Fried tofu was a good starter option also. I…"
+    ]
+   },
+   {
+    "id": "r_4f5022207258",
+    "name": "Melting Spot",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "Number 188/1, 6th Main Road, Next to Church, Defence Colony, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Desserts",
+     "Beverages",
+     "Italian"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 134,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Sandwiches",
+     "Pav Bhaji",
+     "Ice Cream Roll",
+     "Sev Puri",
+     "Vada Pav",
+     "Sandwich",
+     "Dabeli"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Quick Bites Spot.... This spot serves most of quick bites like... ??Indian Chats ??Nachos with Dips ?? Pizzas ?? Sandwiches With hot and cold combination like, Mojito, coffees, live icecream fusions…",
+     "I had heard about this place. With an appetite for some calories I ordered the sev Puri and a chocolate chips maniac rolled ice cream. It's a weird combination but the sev Puri was perfect. The…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_47f303deb8e2": 0.868278,
+   "r_ef7cbaface80": 0.811307,
+   "r_37cbb46c166e": 0.725559,
+   "r_ab4d548b2138": 0.67,
+   "r_8d54b956d9ae": 0.535998,
+   "r_40ff895bbcd0": 0.318384,
+   "r_3d0a41d2afbb": 0.246246,
+   "r_08b815170628": 0.243911,
+   "r_733cb335660d": 0.183483,
+   "r_4f5022207258": 0.15
+  },
+  "relaxations": [],
+  "total_matches": 10
+ },
+ "edit": {}
+}

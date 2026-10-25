@@ -1,0 +1,1291 @@
+{
+ "id": "extras-03",
+ "result": {
+  "preferences": {
+   "location": "Indiranagar",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Indiranagar"
+   ],
+   "budget": "high",
+   "cuisines": [],
+   "min_rating": 4.2,
+   "extras": "pub with craft beer",
+   "extras_tags": [
+    "bar"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_808cdc981414",
+    "name": "Toit",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "298, Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Italian",
+     "American",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Microbrewery"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 14956,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Beer",
+     "Pesto Pizza",
+     "Nachos",
+     "Cocktails",
+     "Beef Lasagna",
+     "Mai Thai",
+     "Tacos"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "The crowd keeps flowing in and out at Toit. It's always packed and might have to wait to get a table. The ambience at Toit is very classy, with dim lighting it just sets the mood right. We tried…",
+     "This place has always topped my go to list. Apart from their beers, don't forget to try their Lust chocolate and Hosian grilled chicken with mushroom sauce. Be it hanging out with friends, or…",
+     "Visited on a weekend this time. Place was full pack as usual, had to weight around 20-25 minutes for the table. Place was too noisy that we barely heard eachother sitting across the table. Order…"
+    ]
+   },
+   {
+    "id": "r_d5987d38934b",
+    "name": "The Fatty Bao - Asian Gastro Bar",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "610, 3rd Floor, 12th Main, Off 80 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Japanese",
+     "Sushi",
+     "Asian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 3823,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Ramen",
+     "Cocktails",
+     "Crab Sushi",
+     "Maki Roll",
+     "Creme Brulee",
+     "Thai Chicken Salad",
+     "Beef Salad"
+    ],
+    "tags": [
+     "bar",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Went to this place on our 1st wedding anniversary. Ambiance was quite nice. Food was very tasty and staff were also very knowledgeable about the dishes they serve. The only point I think they can…",
+     "The food in fatty bao has always been great, especially the sushi and dim-sums, these are a must try. The Japanese Cheesecake was phenomenal, have to go back for that again! However, the service was…",
+     "I have been to this place with my sister here they provide a gud variety of asian foods. I Tired out teriyaki glazed chicken bao and kfc chicken starter they were simply awesome. A must recommend…"
+    ]
+   },
+   {
+    "id": "r_94d8119272a0",
+    "name": "Tipsy Bull - The Bar Exchange",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2008, 2nd Floor, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Continental",
+     "North Indian",
+     "Mexican"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 3173,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Peri Peri Chicken",
+     "Biryani",
+     "Mocktails",
+     "Pizza",
+     "Sangria",
+     "Chicken Dim Sum"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Visited this place for lunch along with office colleagues. Liked their ambience. Tried chicken wings which was tnagu and good but could be better. Their portions are really large for main course…",
+     "Just loved Tipsy bull! Everything here is set right. We were seated outside and the ambiance was cool. Their food menu as well as the live drinks menu on the app is extensive. Mr Santosh was very…",
+     "This ones a pretty cool place. Very nice food. They have this cool concept of charging drinks as per demand just like the name suggests.. it truly is a bar exchange. It's a fun idea.. very nice…"
+    ]
+   },
+   {
+    "id": "r_68723a18f87f",
+    "name": "The Pizza Bakery",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2985, 12th Main, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian",
+     "Pizza",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 1785,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Garlic Bread",
+     "Beer",
+     "Tiramisu",
+     "Vanilla Ice Cream",
+     "Ravioli",
+     "Salads"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "A by chance visit to this place turned out to be super. A nice cute place on 12th Main Indiranagar. Side entrance and up the staircase to a very warm & welcoming staff. Very efficient and prompt…",
+     "Food - 5 Ambience - 4.5 Service - 5 Starting from the Beverage, Garlic Bread, to pizza and the dessert. The food was with great taste and aroma. Properly baked and served . Ambience is really good…",
+     "As we entered the restaurant it was promising us with the smells of a wood fired pizza. Hungry as we were we ordered beer and pizza only. The ambience is great. We got seated on the terrace... a…"
+    ]
+   },
+   {
+    "id": "r_361853af928c",
+    "name": "Barbeque Nation",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "4005, HAL 2nd Stage, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 7270,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Curry",
+     "Tender Coconut Payasam",
+     "Mutton Seekh Kebab",
+     "Kulfi",
+     "Kheer",
+     "Chicken Biryani",
+     "Brownie"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We end up here for lunch and the place was already jam-packed so we got the seats on the rooftop. The floor was not appealing at all in terms of decoration and setup, giving just a local dhaba feel…",
+     "Very nice place, nice options with great tasting food. I loved prawns and fish barbecue here and nothing special about Maincourse it's okay, sweets are good. I would specially like to thank our…",
+     "Taste - 4.5/5 Service - 5/5 Ambiance - 4/5 Like any other BBQ nation, it's does not fail to impress. Wonderful variety of BBQd' items, like mushrooms, paneer, corn, capsicum, watermelon, pineapple…"
+    ]
+   },
+   {
+    "id": "r_5b49d17233dc",
+    "name": "Burma Burma",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "607, Ground Floor, 12th Main, Hal 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Asian",
+     "Burmese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 1677,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Samosa Soup",
+     "Khau Suey",
+     "Khao Suey",
+     "Salads",
+     "Crispy Corn",
+     "Avocado Ice Cream",
+     "Mocktails"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Even their napkin is freaking awesome. I have been meaning to go this place since a really really long time. The day has finally arrived and all my patience has been rewarded in the form of a…",
+     "I'm a big time non-vegetarian..but this place stole my heart with a burst of flavours. Went ahead with all the recommendations and god I was in love with the food!",
+     "All vegetarian restaurant that serves finger licking tasty food. We tried Samosa soup, khao suey , bubble nutela coffee, avocado ice cream. Each dish was better than the other The ambiance is very…"
+    ]
+   },
+   {
+    "id": "r_82ec47cc22f6",
+    "name": "Smoke House Deli",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "1209, 100 Feet Road, Opposite Apollo Clinic, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Koramangala 6th Block",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "European",
+     "Italian",
+     "Desserts",
+     "Salad",
+     "Juices",
+     "Steak"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 5448,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Cappuccino",
+     "Pasta",
+     "Cucumber Spritzer",
+     "Cocktails",
+     "Murgh Platter",
+     "Mocktails",
+     "Burgers"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Great food and such a cool ambience- perfect place for dinner! Friendly and courteous staff. We ordered a smoked chicken Caesar salad, 3 cheese panko crumbed chicken and peri peri grilled chicken…",
+     "Great food loved the salmon Great ambiance Nice atmosphere Staff is very friendly Service is fast Food is great Will recommend Must visit",
+     "I love this place and the food served here is just scrumptious. One of the few places in Bangalore that does equal justice to veg dishes. The dessert are very tasty and serves as a perfect wrap for…"
+    ]
+   },
+   {
+    "id": "r_df6b8d2d0c5d",
+    "name": "Sly Granny - The Community House",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "3, 4 Floor, 618, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Modern Indian",
+     "European",
+     "American"
+    ],
+    "rest_types": [
+     "Fine Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 980,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Pie",
+     "Rolls",
+     "Mezze Platter",
+     "Schnitzel",
+     "Pancakes",
+     "Eggs Benedict"
+    ],
+    "tags": [
+     "bar",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Lovely place with grand decor. Service too was excellent. The middle row table with 4 chairs however is not very friendly for a nice dinner and was difficult to manage especially with the shape of…",
+     "Great food Great ambiance Nice atmosphere Staff is very friendly Service is fast Food is great Will recommend Worth a visit The desserts are also nice",
+     "Posting my review quite late for Sly Granny, although I had posted photos when I dined here.. I was here in December to try out their Christmas menu over lunch. I tried only the vegetarian dishes…"
+    ]
+   },
+   {
+    "id": "r_09144cec9970",
+    "name": "Chianti",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "960, Next To Gold Gym,12thMain, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 4453,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Pizza",
+     "Salads",
+     "Tiramisu",
+     "Wine",
+     "Sangria",
+     "Bruschettas"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Fresh feeling once you get in. Good decor. Nice music which suites the ambience really well. Went here for a Friday lunch. Chianti Bruschetta was offered complimentary to all the diners. This was to…",
+     "The food here is excellent, everything from the pasta , pizza and as well as the grilled fish , specially salmon is a must must try ! The food quality & Quantity both are great , what'll come to you…",
+     "A lot of people have been suggesting that we should visit Chianti for Italian food, here is our review: Things we ordered 1. Linguine Al Amartriciana - this is a tomato sauce based pasta with bacon…"
+    ]
+   },
+   {
+    "id": "r_f0ab222d9602",
+    "name": "1131 Bar + Kitchen",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Asian",
+     "Italian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 2861,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Chocolate Cake",
+     "Cocktails",
+     "Nachos",
+     "Sangria",
+     "Craft Beer",
+     "Mocktails"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We went here for team dinner, and tried a variety of snacks. Most failed to impress. The Afghani paneer was particularly tasteless. The nacho big plate was equally bad, sour cream was hard salsa was…",
+     "Good food Good service (Mr.Ram) Good Ambience and music Well maintained cleanliness Beer was good too Good place to go with friends for a casual dinner",
+     "Food and beverage are nice. Ambiance was good. Music could have been a bit louder and nice.no dance floor.nice place to hangout with a bunch of friends and talk ."
+    ]
+   },
+   {
+    "id": "r_ee183c0adce4",
+    "name": "Dhaba - Estd 1986 Delhi",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "618, 2nd Floor, Above Chicco, 12th Main, Indiranagar, Bengaluru",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 1526,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Gajar Halwa",
+     "Shikanji",
+     "Kheer",
+     "Dal Makhani",
+     "Lunch Buffet",
+     "Panner Tikka",
+     "Butter Chicken"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Had a really great dinner date here. Azad (patron/waiter) was really helpful & courteous. Food was amazing and cocktails are great too. Should try em. Dal makhni was commendable.",
+     "The food is good but not great. I feel its a bit expensive . Ambience is okay but service is a little slow. I went here with high hopes but am still on the lookout for a perfect north indian food…",
+     "Came to this place for dinner on a Friday night. The food was really good. The ambience had good music, and the service was prompt and very good. Pricing is reasonable. Will visit again"
+    ]
+   },
+   {
+    "id": "r_ac779b460844",
+    "name": "The Black Rabbit",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "770, Escape Hotel & Spa, 12th Main, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Finger Food"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 4239,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Burgers",
+     "Spicy Fries",
+     "Cosmopolitan",
+     "Cocktails",
+     "Peri Peri Chicken",
+     "Custard",
+     "Pepperoni Pizza"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Second visit here. And this time on Friday evening. Initially we were a little sceptical visiting this place, it being Friday evening expecting a huge crowd and also that our last visit was good but…",
+     "Food and ambience are good here. Not much crowded place. We ordered peri peri chicken,pizza and fries. Perfect flavours and well done meat. There were many options in coctails in menu. Cosmopolitan…",
+     "Peri Peri chicken with gravy, sauted vegetables, crispy potatoes and mint rice at @theblackrabbitblr . Excellent flavours perfectly done meat. Also tried the pomegranate martini which was a good…"
+    ]
+   },
+   {
+    "id": "r_8a9f3d90a683",
+    "name": "Monkey Bar",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "610, Diagonally Opposite SBI Bank, 12th Main, Off 80 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "American",
+     "Asian",
+     "European",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Pub"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 3890,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Cocktails",
+     "Burgers",
+     "Nachos",
+     "Sandwiches",
+     "Butterfly Chicken",
+     "Pizza",
+     "Dabeli"
+    ],
+    "tags": [
+     "bar",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Firstly, I should start by blaming myself for landing at this place. I was nearby and it was late so thought why waste the night by attempting to reach somewhere else in the Bangalore traffic. It's…",
+     "We sampled some cocktails here. While the descriptions of the item were quite fancy, the presentation was simple. Atleast one of them served in a metal cup was quite good. But the rest were a bit of…",
+     "Monkey Bar is our to-go place in Indiranagar for a nice evening post work hours. The place has a pretty decent crowd and great music for a dance night. Although the food is mediocre, I enjoy the…"
+    ]
+   },
+   {
+    "id": "r_a7a96988c0f6",
+    "name": "LOFT38",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "763, Near Sony World, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian",
+     "BBQ",
+     "Asian",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Lounge",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1900,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 3659,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Mushroom Pizza",
+     "Pork Ribs",
+     "Mocktails",
+     "Nachos",
+     "Sea Food",
+     "Long Island Iced Tea"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This place is perfect for party freaks. They charge 1500/- for stag and 1500/- for couples after 8PM as entry + cover charge. The place is fun. The place has a big dance floor. So if you are up for…",
+     "Lived this place. Great staff and service. Food was pretty good, but what really got me was the outside seating area with this nice grid of reflective glass.",
+     "This was 1st visit to this it so amazing and awesome place for the party Beautiful ambience Beautiful service Beautiful food Beautiful music Spl thx to the management The best cosmopolitan climate…"
+    ]
+   },
+   {
+    "id": "r_275b053abac4",
+    "name": "Pasta Street",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2022, 100 Feet Road,HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Italian",
+     "Pizza",
+     "Salad"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 1673,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Pizza",
+     "Garlic Bread",
+     "Ravioli",
+     "Orange Mojito",
+     "Chicken Calzone",
+     "Mocktails"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Nice Ambience located in the heart of Indiranagar 100, ft Rd. Good fish and chicken wings. Nice mocktails.service was also pretty decent. Nice place for team lunches etc.",
+     "The ambience here, is beautiful. But when it comes to their food, I just didn't like it. For Antipasto, we ordered for some 'Garlic Mushroom'. It had a lot of Chilli Flakes for some reason and not…",
+     "When I tried the starters the experience was not so good, but the manager suggested to try pasta and it was too good. I liked most the ambiance and service Ambiance: Food: Cost: Service:"
+    ]
+   },
+   {
+    "id": "r_e045a07ddc7c",
+    "name": "Vapour Pub & Brewery",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "773, HAL 2nd Stage, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 6998,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pesto Pasta",
+     "Craft Beer",
+     "Wheat Beer",
+     "Cocktails",
+     "Crispy Chilli Corn",
+     "Butter Chicken",
+     "Paneer Tikka"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Very good place for having brewed beer. The wheat beer is my favourite. LIIT is very strong and nicely prepared cocktail. Food is very much good accordingly to standards of pubs and bars.",
+     "Recently visited this place and it was good!! The crowd was insane, I wasn't expecting such a huge crowd that took me by surprise actually.. The first thing we did was try the beer, we ordered wheat…",
+     "Best for - the brewed beer and dance floor. On weekends they play old hip hop which is really nice . Must visit if you wanna have a good time . Tried light and strong beer , both were good . Must…"
+    ]
+   },
+   {
+    "id": "r_90cc3d0df0bb",
+    "name": "Nevermind - Bar & Social",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "614-615, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Asian",
+     "Modern Indian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 221,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Peri Peri Chicken",
+     "Nachos",
+     "Cocktails",
+     "Pizza",
+     "Pasta",
+     "Beef Teriyaki",
+     "Tikka"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This place is crowded and fully packed Ambience wise place has nice decor with amazing hospitality Food is GREAT so is the service Cocktails are poor, may be because its crowded and sheer pressure…",
+     "Quirky Interiors, Lip Smacking Food, Signature Cocktails, You still want to read more? NEVERMIND . Indiranagar is blessed with a new place on the 12th Main Road. You ask me whats new about that?…",
+     "New Place alert - Ultra unique welcome at the entrance with colorful theme with designer clothes displayed on mannequins which is changed by designer every week which is showcased at the entrance…"
+    ]
+   },
+   {
+    "id": "r_3eba65e47cc7",
+    "name": "BTDT? Been There Done That",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "776, 3rd Floor, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "European",
+     "Continental",
+     "Asian",
+     "Finger Food"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 962,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Momos",
+     "Pizza",
+     "Mushroom Ragout",
+     "Roti",
+     "Mocktails",
+     "Nachos"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "A good place tucked away in one corner with a beautiful ambience, low lights and just the kind of music you will want to listen to after a long day. Food in this place is great. Chicken subline…",
+     "Love the open air restaurant with really professional staff. We had some Chinese food and malai tikka kebabs which was delicious. Good music too. We had some good suggestions from Desmond our server.",
+     "It's great place for your brunch! Well maintained Ambience . Desmond gave an ultimate service unless rest of the team need to be more energetic like him. He made sure that our food was great. We got…"
+    ]
+   },
+   {
+    "id": "r_14e54b9344d1",
+    "name": "Delhi Highway",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "951, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 3439,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Kheer",
+     "Dum Aloo Kashmiri",
+     "Lunch Thali",
+     "Dahipuri",
+     "Tandoori Mushrooms",
+     "Chaat",
+     "Lassi"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "So we went there after getting a lot of good reviews. The food is amazing but the 1 star for the staffs behaviour. So we finish our food and we wer having our desert, this waiter comes to us and…",
+     "We decided to go to this place for a farewell dinner of a colleague, thought of using zomato gold... But then they had an option of unlimited thali @550/- which was totally worth it. It is a pure…",
+     "very good ambience it's good for families. the food was very good and the service was quick and good. the quantity is worth for money. overall the place is good"
+    ]
+   },
+   {
+    "id": "r_7337436198db",
+    "name": "Phobidden Fruit",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "965, 12th Main, HAL 2nd Stage, Off 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Vietnamese",
+     "Salad"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1100,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 2950,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Pho",
+     "Noodles",
+     "Salads",
+     "Mocktails",
+     "Veg Momos",
+     "Banh Cuon",
+     "Pork Chops"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "The place has a good rating, so me and my friend decided to try something which we haven't and ended up here. The place is very cozy and cute...Its basically a house turned into a restaurant.The…",
+     "Food - 5/5 Services - 5/5 Ambiance - 5/5 Overall experience 5/5 Ordered - chicken Pho, glass noodles and a chicken starter (finger licking good food) This place is ideal for a meeting with friends…",
+     "Was skeptical at first to try out a different cuisine but this place was a surprise the food was outstanding tried the lotus stem salad which was the first time for me and fell in love with it..the…"
+    ]
+   },
+   {
+    "id": "r_83fce228dc6a",
+    "name": "Tippler",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "276, Above Girias Showroom, 100 Feet Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Russian",
+     "Continental",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 2946,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Pie",
+     "Peri Peri Fries",
+     "Long Island Iced Tea",
+     "Chicken Steak",
+     "Mocktails",
+     "Nachos"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "visited this place on Friday night, it was full packed. All thanks to Salman the manager that he quickly arranged a seatingspace for us. Then came in Rajiv the server, cant say how amazong his…",
+     "Ugh! I did not like this place at all. The crowd was too aged, I felt I have been lost among the old people. The Ambeince is also not that good, its too congested. The food was okay. In fact, the…",
+     "Had one of the worst experiences in Bangalore. The place was over crowded and there was no clear definition of smoking section and non smoking section. When we asked the waiter he told us that its…"
+    ]
+   },
+   {
+    "id": "r_2e7c3a50bddc",
+    "name": "Chinita Real Mexican Food",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "218, Near BDA Complex, Double Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Mexican"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 2658,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Nachos",
+     "Churros",
+     "Burrito Bowl",
+     "Tacos",
+     "Enchiladas",
+     "Quesedillas",
+     "Salads"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This has been on my to-do list for a long time. Went towards the closing time and it was not crowded. Had two types of tacos and drank a Mexican horchata. The drink had a very different, but…",
+     "Ordered Grilled Chicken Tacos. It was fine overall, but not as good as I'd expected it to be after reading / hearing rave reviews. Was expecting it to be a bit more spicy.",
+     "Been there on my list for almost a year one of team mates threw a party here. The seating and ambience is Norma, the food is really nice. To start if you keep ordering the nachos you won't stop…"
+    ]
+   },
+   {
+    "id": "r_695493f65465",
+    "name": "Mamagoto",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "949, 12th Main, Ground Floor, Off 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Brigade Road",
+     "Indiranagar",
+     "MG Road",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Asian",
+     "Thai",
+     "Chinese",
+     "BBQ",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 2580,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Noodles",
+     "Chilli Chicken",
+     "Cocktails",
+     "Spicy Chicken Bangkok Bowl",
+     "Tempura Prawns",
+     "Pad Thai",
+     "Khao Suey"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Mamagoto has always been one of my favored places for good Asian cuisine. Finally got to try the Bangalore outlet and must say that it was really good. Went for lunch and ordered a portion of…",
+     "It is my favorite Asian restaurant. I've been here many times, finally decided to write a review. The main thing I'm coming back here is the food. Whenever I'm in the mood to eat sushi, I'm just…",
+     "Its one of my fav places to eat for Asian food. best thing about them is consistency. the experience is always the same. Last i went with my team for lunch.. It was wonderful experience as always."
+    ]
+   },
+   {
+    "id": "r_686a34efe804",
+    "name": "Barebones - The Balcony Bar",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "303, 100 Feet Road, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Continental",
+     "Finger Food",
+     "Italian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 2445,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Chips",
+     "Lamb",
+     "Cocktails",
+     "Wedges",
+     "Roast Chicken",
+     "Pizza",
+     "Margarita"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Amazing balcony sitting, nice vibes. Perfect to spend an afternoon drinking in cheap with the happy hours. I loved everything I had here, my only complaint is that I did not enjoy the Pina Colada…",
+     "It's a decent place to spend time. The food is good as well. I went here on the New Year eve, so the place was unusually crowded and there were misses in the orders. Otherwise it's a good place to…",
+     "This place is good for the weekend as its not very crowed. The food is ok. The best thing is the shots menu . This place is nicr to chill in the evening"
+    ]
+   },
+   {
+    "id": "r_17b093d77f4a",
+    "name": "Bombay Brasserie",
+    "city": "Bangalore",
+    "locality": "Indiranagar",
+    "address": "2989/B, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",
+    "zones": [
+     "Indiranagar",
+     "Old Airport Road"
+    ],
+    "cuisines": [
+     "Modern Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 1909,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chips",
+     "Cocktails",
+     "Biryani",
+     "Pinacolada",
+     "Almond Soup",
+     "Mocktails",
+     "Kulcha"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "After hearing rave reviews about this place from tonnes of people, decided to try it out and ended up going there for two consecutive weekends. The ambience is really beautiful and yes, it's a…",
+     "This has a nice and quirky feel to the place , it serves Indian cuisine with a twist , we really enjoyed the Sheekh kebab and naan , also the prawns and kulfi was really nice !! They also have ice…",
+     "I love love love this place, I entered one day while driving home cause I loved the ambience and today I just search for this place whenever iam in bangalore or mumbai, the staff is so very…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_808cdc981414": 0.775,
+   "r_d5987d38934b": 0.634202,
+   "r_94d8119272a0": 0.625215,
+   "r_68723a18f87f": 0.597474,
+   "r_361853af928c": 0.590203,
+   "r_5b49d17233dc": 0.519465,
+   "r_82ec47cc22f6": 0.501287,
+   "r_df6b8d2d0c5d": 0.493569,
+   "r_09144cec9970": 0.49156,
+   "r_f0ab222d9602": 0.470223,
+   "r_ee183c0adce4": 0.439916,
+   "r_ac779b460844": 0.414184,
+   "r_8a9f3d90a683": 0.41004,
+   "r_a7a96988c0f6": 0.407088,
+   "r_275b053abac4": 0.36935,
+   "r_e045a07ddc7c": 0.363364,
+   "r_90cc3d0df0bb": 0.346885,
+   "r_3eba65e47cc7": 0.342676,
+   "r_14e54b9344d1": 0.329097,
+   "r_7337436198db": 0.3217,
+   "r_83fce228dc6a": 0.321635,
+   "r_2e7c3a50bddc": 0.316674,
+   "r_695493f65465": 0.315237,
+   "r_686a34efe804": 0.312645,
+   "r_17b093d77f4a": 0.300713
+  },
+  "relaxations": [],
+  "total_matches": 44
+ },
+ "edit": {}
+}

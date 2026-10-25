@@ -1,0 +1,532 @@
+{
+ "id": "common-02",
+ "result": {
+  "preferences": {
+   "location": "Koramangala 5th Block",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Koramangala 5th Block"
+   ],
+   "budget": "low",
+   "cuisines": [
+    "North Indian"
+   ],
+   "min_rating": 3.5,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_eeff14b46dad",
+    "name": "Shree Thali",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "205, KHB Colony, 17th E Main, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Mess"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 150,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 183,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Veg Thali",
+     "Paratha",
+     "Kadhi",
+     "Shrikhand",
+     "Buttermilk",
+     "Sweet Lassi",
+     "Bati Churma"
+    ],
+    "tags": [
+     "delivery"
+    ],
+    "review_snippets": [
+     "Daal baati dish is very good in taste. I love to eat here everytime. This is the place for those who want to eat these kind of dishes and miss home made food.",
+     "Eat away as much as you can ...if you dont have access to homely food on a daily basis...this is your next option... For 90 rs unlimited this is the best deal you can get...hot fulka chapatis with 2…",
+     "A place for homely veg food where u get unlimited thali for very cheap. Dal bhaati was a disappointment for me. If u stay near by, running out of money and wish to have cheap homely food you can go…"
+    ]
+   },
+   {
+    "id": "r_10954aac2f1a",
+    "name": "Madeena Hotel",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "122B, First Cross Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 89,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Biryani",
+     "Paratha"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Overall loved the authentic biriyani taste. After tasting some of the biriyani joints in chennai I had to rate my namma ooru bengalooru biriyani a lil low. But the biriyani in Madeena tasted super…",
+     "Especially for Hardcore Non Veggies ? Ambience - Walked in an it was full. I would suggest this place is cool for friends only. Favorite - Noorani Chicken, Mutton Liver Masala, Mutton Roasted Dry…",
+     "The restaurant was full when we arrived.this place is for people who are hardcore fan of non vegetarian food, especially biryani.we ordered chicken biryani,Kerala parota,chicken kabab and noorani…"
+    ]
+   },
+   {
+    "id": "r_f46d0fec4694",
+    "name": "Namaste Kitchen",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "88, Jyoti Nivas College Road, Koramangala 5th Block, Bengaluru",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 172,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Jalebi",
+     "Chaat",
+     "Dal Makhani",
+     "Tandoori Roti"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Rarely you come across a restaurant where you feel like comfort of home. I visited this place 2 times on different days before writing this review and found the quality of service same. The…",
+     "great chat parlour. variety of good flavoured charts are available..try their dahi Vada, dahi papri and Jalebi. They are yummy and full of taste.Fresh products are being use there.Price is…",
+     "It is a pocket friendly and compact place. Will definitely say that it is good for having chats and the traditional Mumbai street food like Bhel Puri, Sev Puri, Dahi Puri etc."
+    ]
+   },
+   {
+    "id": "r_35e9e436f336",
+    "name": "Dosa Plaza",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "125, Jyoti Nivas College Road, KHB Colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 141,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Decent Dosas. Decent price. Nothing too fancy. A variety of Dosas exist on the menu though. Lots to try. Service is fairly decent. Ambience you can't expect much as you have to stand outside and…",
+     "The most light and best stuff that i got in city. North indian taste in south food makes it special. Will order more from this place, keep it up",
+     "This is the place for the best Tamil style Dosa.. be it crispy ghee roast or the classic set dosa ... this is it !! The sambaaar is unbelievably utterly delicious !!! One of the best South Indian…"
+    ]
+   },
+   {
+    "id": "r_9830f340b257",
+    "name": "Paratha Plaza",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "146, 60 Feet Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 41,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Sattu Paratha"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "The paratha here is just fabulous! Bakasura Recommended! The names of the parathas here are crazy! \"Hum tum\" \"Your pleasure my pleasure..\" And what not. Every name has its ingredients written next…"
+    ]
+   },
+   {
+    "id": "r_8662ddd73bff",
+    "name": "Food And You",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "2nd Floor, 50/1 Jyoti Nivas College Road, Opposite Jyoti Nivas College Main Gate, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Gujarati"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 89,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Thali",
+     "Thepla",
+     "Gulab Jamun",
+     "Masala Lassi",
+     "Rice",
+     "Gujarati Food",
+     "Roti"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Didn't like the food here because they tell litti chocha but they give fried litti and aalu chokhha..they should improve the menu quality and food as well.",
+     "Food and you is located near Christ and is a boon for all the college students staying away from home. They serve thalis whose menu changes everyday. It's a place that will fulfil your home food…",
+     "Its the best place.I had ordered one thali.the food is just like home cooked food,taste is also good.i will suggest this place with my friends .loved food here"
+    ]
+   },
+   {
+    "id": "r_3e8e00ac8c6c",
+    "name": "The House Of Paratha",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "Opposite JNC, Industrial Layout, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 70,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Cheese Paratha"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "We visited this place last week with my friends and order few parathas and few combos, food quality was pretty good and tasty. Also we order few lassy along with food which was delicious. Definitely…",
+     "Worst biryani ever. Waste of money. And quantity also very less. It's like normal rice, please never n ever try biryani here. Food : 1 / 5 Quality : 1 / 5",
+     "Trust me there are so many paratha joints that have opened up lately but my heart goes with this one!!! The details with the paratha like stuffing , crisp and size is total punjabi and thats why it…"
+    ]
+   },
+   {
+    "id": "r_5d3960cdf032",
+    "name": "Namma Biriyani",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "63, 5th Block, Jyoti Nivas College Road, Bengaluru, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 18,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Food was delicious. I recommend people to have briyani from here once for 99 free delivery. Delivery person was also very polite. With briyani you will also get one boiled egg",
+     "I ordered for Hyderabad biriyani rice the taste was so pathetic and the charge for just a biriyani rice is 200 which is too much, very disappointed with food to be frank.",
+     "Worst quality of kebab biriyani ever, kebab was charred black in colour, rice is of cheap quality. Bad experience, completely not recommended"
+    ]
+   },
+   {
+    "id": "r_43cc849ff71c",
+    "name": "North Indian And Bengali Mess",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "188, 5th Cross, KHB Colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Bengali"
+    ],
+    "rest_types": [
+     "Mess"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 34,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery"
+    ],
+    "review_snippets": [
+     "We went today for lunch and it was a horrible experience. We have ordered one fish thali and one mutton thali. Cheating while serving food is strictly a NO. They didn't give chapati, nor salad…",
+     "A great place for bengali.... good traditional Bengali cuisine food... like home style. fish lovers must try.... makes you fall in love with Bengali food.",
+     "Tasty home made Bengali food and great for its economic thalis. Love the fish thali, it's also a great option to order from when you are running low on cash. Also try the mutton kasa, a delicious…"
+    ]
+   },
+   {
+    "id": "r_af412b4e487f",
+    "name": "Eat Sleep Eat Repeat",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "Shop no. 5, 17th 'E' Main KHB Colony Koramangala 5th Block",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian",
+     "Continental"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.5,
+    "votes": 16,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "never received the call for i had to enquire sth",
+     "Ordered from here sometime back. For the price, the food is very good. Kudos to the chef for giving such a taste. Ki gulo sham'er bela tasty tasty food. Am ordering from here everytime my cook bunks…",
+     "I had their Thali once . The Rotis pretty ordinary they used the ID Brand Rotis. Gave the food in plastic use and throw plates. Small place with not very comfortable sitting area. Service was good…"
+    ]
+   },
+   {
+    "id": "r_178964480a9f",
+    "name": "Lets cafe",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "6-7, Main Road, Kaveri Layout, Suddagunte Palya, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.5,
+    "votes": 6,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Okay I'll be honest.... I did not want to visit this place. I hate Bangalore traffic and coming from Bannerghatta to Koromangala is an arduous journey I hardly ever take. But since many of my…",
+     "Very nice place. It's pretty small though. The food here is very good. Juices, coffee, tea, milkshakes are also available. Maggie, fried rice, noodles, french fries and sandwiches are available too…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_eeff14b46dad": 0.85,
+   "r_10954aac2f1a": 0.64531,
+   "r_f46d0fec4694": 0.620286,
+   "r_35e9e436f336": 0.605185,
+   "r_9830f340b257": 0.587025,
+   "r_8662ddd73bff": 0.57031,
+   "r_3e8e00ac8c6c": 0.477176,
+   "r_5d3960cdf032": 0.451363,
+   "r_43cc849ff71c": 0.423082,
+   "r_af412b4e487f": 0.217857,
+   "r_178964480a9f": 0.15
+  },
+  "relaxations": [],
+  "total_matches": 11
+ },
+ "edit": {}
+}

@@ -1,0 +1,1237 @@
+{
+ "id": "sparse-04",
+ "result": {
+  "preferences": {
+   "location": "Basavanagudi",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Basavanagudi"
+   ],
+   "budget": "medium",
+   "cuisines": [
+    "Korean"
+   ],
+   "min_rating": 4.0,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_beba473fcf98",
+    "name": "Onesta",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "90/66, 1st Floor, Gandhi Bazar Main Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.6,
+    "votes": 1755,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Barbeque Chicken Pizza",
+     "Mushroom Ravioli",
+     "Pasta",
+     "Lasagne",
+     "Berryblast",
+     "Mocktails",
+     "Potato Wedges"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "A perfect place for having a gang meet. Their deserts and shakes are excellent!! A superb joint for having a one to one chat or hanging out. Worth a visit!",
+     "Onesta is a best place for pizza lovers They have got a good taste and the ambiance is very good. . Taste : 4.5 / 5 . Price : 4 / 5. Ambiance : 5 / 5.",
+     "I have tried Banashankari and Jp nagar's outlet too, love your unlimited pizza offer always. Jp nagar's was good but this outlet amazed me a lot! Ambience is pretty, I liked it, staff lady was…"
+    ]
+   },
+   {
+    "id": "r_5174af549cc5",
+    "name": "The Rogue Elephant",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "93, Near Generation School, Opposite Krishna Rao Park, Basavanagudi, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Asian",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1038,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Salads",
+     "Masala Chai",
+     "Brownie",
+     "Wine Sauteed Mushrooms",
+     "Salad",
+     "Apple Pie"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "My go to place for my favorite comfort food (Avocado Toast). A quiet little place which has really good food and nice ambience. When ever I come here I make sure I order the Avocado-Egg White &…",
+     "What a place it is. It will take you on a trip to old royal Bangalore with clean surroundings, lush green plantations, hand-crafted potted plants shop, handicrafts shop around. The restaurant part…",
+     "Rogue elephant! This place is surely one of the hidden gems of basavanagudi. It is all about finding calm admist the choas. Love the way the cafe is put up admist the trees and it's so neatly done…"
+    ]
+   },
+   {
+    "id": "r_c1c063f5c58a",
+    "name": "Baba Chatkora",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "19 RV Road, South-End Circle, Basavanagudi, Bangalore",
+    "zones": [
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 428,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Chaap",
+     "Matka Lassi",
+     "Paneer Tikka",
+     "Dal Makhani",
+     "Chole Kulche",
+     "Paneer Kulcha",
+     "Paratha"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Are you looking for a place to take your family out for a good dinner, then this is the place you should be on your way to: They have some of the most interesting Amritsari Kulcha's. The Laba lab…",
+     "Items ordered - Aloo Kulcha, Dal Makhani Combo Cost for 2 - 500 bucks Service was quick and taste is very authentic. Restaurant was kind enough to provide rice in place of one lacha paratha. Dal…",
+     "A must visit to have Delhi/Punjab typical taste. Kulchas are mouth watering. Although you are full but it will leave you craving for more. Would love to visit again."
+    ]
+   },
+   {
+    "id": "r_1bd114138a7c",
+    "name": "SLV Corner Restaurant",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "42, Vani Vilas Road, Ramakrishna Ashrama Circle, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Chinese",
+     "North Indian",
+     "Street Food",
+     "Rolls",
+     "Juices"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 550,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 364,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa",
+     "Filter Coffee",
+     "Maddur Vada",
+     "Curd Vadai",
+     "Onion Dosa",
+     "Upma",
+     "Sunday Breakfast"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "One of the oldest restaurant in Basavanagudi which serves amazing dosa and idli sambar...people do hangout here after their everyday routine walk in Lalbagh or Krishna Rao park to have coffee and…",
+     "Nice place near Basavanagudi, worth trying all the items , Dosa and vada is too good , any item is good it is always filled with people , coffee is good Ambience:3.5/5 Food:4/5",
+     "Located in Basvangudi and is a perfect place for a simple yet tasty breakfast.Best filter coffee and idly,vada! Their sambar is just delicious! I wouldn't recommenced the masala dosa....The bisi…"
+    ]
+   },
+   {
+    "id": "r_96f433ff7008",
+    "name": "Udupi Sri Krishna Bhavan",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "115/116, 1st Floor, Gandhibazaar, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 238,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa",
+     "Vada",
+     "Obbattu",
+     "Badam Milk",
+     "Khara Bhath",
+     "Coffee",
+     "Puri Saagu"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Had been for mid Day Meal from many days. Finally we were able to make it. We thoroughly enjoyed the Full Unlimited Meals of the restaurant. By the time we came to 70% of the lunch we were feeling…",
+     "Frankly one of the best masala Dosae in Bangalore, lived up to my expectations! Great dosas and coffee was really good. The prices are on the expensive side but really worth it. Taste 4.5/5 Hygiene…",
+     "Another packed breakfast place in Gandhi Bazar with both ground floor and the first floor seating. I had to wait for around 20 minutes to get a seat on a Sunday morning. We started with idly which…"
+    ]
+   },
+   {
+    "id": "r_3f6b753c56cf",
+    "name": "Cafe Aira",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "23, Kanakapura Road, Near SRS Petrol Pump, Lalbagh West Gate, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Beverages",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 216,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta",
+     "Nachos",
+     "Jalapeno Poppers",
+     "Burrito Bowl",
+     "Ferrero Rocher Shake",
+     "Falafal Sandwich",
+     "Banana Waffles"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "A cute little cafe located in Basavanagudi finding it was tuff. The food was tasty we tried their Jalapeno popper's, Alfredo pasta and Schezwan rice. The quantity was little less for the price but…",
+     "I have been curious about this place since it has pita on the menu. We ordered in from Aira today. Looking at all reviews here I decided it was best to try pizza pocket. As promised it was hot and…",
+     "Eaisly identifiable in vv puram road,basavanagudi. This place gives a homely experience with friendly staff. The place is very clean with fine arts on the wall. Though the place isn't huge,but is…"
+    ]
+   },
+   {
+    "id": "r_6741a8035ff5",
+    "name": "Curry Leaves",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "15, 1st Main, Kariyappa Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Andhra",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 176,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Brownie",
+     "Mojito",
+     "Prawn Ghee Roast",
+     "Corn Tikki",
+     "Mushroom Ghee Roast",
+     "Pinacolada",
+     "Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Curry leaves is an multicuisine restaurant specializing in chinese, mangalorean, and Indian cuisine. The ambience is a huge space consisting of two floors . The first floor being the fine dine and…",
+     "Multicuisine fine dine restaurant in Bangalore! Curry leaves is a multicuisine restaurant located near yediyur lake in Jayanagar. The ambience is spread over two floors with the first being a family…",
+     "I visited this restaurant for a Sunday night dinner and it was occupied by mostly families in no time. It's an Andhra cuisine restaurant so would be an apt choice for people who love spicy food. In…"
+    ]
+   },
+   {
+    "id": "r_c79e21e77877",
+    "name": "Twiststick House",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "97, Opposite Jain College, Kavi Lakshmisha Road, VV Puram, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar",
+     "Lavelle Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Fast Food",
+     "Street Food",
+     "Momos"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 169,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "White Pasta",
+     "Noodles",
+     "Babycorn Manchurian",
+     "Pizza",
+     "Veg Momos",
+     "Fry Momos",
+     "Tawa Pulav"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "A must try place for all food lovers.It is a small kiosk situated just opposite of jain college .There is no seating and you basically have to stand and eat.But despite this shortcoming,their food…",
+     "It's the perfect place in Basvangudi for short eats. They have Chinese, Chaats, Momos, Potato on Stick, Pizza, Pasta..etc We end up here quite often. Our favorites are Pasta (yummiest) , Cheese…",
+     "This is a place just near the National College. Peri Peri Twisticks & Jain Twisticks is what I could have. It was spicy and I could not have more.I think this place can be explored more. Try visiting."
+    ]
+   },
+   {
+    "id": "r_88956c3dbe2c",
+    "name": "Roti Ghar",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "17, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 753,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Spring Roll",
+     "Roti",
+     "Panneer Butter Masala",
+     "Noodles",
+     "Butter Naan",
+     "Masala Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This is the main streets of Basavangudi Gandhi Bazaar.Always crowded and fast service. Nice food.Priced properly. Service is quick.North south chinese available too. Like their gravies and…",
+     "Taste is good and ambience is fine. But I observed a bit late service from the staff as well as the seats/tables are very much near to each other. I feel congested somewhat.",
+     "Roti Ghar is good for vegetarians small and sweet to have a good lunch or dinner with family and friends service interior nice food taste of delivery is good"
+    ]
+   },
+   {
+    "id": "r_c621526d3dfc",
+    "name": "Energy Addaa",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "Rashtriya Vidyalaya Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar",
+     "Lavelle Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Salad",
+     "Healthy Food",
+     "Sandwich",
+     "Juices",
+     "Burger",
+     "Desserts",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 69,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Nachos",
+     "Salads",
+     "Peri Peri Fries",
+     "Brownie",
+     "Pasta Alfredo",
+     "Spaghetti"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Been to this place with two of my Foodie friends. This is situated opposite to Lalbagh West gate. It's above cafe coffee day. The ambience is typical cafe type simple and classic. Food we had…",
+     "Food:4/5 Ambience:4/5 Service:3.5/5 Visited here for some quick bites, located opposite to Lal bagh park, this cafe has one amazing view of the metro and the Lal bagh landscape. The place has one…",
+     "\"Energy Adda\" a cafe located on 3rd floor near lalbagh Metro Station and it's very easy to spot it. The place has a average ambience and good area of seating. Dropped down here with a bunch of…"
+    ]
+   },
+   {
+    "id": "r_290d5eb85cf4",
+    "name": "House Of Kebabs",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "39/1, R.V Road, Opposite Vijaya College, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Kebab",
+     "Biryani",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 547,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Roti",
+     "Shawarma",
+     "Butter Chicken",
+     "Mutton Biryani",
+     "Paneer Biryani",
+     "Lahori Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Alfaham is one of my favourite dish and it has never disappointed me when ever I order.... friendly staff and reasonably priced... do try and you'll not be dissatisfied...",
+     "Ordinary! We had been here for lunch today. The place is stuffy and not ventilated. It was sweet corn soup, chicken 65, mushroom masala and some butter kulchas that we ordered. Sweet corn was on…"
+    ]
+   },
+   {
+    "id": "r_5174733c20ca",
+    "name": "Mint and Mustard",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "172, Ground Floor, Near Jain College, VV Puram, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 245,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paneer Tikka",
+     "Masala Papad",
+     "Garlic Naan"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Good North Indian restaurant in VV puram. Excellent ambience. Bang on service. They rock at it. Fried Masala papad was the tastiest of the lot. We ordered tomato soup, veg manchow, gobi manchuri…",
+     "Ordered gravy and dal khichdi- tasted find initially but when we woke up this morning was down with food poisoning. Not sure which one affected us. Everybody who ate is currently sick!",
+     "Good food with average ambiance . Good service. Visited the place at afternoon hence it was almost empty. Quick service. Great taste with sufficient quantity and affordable price"
+    ]
+   },
+   {
+    "id": "r_d86eecc39ca0",
+    "name": "Redberrys",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 219,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Fries",
+     "Anjeer Ice Cream",
+     "Sandwiches",
+     "Gelato",
+     "Burgers",
+     "Kesar Badam"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Redberrys will provideswonderful ice cream flavours and some tasty delights to fill up your tummy with the italian touch friendly staff's quick response towards the customer food in redberrys were…",
+     "It's a place for having Gelato, not Ice creams!!! They have quite good variety of fresh gelatos. They are known for gelatos, although they have started serving Burgers, Pizza, Pasta now, Pastries &…",
+     "1) pizza. shake and salad very nice 2) location of red Barry's very nice 3) staff good 4) over all redberrys very nice places.. cool & simple places to enjoy evening with group of friends nice"
+    ]
+   },
+   {
+    "id": "r_29c8b7bb2d95",
+    "name": "Burger King",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "59/3, Ground & First Floor, West Anjaneya Temple Road, Ward 49, Gandhi Bazaar, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "Burger",
+     "Fast Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 157,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Chicken Whopper",
+     "French Fries"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "The burger king has newly launched it's franchise here competiting a great opponent, the burger tasted good but nothing great and it was not hot, the coke had a lasting frizz which is good and the…",
+     "I ordered chicken whopper and large fries which came damaged with small fries only. Very disappointed with the service of Burger King and Zomato. I never expected such service from neither of the…"
+    ]
+   },
+   {
+    "id": "r_31e412bd7e0c",
+    "name": "Steaming Mugs",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "166/A 2nd Floor, R.V Road, Above DTDC Office, V.V Puram, Near Minerva Circle, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Brigade Road",
+     "Jayanagar",
+     "Lavelle Road",
+     "Residency Road"
+    ],
+    "cuisines": [
+     "Cafe"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 241,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Fries",
+     "Oreo Shake",
+     "Pasta Arrabiata"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "We heard about this cafe from my colleague and since then planned on visiting. It is very close to VV Puram eat street. Ambience on this place is good. It's not that well ventilated but place is big…"
+    ]
+   },
+   {
+    "id": "r_321dfe4481ff",
+    "name": "Baisakhi",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "160, Gandhi Bazar Main Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 528,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Chaach",
+     "Tomato Shorba",
+     "Gajar Ka Halwa",
+     "Biryani",
+     "Deluxe Punjabi Thali",
+     "Rajma",
+     "Paneer Tikka Masala"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Visited this restaurant along with my family, all of us we felt Okish in terms of taste and food ? It's not that great. Being punjabi cuisine, lassi heres too bad and panner rolls and veg curry also…",
+     "This a must go place for best parathas and rotis especially when you are in a foodies Gang. We couldnt finish the rotis and we parceled the leftover and had it the best day. Must visit this place to…",
+     "This is a cute small place serving good food at a very reasonable price. My all time favourite is their paneer satay. The quantity is too too much but i am defintnot complaining!!????"
+    ]
+   },
+   {
+    "id": "r_a5bdc030a575",
+    "name": "Gokul Veg",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "1st Floor, GR Plaza, DVG Road, Near Gandhi Bazaar circle, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 469,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Papad",
+     "Paneer Satay",
+     "Vegetable Biryani",
+     "Panneer Butter Masala",
+     "Tomato Soup",
+     "Manchow Soup",
+     "Roti"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "One of Bangalores oldest restaurants! Ambience hasnt changed since years. Love the masala papad , the mushroom 65 and babycorn chilli in starters! For main course the paneer butter masala and naans…"
+    ]
+   },
+   {
+    "id": "r_a4e2dfc52c03",
+    "name": "Kollapuri's",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "1, Corporation Market, Gandhi Bazar, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Mangalorean"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 206,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Biryani",
+     "Mutton Biryani",
+     "Egg Biryani",
+     "Chicken Fry",
+     "Mutton Fry"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "you can find this place in the flower market of Gandhi Bazaar and it is one of the best non veg hotel in Gandhi Bazaar, Biryani is one of the best and the status of best",
+     "Come here if you wanna eat authentic good savji type food and not for the ambiance! The ambiance is really bad but they make up for that with their food! Try the Raja chicken and you will not be…",
+     "A budget friendly place with good food.The place is small and always crowded.Thr ambiance I would say is poor but people don't come here for ambiance.Its for the food taste.I had Masala…"
+    ]
+   },
+   {
+    "id": "r_168384862e38",
+    "name": "Zephyr",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "79/1 - 6, 5th Floor, Aishwarya Sampoorna Building, Vani Vilas Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "Italian",
+     "Continental"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 133,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Chilli Paneer Pizza",
+     "Mocktails",
+     "French Fries",
+     "White Sauce Pasta",
+     "Nachos",
+     "Manchurian"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Ok this place is not so well maintained Hookah is the main attraction here Food is Ok The Service is good This is pocket friendly hookah place"
+    ]
+   },
+   {
+    "id": "r_c7d6e46d7543",
+    "name": "Timepass Dinner",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "37, 5-1, 4th Floor, Bosco Court, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 291,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Onion Rings",
+     "Pasta",
+     "Kadhai Paneer",
+     "Salads",
+     "Salad",
+     "Roti",
+     "Jeera Rice"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Came over here with family unexpectedly on Valentine's day 🤩. Was really surprised to see that there was candle light dinner??. This place is really perfect to spend the dinner with family or…",
+     "Food 3/5 Ambience 3/5 Service 3/5 Had been here for family lunch. This place serves buffets too. We ordered soups, babycorn starters, butter naan, kadai panner, veg kohlapuri, pease pulav. Food was…"
+    ]
+   },
+   {
+    "id": "r_61b5c42705a0",
+    "name": "Pramukh Family Restaurant",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "5, 1st Floor, Mallariah Complex, Gandhi Bazar Main Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 111,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Murgh Ghee Roast",
+     "Malai Kofta",
+     "Butter Chicken",
+     "Donne Biryani",
+     "Cocktails",
+     "Palak Rice",
+     "Masala Peanuts"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Good And Tasty food. Total 3Floors. Best floor is third floor, Service and staffs are good. Veg & Non-Veg dishes are nice. Good hangout place in Basavanagudi. Mushrooms & Chicken are best.",
+     "They have 3 floors, 1st is a little cramped and always full but they have 4 led TVs to catch your fav match. 2nd floor is primarily for family and a non smoking area, it's usually quiet and not…",
+     "Best in taste. Ambiance is very good. Service is very slow. Egg pudina and red chilly mushrooms were lip smacking. Lighting is good. Service is slow...so order most of the items at a same time…"
+    ]
+   },
+   {
+    "id": "r_52397c2fac13",
+    "name": "Cafe Mondo",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "2/2, Pattalamma Gudi Street, Armugam Circle, Near South End Circle, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Jayanagar"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.7,
+    "votes": 514,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Pasta Alfredo",
+     "Brownie",
+     "Garlic Bread",
+     "Sandwiches",
+     "Lemon Mojito",
+     "Mocha Fudge"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Ambience of this place is simple but it has some charm. Food is okay-ish. Had a pizza and some tea. Pizza lacked flavour and the tea was the teabag variety. So nothing worth it. With cafes like this…"
+    ]
+   },
+   {
+    "id": "r_d6e208902018",
+    "name": "Subway",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "41/1, Bull Temple Road, Near BMSCE, Basavanagudi, Bangalore",
+    "zones": [
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "Salad",
+     "Fast Food",
+     "Sandwich",
+     "Healthy Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 177,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chocolate Cookies",
+     "Mexican Patty",
+     "Double Chocolate Cookie",
+     "Veggie Delight"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Seating arrangement, spacious good staffs. Coming to food everything is fresh and delicious. I have tried many sandwiches, wraps. Great place good food. Cheers",
+     "Food is good and tasty over here. You can choose the type of bread and sauces and veggies. The 6 inch subs are not that filling but can be eaten for snacks. The Basavanagudi outlet is a little small…",
+     "A healthy and satisfying place to eat. The vegetables used are fresh and there is also a good variety of sauces , toppings, and breads. Staff are friendly and helpful too."
+    ]
+   },
+   {
+    "id": "r_242d403f6c79",
+    "name": "Grand Village",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "10, 3rd Floor, Lakshmi Associates, Gandhi Bazaar Main Road, Above Reliance Trends, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Rajasthani"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 166,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Panipuri",
+     "Gol Gappe"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Very good restaurant in neighbourhood. Buffet system is properly arranged. Variety of dishes along with garba dance and puppet show. Good spread of desserts. Live paratha / Kulcha making",
+     "Great service, overwhelming experience. One of its kind experience. Grand village offers you some very desi food options. Jaljeera, buttermilk, chat papdi, bhajiya, dosa, pav bhaji, noodles, and so…"
+    ]
+   },
+   {
+    "id": "r_d01f2c213912",
+    "name": "Pizza Stop",
+    "city": "Bangalore",
+    "locality": "Basavanagudi",
+    "address": "66/1, Kanakpura Road, Basavanagudi, Bangalore",
+    "zones": [
+     "Banashankari",
+     "Basavanagudi",
+     "Lavelle Road"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Italian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 166,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "White Sauce Pasta",
+     "Masala Garlic Bread"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Have been to Malleswaram outlet many times and it's always been a good experience there so tried getting food delivered from this outlet and must say I am impressed once again. Food was hot and…",
+     "This is one of the best branches! They have good for consistently. The staff keeps changing so service is kinda bad at times I'm only saying this cause I've been here a couple of times so we…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_beba473fcf98": 0.7,
+   "r_5174af549cc5": 0.535045,
+   "r_c1c063f5c58a": 0.394554,
+   "r_1bd114138a7c": 0.385332,
+   "r_96f433ff7008": 0.361162,
+   "r_3f6b753c56cf": 0.35565,
+   "r_6741a8035ff5": 0.34402,
+   "r_c79e21e77877": 0.341716,
+   "r_88956c3dbe2c": 0.336744,
+   "r_c621526d3dfc": 0.336068,
+   "r_290d5eb85cf4": 0.318528,
+   "r_5174733c20ca": 0.31781,
+   "r_d86eecc39ca0": 0.311434,
+   "r_29c8b7bb2d95": 0.292538,
+   "r_31e412bd7e0c": 0.271874,
+   "r_321dfe4481ff": 0.271514,
+   "r_a5bdc030a575": 0.264764,
+   "r_a4e2dfc52c03": 0.262957,
+   "r_168384862e38": 0.238134,
+   "r_c7d6e46d7543": 0.237595,
+   "r_61b5c42705a0": 0.227897,
+   "r_52397c2fac13": 0.224983,
+   "r_d6e208902018": 0.209341,
+   "r_242d403f6c79": 0.2057,
+   "r_d01f2c213912": 0.2057
+  },
+  "relaxations": [
+   "Budget widened to include high (above ₹1,000 for two)",
+   "Minimum rating lowered from 4 to 3.5",
+   "Included places that don't serve Korean (those that do still rank first)"
+  ],
+  "total_matches": 39
+ },
+ "edit": {}
+}

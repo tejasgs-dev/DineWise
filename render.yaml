@@ -1,0 +1,29 @@
+# Render Blueprint for the DineWise API (docs/deployment-plan.md §4).
+services:
+  - type: web
+    name: dinewise-api
+    runtime: python
+    plan: free
+    region: singapore  # closest Render region to Bengaluru users
+    branch: main
+    buildCommand: pip install --upgrade pip && pip install .
+    startCommand: uvicorn dinewise.api.main:app --host 0.0.0.0 --port $PORT
+    # Returns 503 if data/restaurants.parquet is missing, so a broken deploy never goes live.
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.10
+      - key: GROQ_API_KEY
+        sync: false  # entered in the Render dashboard, never committed
+      - key: DINEWISE_CORS_ORIGINS
+        value: '["https://dinewise.vercel.app"]'  # replace with your real Vercel domain(s)
+      # Render's proxy appends the real client IP to X-Forwarded-For (rate limiting, SEC-10).
+      - key: DINEWISE_FORWARDED_HOPS
+        value: "1"
+      - key: DINEWISE_RATE_LIMIT_PER_MINUTE
+        value: "10"
+      - key: DINEWISE_LOG_FORMAT
+        value: json
+      - key: DINEWISE_LOG_LEVEL
+        value: INFO

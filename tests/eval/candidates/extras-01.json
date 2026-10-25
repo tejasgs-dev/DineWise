@@ -1,0 +1,1402 @@
+{
+ "id": "extras-01",
+ "result": {
+  "preferences": {
+   "location": "Koramangala 5th Block",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Koramangala 5th Block"
+   ],
+   "budget": "medium",
+   "cuisines": [],
+   "min_rating": 4.0,
+   "extras": "table booking for a group, buffet",
+   "extras_tags": [
+    "buffet",
+    "table_booking"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_4a4c5f1ffbd1",
+    "name": "House Of Commons",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "122/B, Jyothi Nivas Road, 5th Block, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Continental",
+     "Asian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.7,
+    "votes": 4470,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Chaap",
+     "Tandoori Chicken",
+     "Mocktails",
+     "Beer",
+     "Ghee Roast Mutton",
+     "Martini"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "HOUSE OF COMMONS a simple pub with tasty food. They have great deals for happy hours, boozers visit this place and have great happy hours. Very less food options for veg, common recipes but the…",
+     "Safe haven for reasonably priced draughts and good starters to catch up with friends for all crowds. High chair seating is available. No dance floor if you're interested. Their service is great.",
+     "The name justifies this place. It is the house of commons, the drinks and the food are dirt cheap but not that of an ambiance. Can be your month end drink joint. Location is prime, the crowd might…"
+    ]
+   },
+   {
+    "id": "r_cf8f445563b4",
+    "name": "Truffles",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "28, 4th 'B' Cross, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Burger",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.7,
+    "votes": 14726,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Pasta",
+     "Cocktails",
+     "American Cheese Burger",
+     "Chicken Salad",
+     "Pancakes",
+     "Chocolate Dessert"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Not bad but the burgers didn't match my expectations. So a lil disappointed but not too much as they were better than some of the burger brands",
+     "Overhyped ! Deserts are better than the savoury dishes ! I've ordered burgers a few times and I've never been able to enjoy it. Their hot dogs are decent but I have had better. I am not sure if…",
+     "Package: 4/5 Food: 4/5 Tried their Alfredo pasta, it was amazing. Packaging was good, and food preparation time was less. Overall good experience"
+    ]
+   },
+   {
+    "id": "r_2f1ebbf9a448",
+    "name": "ECHOES Koramangala",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "Shop 44, 4th B Cross Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Chinese",
+     "American",
+     "Continental",
+     "Italian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.7,
+    "votes": 3220,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta",
+     "Mezze Platter",
+     "Momos",
+     "Pizza",
+     "Waffles",
+     "Chocolate Milkshake",
+     "Pancakes"
+    ],
+    "tags": [
+     "cafe",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "A cafe with a very unique concept, loved it. The decor gives you feel of the old summer vacations at your grandparents place and makes you feel nostalgic. Had a great experience. Food is really…",
+     "The ambience of the place is quite nice. Had ordered Butter Chicken Pasta, Salami Sausage Pizza, and Ferrero Rocher Shake. The pizza was really good, the sausage and salami had that smoky flavour…",
+     "II am really impressed with the concept of service by differently abled staff. Ambiance is decent. Food is tasty and they have wide range of options. Service is apt. The place is pocket friendly."
+    ]
+   },
+   {
+    "id": "r_050013c347ac",
+    "name": "Gilly's Restobar",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "91, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Finger Food",
+     "Continental",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 3923,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Thai Crispy Chicken",
+     "Mojito",
+     "Watermelon Martini",
+     "Chicken Biryani",
+     "Beef Fry",
+     "Cocktails",
+     "Calamari"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Sunday evening!! A wonderful way to close your week is by visiting Gilly's... Great music and this time there were no plans for alcohol so we really got an oppertunity to enjoy the food. I got the…",
+     "Food 3/5 Ambience 5/5 Value for money 4/5 Staff behaviour 5/5 We ordered chkn kebabs and grilled fish platter Chicken kebab was good and tasty because of which i would give this place a 4 star but…",
+     "We had ordered the Chicken and Fries pizza. The pizza was good, but the fries was so hard that it didn't taste like fries at all. I liked the interiors of the place, a lot of catchy stuff! Friendly…"
+    ]
+   },
+   {
+    "id": "r_59156560f724",
+    "name": "Dyu Art Cafe",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "23, Near Mangala Kalyana Mantapa, MIG, KHB Colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 3854,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Coffee",
+     "Chocolate Mocha",
+     "Hot Chocolate",
+     "Chocolate Cake",
+     "Sandwiches",
+     "Pizza",
+     "Bannoffee Pie"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "If there would have been an option to give 10 star for the ambience, I would happily give that to this cafe. This art cafe owns my heart. Amongst the hustle and bustle of this city, this cafe serves…",
+     "Very cute place, looks like a house modified into a cafe. Two floor seating. Bright open interiors. Good food and quick service. Desserts are very good.",
+     "Awesome place and super duper embience!! One of the best places to take your loved ones. Although we just had coffee there, but it was really good."
+    ]
+   },
+   {
+    "id": "r_7089dd00bddf",
+    "name": "Market Table",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "10, Fifth A Block, 17th B Main, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Mediterranean",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 556,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Salads",
+     "Healthy Breakfast",
+     "Quinoa Salad",
+     "Frittata",
+     "Pancakes",
+     "Smoothie Chocolate",
+     "Wheat Roll"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "An interesting cute little place at the heart of Koramangala. Though a very limited menu, the place will impress you with its eccentric and uncommon food options. The breakfast options, the salads…",
+     "Loved the ambience of the place, some quirky items all over the place. Ordered the stuffed omelette which was delicious and a cold coffee. Lots of seating and even at 10am place was 70% occupied…",
+     "Nice cute little cafe. The food was surprisingly good. Had the vegan body builder which actually serves 2 and avocado strawberry chocolate shake. Beverages are slightly overpriced. All in all, a…"
+    ]
+   },
+   {
+    "id": "r_d423632c2e8d",
+    "name": "Stoner",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "Elite Building Ground Floor, Industrial Layout, Jyoti Niwas College Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Cafe",
+     "Pizza",
+     "Burger",
+     "Desserts",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 2668,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Caramel Shake",
+     "Spinach Pizza",
+     "Ferrero Rocher Ice Cream",
+     "Butter Chicken",
+     "Chocolate Lava Cake",
+     "Bbq Burger"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Very good place to have a light meal or a small get together with friends. I was there for desert but after seeing the restuarant, I realised that it is not only a desert corner but has good fast…",
+     "Oh god! Such a fuss over zomato gold. From where do I create an Id proof of my Blogging username? Anyway, I love their Ferrero ice cream. On of the rare ice cream parlours which use the real Ferrero…",
+     "i love this place and also all their ice creams .. be it crunchy ferrero or thanda paan or any other ... All r very much delicious !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ]
+   },
+   {
+    "id": "r_9d541b03707f",
+    "name": "Sharief Bhai",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "66, Ground Floor, JNC Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Mughlai",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 1582,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Nalli Nihari",
+     "Patthar Ka Gosht",
+     "Phirni",
+     "Paya Soup",
+     "Hyderabadi Biryani",
+     "Chicken Nihari"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I love their ambience. Food is also good. Taste wise not spicy .It was good and we love each and every dishes. They also provides Potato in chicken or mutton curry which reminds me of bengali food…",
+     "Sharief bhai gives an option of huge variety in their starters. Their starters are such which will make your tummy filled up before having the main course. Their ambiance is quite great with huge…",
+     "Small plate of bheja fry, this is what i ordered from this place and i must say it was so great to have this one and it was a non vegetarian pakwan which was made up with a blend of spices all mixed…"
+    ]
+   },
+   {
+    "id": "r_a1eeba8522c5",
+    "name": "Meghana Foods",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "124, Near Jyothi Nivas College, 1st Cross, KHB Colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Biryani",
+     "Seafood",
+     "Andhra",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 7238,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Boneless Biryani",
+     "Egg Curry",
+     "Andhra Biryani",
+     "Hyderabadi Biryani",
+     "Paneer Biryani",
+     "Buttermilk",
+     "Sea Food"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This is one of the best places in Bangalore for Biryani. Since last 9 years I have been having the biryani from here regularly. Boneless chicken biryani is my all time favorite. If you are a hard…",
+     "I have been visiting this place for the past 6 years. Sadly, the quality has only detoriated over the time. It was my go to place for biriyani and kebabs, now no more. They should hold onto their…",
+     "Chicken lollipop Chicken lollipop is essentially a frenched chicken winglet, wherein the meat is cut loose from the bone end and pushed down creating a lollipop appearance. It is popular in Indian…"
+    ]
+   },
+   {
+    "id": "r_d6d9294ee6ad",
+    "name": "eat.fit",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "93/A 4th 'B' Cross, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "Basavanagudi",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Healthy Food",
+     "North Indian",
+     "Biryani",
+     "Continental",
+     "Sandwich",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.6,
+    "votes": 158,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Brownie",
+     "Veg Thali",
+     "Noodles"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Eat.fit is my most preferred outlet to order my food from. I don't usually rate 5 stars to any outlet easily, but yes i think eat.fit deserves it. Most important aspect of eat.fit which i like is…",
+     "This place takes the concept of making us eat healthy food to a complete new level. So much so that they sent me wheat parota eventhough i ordered masala pulao :P Ha ha. Yes. Looks like the somebody…",
+     "Used this place to order few times lunch as a healthy option instead of unhealthy one. Orderd mini meal, rice bowl, chefs special meal, dal makhni & laccha paratha combo. Packaging was very nice and…"
+    ]
+   },
+   {
+    "id": "r_1b293ac118f7",
+    "name": "Dice N Dine",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "71/72, The Elite, 5th Block, Jyoti Nivas College Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Continental",
+     "Cafe",
+     "Italian",
+     "Fast Food",
+     "Steak"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1810,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Lasagne",
+     "Tiramisu",
+     "Chicken Popcorn",
+     "Mocktails",
+     "Club Chicken Sandwich",
+     "Nachos",
+     "Pasta"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Had been to this place on a rainy weekend. Ordered virgin mojito. My absolute favorite place. The ambience and the food here is absolutely amazing.........................",
+     "Loved the ambience! The food is great too! their collection of board games is crazy! We played battleship while we were waiting for our food to come. Reasonably priced menu too.",
+     "A nice cafe which serves continental food. They have a lot of Board games as options to pick form for customers. The place serves tasty and good food. The quantity and pricing is good. Will go back…"
+    ]
+   },
+   {
+    "id": "r_5bb1fd166e2d",
+    "name": "Drunkling - Sizzlers and Pub",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "145, 60ft Road, KHB Colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Continental",
+     "North Indian",
+     "Burger",
+     "Pizza",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 348,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Beef Steak",
+     "Cocktails",
+     "Mojito",
+     "Paneer Ke Sholay",
+     "Caramel Custard",
+     "Prawn Ghee Roast",
+     "Stuffed Mushroom"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Nothing too fancy. 2 floored place. 1st floor is for dining. 2nd floor has an open space, a bar and kind of a dance floor. Service is decent. Place is small. Price is not that high. The smoke they…",
+     "Polite and friendly staff good ambience and easy on pocket. Food and cocktails are good. Have been here many times and love going back every other time.",
+     "Went on a recommendation from a friend who happens to stay in Koramangala for a long time, was here just over the weekend. What did we eat? - Drunkling Chicken Sizzlers: very good, with good match…"
+    ]
+   },
+   {
+    "id": "r_6e22db9e8c0b",
+    "name": "Hungry Hippie",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "104, Vijay Building, 5th Main, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Italian",
+     "Burger"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1475,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Butter Chicken Pizza",
+     "Lamb Burger",
+     "Chicken Bao",
+     "Vegetable Moussaka",
+     "Peri Chicken",
+     "Pasta",
+     "Pink Lemonade"
+    ],
+    "tags": [
+     "cafe",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I was here with my non hookah doing cousin but that's okay I'll be back for the hookah definitely the next time coz it smells fantastic. Apart from that we had a really nice tasting peri peri pizza…",
+     "Located at busy streets of Koramangala, this place won't disappoint the hookah lovers. Very cool place and amazing wall artistry. Well planned and maintained. Ambience is great so as hookah. Music…",
+     "Good place to hang around with your gang of friends. Delish food with good choice of hookah. We had chicken Bbq pizza and yes it was yum. I recommend the place as it does give you a hippie feeling…"
+    ]
+   },
+   {
+    "id": "r_9b3717fc5c65",
+    "name": "Nuts Over Salads Cafe",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "1, Nirmala Mansion, 4th Cross, 17th A Main, 60 Feet Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Salad",
+     "Healthy Food",
+     "Mexican"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 214,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Salad",
+     "Salads",
+     "Peri Peri Chicken",
+     "Burgers",
+     "Broccoli Soup",
+     "Steak",
+     "Soba Noodles"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "They say it right yummy and healthy food is never a match, nuts over salad proves it wrong. This is the place where I am going to hang out more. This place is packed with tastiest heathy food, I…",
+     "Went here on a Sunday evening. Food: 4/5 - Everything served was delicious. The spread of the menu was decent, though the portion size was on the smaller size, but considering the price of dishes…",
+     "4 stars for the chicken burger with beetroot buns. Salads were very average but the place is still good for healthy eating. Quantity is good for everything."
+    ]
+   },
+   {
+    "id": "r_b5d2aaa1f7be",
+    "name": "YORK St.",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "122B, 1st A Cross Road, near to McDonald’s,2 nd floor KHB colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "European",
+     "Continental"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 951,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Beef Steak",
+     "Custard",
+     "Burgers",
+     "Beef Stroganoff",
+     "Salad",
+     "Sandwich",
+     "Sandwiches"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Pretty little cafe, with delicious food. We had ordered the Moroccan spicy eggs and pasta. Both were equally tasty. Every corner in the cafe is Insta-worthy. Also, it came with board games. Perfect…",
+     "Wanted to have some good indian food but ended up here. To be very frank this is the first time I'm hearing about this cafe. I came in front of a restaurant and then saw the menu list board of YORK…",
+     "More like 3.5 stars. A new place at the busy street of 5th block Kormangala. Tried the St. John's Chicken Parcel which was good. The ambience of the place was nice, they had a collection of books…"
+    ]
+   },
+   {
+    "id": "r_2279f72a6931",
+    "name": "Sixth Avenue Cafe And Patisserie",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "44, 4th B Cross Rd, Koramangala Industrial Layout, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 210,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Tea",
+     "Pasta",
+     "Chocolate Bomb",
+     "Waffles",
+     "Fries",
+     "Burgers",
+     "Chocolate Lava Cake"
+    ],
+    "tags": [
+     "cafe",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Beautiful Ambience. Little tough to find the entrance due the work going on in Ground floor but there are stairs just beside Echoes restaurant which lead to Sixth avenue located on the first floor…",
+     "Great place with great ambience. Went for my birthday party and I was awestruck with the decor. Food - 5 Dessert - 3 Service - 3.5 Ambience - 5",
+     "Very cute cafe around Kormangala. Love the colors and interiors, gives such good vibes. Loved the Moroccan mint tea and salad. Will definitely go back."
+    ]
+   },
+   {
+    "id": "r_9dfc2216e3e3",
+    "name": "Beer Adda",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "132, 17th A Main, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Pub"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 554,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Sea Food",
+     "Burgers",
+     "Onion Rings",
+     "Non Veg Thali",
+     "Craft Beer",
+     "Roti",
+     "Pizza"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "In the mood for some beer,good food and live music, beer adda is the place to be at on Sunday evenings. I went here with my friends on lazy,casual Sunday evening to enjoy a couple of drinks. You can…",
+     "What an amazing place to go and chill with your friends. There's a pool table and a live screening for sports. The ambience is great, the staff really good, the service quick and beer really…",
+     "Am so sorry I could take a single picture of food and drink, for the only reason that I was so engrossed in the food environment and everything the place was throwing at us. We had some other place…"
+    ]
+   },
+   {
+    "id": "r_7cae46162f68",
+    "name": "A Hole Lotta Love Cafe",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "59, 1st Floor, Diagonally Opposite JNC, Industrial Layout, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Burger",
+     "Sandwich",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 2874,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Waffles",
+     "Pancakes",
+     "Chicken Lasagne",
+     "English Breakfast",
+     "Sandwiches",
+     "Pasta"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "The ambiance is very vibrant. Ensure to visit with your gang to catch up on good breakfast. We had goan pork sausage breakfast and all. english breakfast and lasange. Lasange took a lot of time and…",
+     "The best place if you are a foodie. Went there for breakfast and oh boy, whatta breakfast it was. Try out the burgers, you won't feel like having it from anywhere else. Staff is courteous, the…",
+     "The waffle here was delicious, I ordered the white pasta, which was sadly undercooked & very salty. The place has a homely feeling to it and is very calm. It's great if you love English breakfast"
+    ]
+   },
+   {
+    "id": "r_70b34a6aec61",
+    "name": "Nagarjuna",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "138, 1st Cross, KHB Colony, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Andhra",
+     "North Indian",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 2308,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Andhra Meal",
+     "Chicken Pepper Dry",
+     "Andhra Thali",
+     "Chicken Biryani",
+     "Murgh Ghee Roast",
+     "Ghee Rice",
+     "Hyderabadi Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "The food was awesome. We had ordered for biryanis which was awesome in taste and the chicken curry had a special curry taste. The first bite of the food completely took my taste buds to a whole new…",
+     "This is a 6 star place; I wish Zomato had that option, the Mutto. Biriyani and the Pepper Mutton was outstanding .. the ambience is good and meals being served on Banana leaves added to the…",
+     "I go here only to eat Chicken Biryani, Andhra Style Chilli Chicken, Chicken Ghee Roast, Chicken 65 special and ofcourse the papads and free chutney that they give. I just can't go beyond these…"
+    ]
+   },
+   {
+    "id": "r_27000313eb2c",
+    "name": "Smally's Resto Cafe",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "75/2, 17th Main, Hosur Road, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Burger",
+     "American",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1722,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Burgers",
+     "Pasta",
+     "Chocolate Mousse",
+     "Potato Wedges",
+     "Cup Cake",
+     "Cheesy Fries",
+     "Peri Peri Chicken"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Small and cozy... Just like all of their other branches, this place has become my go to place for burger-cravings. In my opinion, the best burgers here are \"The Trucker\", \"Fat Rosy's cheese sauce…",
+     "Been here with a friend today.Had ordered Chickaboo Burger and Chilli Chicken Burger which had freshly prepared flavored juicy chicken fillings unlike the regular patty which you normally get across…",
+     "The place is small and cozy with small chairs Food was descent, but not that great.it was not very crowded when I visited. The place is different from other places around here oweing to the kind of…"
+    ]
+   },
+   {
+    "id": "r_9081d15844d0",
+    "name": "Chai Galli",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "59, Ground Floor, Opposite Jyoti Niwas College, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Tea",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 481,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Tea",
+     "Chai",
+     "Margherita Pizza",
+     "Sandwiches",
+     "Corn Sandwich",
+     "Paneer Parantha",
+     "Brownie"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Went to this place with friends, ordered masala chai and ginger tea it came in a kettle. We ordered a kettle for 2 but it can be good for even 3 people. Tea was good and very nice place for small…",
+     "Really good place if you are looking for a good tea shop with nice ambience. Perfect place to sit, relax and converse with friends. We ordered a kettle of ginger tea. They served parle g along with…",
+     "They serves the best healthy and delicious breakfast. Chai is the best item they serve. This place reminded me my mom made food. Will love to visit this place again n again."
+    ]
+   },
+   {
+    "id": "r_612d5f64991c",
+    "name": "Empire Restaurant",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "103, Industrial Area, 5th Block, Near Jyothi Nivas College",
+    "zones": [
+     "BTM",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "South Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 6959,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Brain Fry",
+     "Non Veg Thali",
+     "Peri Peri Chicken",
+     "Egg Biryani",
+     "Fruit Salad",
+     "Lassi",
+     "Jumbo Shawarma"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Empire does it again. Authentic Mughlai cuisine, if you are a fan of Non veg delicacies, this is the place to be. Highlight of the place - out of the world Haleem.",
+     "The Empire Special Boxes are awesome and value for money. Would definitely order them again. Tasty as always and of very good quality as expected from Empire",
+     "Empire is almost everywhere in Bangalore. This branch is very spacious and has a nice decor. The staff is courteous and the service is prompt. We ordered : Biryani Falooda The food was decent."
+    ]
+   },
+   {
+    "id": "r_282a64b9ffc3",
+    "name": "BOX8- Desi Meals",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "57, Industrial Layout, Near J N C College, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "Koramangala 5th Block"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 405,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paratha",
+     "Dal Makhani",
+     "Biryani",
+     "Gulab Jamun",
+     "Sandwiches",
+     "Brownie Chocolate",
+     "Salads"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Amazing, amazing, amazing, nice deals, nice combos ad thalis nd perfect for North Indians. Got option for delivery even in midnight. With nice delivery timing, thank you",
+     "Great food in biryani they uses basmati rice also masala was mixed properly Only cons If you ordered from zomato live tracking was not there",
+     "Box8 provides great delivery experience and some amazing dishes to offer. Particularly love their wheat wraps and biryani. The sandwiches, meal boxes are also to die for. There has not been a time…"
+    ]
+   },
+   {
+    "id": "r_e4e8c75e126a",
+    "name": "Wok Paper Scissors",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "50/1 Opposite Jyothi Niwas College, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Asian",
+     "Malaysian",
+     "Chinese",
+     "Thai",
+     "Momos"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 550,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1594,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Noodles",
+     "Manchow Soup",
+     "Khau Suey",
+     "Chilli Chicken",
+     "Chaat",
+     "Cheesecake",
+     "Momos"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "The food is the best! Order Ramen and you'll not regret it. I have ordered Chicken Sezuwan noodle. the taste was good but they should provide soup with a noodle like other authetic chinese cuisines…",
+     "Came to wok paper scissors since all of us had cravings for noodles. The place did not disappoint at all. We ordered Cantonese Pan fried noodles, Thai chilli basil noodles and RCP chicken. The…",
+     "On the coolest place I have been. Super friendly staffs and the food is amazing. You get lot of options to get your food customised. KK who served us was super cool."
+    ]
+   },
+   {
+    "id": "r_46a589114a4f",
+    "name": "Cafe D'hide",
+    "city": "Bangalore",
+    "locality": "Koramangala 5th Block",
+    "address": "130, 1st Cross, Koramangala 5th Block, Bangalore",
+    "zones": [
+     "BTM",
+     "Jayanagar",
+     "Koramangala 4th Block",
+     "Koramangala 5th Block",
+     "Koramangala 6th Block",
+     "Koramangala 7th Block"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Continental",
+     "Italian"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 877,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Coffee",
+     "Buffalo Chicken Wings",
+     "Caesar Salad",
+     "Cheesy Fries",
+     "Mojito",
+     "Salads"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Cafe D'hide is so cozy, you'd wish you went in earlier and spent more time in there. Coming to the food, you know everything on the menu is bound to be good. We ordered the tomato soup,chicken salad…",
+     "Wasn't here for a long time. Just here to pick a quick cup of coffee. I love the ambience, a good place to read a book or work with a decent menu. The takeaway service was quick. Would come over…",
+     "We went there after reading the positive reviews on Zomato but the place is not worth it. The service is no doubt really good but the food is not that good. There are many places which serve better…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_4a4c5f1ffbd1": 0.723536,
+   "r_cf8f445563b4": 0.7,
+   "r_2f1ebbf9a448": 0.634379,
+   "r_050013c347ac": 0.58933,
+   "r_59156560f724": 0.513564,
+   "r_7089dd00bddf": 0.505045,
+   "r_d423632c2e8d": 0.497692,
+   "r_9d541b03707f": 0.485853,
+   "r_a1eeba8522c5": 0.476482,
+   "r_d6d9294ee6ad": 0.440208,
+   "r_1b293ac118f7": 0.427377,
+   "r_5bb1fd166e2d": 0.420577,
+   "r_6e22db9e8c0b": 0.418546,
+   "r_9b3717fc5c65": 0.399663,
+   "r_b5d2aaa1f7be": 0.3889,
+   "r_2279f72a6931": 0.388138,
+   "r_9dfc2216e3e3": 0.376319,
+   "r_7cae46162f68": 0.37233,
+   "r_70b34a6aec61": 0.362865,
+   "r_27000313eb2c": 0.360941,
+   "r_9081d15844d0": 0.359516,
+   "r_612d5f64991c": 0.356928,
+   "r_282a64b9ffc3": 0.352108,
+   "r_e4e8c75e126a": 0.346894,
+   "r_46a589114a4f": 0.331835
+  },
+  "relaxations": [],
+  "total_matches": 58
+ },
+ "edit": {}
+}

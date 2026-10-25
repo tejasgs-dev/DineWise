@@ -1,0 +1,1302 @@
+{
+ "id": "extras-02",
+ "result": {
+  "preferences": {
+   "location": "Marathahalli",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Marathahalli"
+   ],
+   "budget": "high",
+   "cuisines": [],
+   "min_rating": 4.0,
+   "extras": "buffet with family and kids",
+   "extras_tags": [
+    "buffet",
+    "family_friendly"
+   ],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_7b920766453b",
+    "name": "AB's - Absolute Barbecues",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "90/4, 3rd Floor, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "European",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 12121,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Raj Kachori",
+     "Paan Kulfi",
+     "Churros",
+     "Butter Chicken",
+     "Momos",
+     "Bbq Prawns",
+     "Pudding"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We came here for a team dinner. Quite big place to accommodate a good number of people together. Ambience is very noisy which I don't like personally. Service is really very fast though the…",
+     "The usual AB's culture, menu and taste which you get at all the AB's. Still it is much better compared to other such places I feel due to some special drinks and food items they get time to time. I…",
+     "Had been with my friends for birthday occasions My Rating Food 5/5 Service 5/5 Ambiance 4.5/5 Value for Money 5/5 Detailed review up shortly"
+    ]
+   },
+   {
+    "id": "r_6fea9d3bfe13",
+    "name": "The Globe Grub",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "2nd Floor, Soul Space Paradigm, Above Bata Showroom, Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Asian",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 3932,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Curry",
+     "Mutton Seekh",
+     "Brownie",
+     "Gol Gappe",
+     "Fish",
+     "Rabri",
+     "Chicken Curry"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "|| Wednesday Dinner || It was a random plan last wednesday to go out for dinner. I was craving for Buffet Food and we did not want to go far so we selected this place in Marathahalli for our dinner…",
+     "I went for team buffet lunch at this place and had an amazing dining experience here. Starter food items like Cajun Potatoes, Broccoli and Crispy Corn tasted delicious. Main Course had Veg Biryani…",
+     "I wonder how this restaurant is rated 4.8 after so many reviews. It makes me question how many of those are genuine reviews (not that I have any strong evidence of fake reviews). We had booked a…"
+    ]
+   },
+   {
+    "id": "r_a75e6cbce99d",
+    "name": "Flechazo",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "9/1, 1st Floor, Above Surya Nissan, VRR Orchid, Doddanakkundi, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Asian",
+     "Mediterranean",
+     "North Indian",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 7154,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pizza",
+     "Lauki Halwa",
+     "Keema Pav",
+     "Mutton Kebab",
+     "Crab Sushi",
+     "Appam",
+     "Mutton Chops"
+    ],
+    "tags": [
+     "buffet",
+     "desserts",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Great place for lunch buffet. Good service great food. They have main course. live pasta and pizza counter is available. So many variety desserts also available. Overall great ambiance....",
+     "Had lunch buffet with office colleagues. We found Flechazo to be a place of low taste, with substandard food, service and ambience. Though non veg buffet costs about 700, it didn't feel worth the…",
+     "The concept is like barbeque nation. They have lots of starters. Although I couldn't make it to the main course, they have live pizza counter and they have good variety of desserts along with a live…"
+    ]
+   },
+   {
+    "id": "r_8edd4185f0a7",
+    "name": "The Black Pearl",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "20/7, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 7284,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Dahipuri",
+     "Jal-jeera",
+     "Jalebi Rabri",
+     "Chicken Grill",
+     "Mutton Seekh Kabab",
+     "Mutton Curry",
+     "Chocolate Sandwich"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Best place for buffet people and they are offering bst service and people are so kind. Everything is perfect and best. Try best ice gola here",
+     "Had been here for there lunch buffet with my colleagues My Rating Food 5/5 Service 5/5 Ambiance 4.5/5 Value for Money 5/5 Detailed review up shortly",
+     "Pretty good. Had booked it for team dinner for 14 people arrangements were good food quality was good all food were hot and tasty .. buffet was good to go.. starters were perfect the main course…"
+    ]
+   },
+   {
+    "id": "r_e1e90e5cf756",
+    "name": "The Boozy Griffin",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "20/7, 4th & 5th Floor, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "European",
+     "Continental"
+    ],
+    "rest_types": [
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.8,
+    "votes": 4705,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Singapore Sling",
+     "Sea Food Platter",
+     "Cocktails",
+     "Long Island Iced Tea",
+     "Vanilla Ice Cream",
+     "Martini",
+     "Ghee Rice"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Best calamari i have had till date. It was crispy outside soft and juicy inside. Chili churi prawns was perfectly spiced and grilled. Burger was big juicy lots of veggies and served with french fries.",
+     "We came here with my family, carrying with zamato gold, here drinks was real nice and food also delicious and the music was awesome, overall great experience with my all family,",
+     "The cocktails are must try here .. the staff was polite . The guy who is serving us named showkat was good. Overall experience was good though me and my friends have been here before and it's always…"
+    ]
+   },
+   {
+    "id": "r_dcf3faae92e5",
+    "name": "Brew and Barbeque - A Microbrewery Pub",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "36/4, Fourth Floor, Soul Space Arena, Outer Ring Road, Doddanekkundi Village, Marathahalli, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "BBQ",
+     "Steak"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Pub"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.6,
+    "votes": 5913,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Craft Beer",
+     "Bbq Platter",
+     "Cocktails",
+     "Nachos",
+     "Pizza",
+     "Cosmopolitan",
+     "Wheat Beer"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We went here for a team lunch. The ambience was very okayish. The good thing was arranging buffet in a separate room as it normally gets crowded during peak time. The veg starters were good and the…",
+     "Even the food, drinks and ambiance was good, the music was too low for a Saturday night. Apart from the music, the waiter tried to fool us at the time of billing by applying the Zomato Gold on 1+1…",
+     "Went on Friday evening ..with my team..had a wonderful time .... enjoyed a lot...Good food ,,as well as their brewed beer was awesome...Good ambience,... music was decent...all of their brewed beer…"
+    ]
+   },
+   {
+    "id": "r_788db41ecc06",
+    "name": "Jalsa Gold",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "20\\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 3486,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Phirni",
+     "Butter Chicken",
+     "Cocktails",
+     "Kadhai Paneer",
+     "Chicken Curry",
+     "Cucumber Juice",
+     "Rabri"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "A special gold theme restaurant will take you back to the mughal's arena. The ambience is neat. Been there to the buffet before. It's time to try the A-La-Carte. We tried a starter and a biryani…",
+     "Nice place to have a romantic candle night dinner.. They had a valentine's day event for 14th feb.. Ambience is good with old songs playing in the background.. They had specially decorated tables…",
+     "Ordered dinner last evening. Garlic naan, Nawabi dal makhani and bhindi Kurkure were delicious. Mutton seekh kebab and murgh kandhari tikka were just okay."
+    ]
+   },
+   {
+    "id": "r_8401e2f7273c",
+    "name": "Melange - Radisson Blu",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Radisson Blu, 90/4, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Chinese",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 2700,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 785,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Sunday Brunch",
+     "Mocktails",
+     "Salads",
+     "Jumbo Prawns",
+     "Biryani",
+     "Breakfast Buffet",
+     "Appam"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This is certainly a place to be in. Loved it. The mushroom soup was lovely. (5/5) There were many starters. Among the veg starters, cheese ball and veg seekh kabab were amazing. (4/5) The non veg…",
+     "Melange completely does justification to its name of having great food spread from different parts of the world! Mocktails to start off with had the perfect balance of tastes and presentations. Veg…",
+     "Went there for lunch with office friends. Looked like that they were not prepared. We were told that if we ordered ala carte then it will take anywhere between 25 to 30 mins. We still went ahead as…"
+    ]
+   },
+   {
+    "id": "r_2e6d06cd3490",
+    "name": "3B's - Buddies, Bar & Barbecues",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Rooftop, 90/4, Above AB's, Near Park Plaza Hotel, Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mediterranean",
+     "European",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1100,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 1914,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Chicken Curry",
+     "Paan Shot",
+     "Pan Shot Ice Cream",
+     "Paan Ice Cream",
+     "Mocktails",
+     "Cocktails",
+     "Hot Gulab Jamun"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Nice place for a buffet dinner and they serve alcohol as well.price for the buffet is cheap and they have games like foosball, snooker and few more that you can enjoy with your drinks.",
+     "This is a really nice place for team Food outings. My Team has been here multiple times for Lunch. They have great options for Food even for vegetarians and Nice ambience. The staff and service is…",
+     "I liked the interiors of this place. Both the food as well as the drinks at this place really impressed me. In addition the service was good. So I would say that this place a must visit."
+    ]
+   },
+   {
+    "id": "r_d810c042eb40",
+    "name": "Barbeque Nation",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Soul Space Arena, 3rd Floor, Doddanekundi Main Road, Chinappa Layout, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 1074,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Waffles",
+     "Paan Kulfi",
+     "Rasgulla",
+     "Gulab Jamun",
+     "Beer",
+     "Panipuri"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Very similar to all the other BBQ nation in terms of taste and menu. They have 3 other similar category place within 500 metres of this outlet which are not really great but still better than this…",
+     "The staff was very friendly and liked their service. But the deserts were not up to he mark. Not much varieties and I felt it was not worth it paying 1k. No complement drink.",
+     "Barbeque Nation is ubiquitous now. I think their hospitality is one of the selling point as they keep food innovation going. Recommend to visit this place with gang to enjoy the great buffet and get…"
+    ]
+   },
+   {
+    "id": "r_f4557913db45",
+    "name": "Foxtrot",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "89/1, Monnekollal Village, Varthur Hobli, Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Brookefield",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Continental",
+     "Momos"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 1192,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Mocktails",
+     "Mai Thai",
+     "Murgh Platter",
+     "Pizza",
+     "Soya Chaap",
+     "Keema Samosa"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Have been to this place twice. First time with team opted for buffet, buffet isn't great I would say. They have very limited items in buffet. Second time with friends to try there ala carte. Tried…",
+     "Pretty good place with good music and ambience. Foods just average and nothing mind blowing about it. Service is good too. The place is not large enough to hold the crowd on weekends .. but over all…",
+     "A nice place at the heart of Marathahalli. This is my 3rd visit to the place. I went as usual with my foodie partner Navonil Rahut . Food : 4.5/5 Ambiance : 4/5 (may I request the restaurant…"
+    ]
+   },
+   {
+    "id": "r_dba207060d7c",
+    "name": "The Square - Novotel",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Novotel Bengaluru, Opposite RMZ Ecospace Business Park, Marathahalli - Sarjapur Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Japanese",
+     "Italian"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 766,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Breakfast Buffet",
+     "Cocktails",
+     "Noodles",
+     "Sunday Brunch",
+     "Mocktails",
+     "Veg Sushi",
+     "Pizza"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Been here on weekday for a buffet! With good spread. Loved their fish fry and curry, biriyani was amazing. Pizzas and pasta was good..chicken tikka and tangy broccoli was great . Dessert was…",
+     "Christmas always used to be a home-affair for me from childhood and this time thought of doing something special and went for a fabulicious Christmas Day Brunch at Novotel Bengaluru ORR. I enjoyed…",
+     "I was here for the christmas eve brunch 2018 and we enjoyed everything. The turkey and pork was the winner for me, we also enjoyed the special dessert bar and mulled wine overall good spread…"
+    ]
+   },
+   {
+    "id": "r_5c92a9f229cb",
+    "name": "ANTIGRAVITY",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "35, 4th Floor, Kadubeesanahalli, Marathalli Outer Ring Road, Opposite Oracle & JP Morgan, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Chinese",
+     "BBQ"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 747,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Peri Peri Chicken",
+     "Beer",
+     "Pasta",
+     "Nachos",
+     "Pizza",
+     "Potato Mash"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Loud music, and uncomfortable seating. The food was okay but the service speed is very slow. The ambiance is good for getting drunk maybe but otherwise it's just too dark and noisy",
+     "Well a short story! We went for team lunch, place was half empty and we decided to sit outside. After few mins waiting for someone from restaurant to come and ask, we decided to call service staff…",
+     "Been over there few days ago .. Good times spent with my buddies .. Good food and service was also upto the mark .. nothing special to describe out here .. Price is bit higher side ..Overll a good…"
+    ]
+   },
+   {
+    "id": "r_031db19fb9d7",
+    "name": "Float",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "20\\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Japanese"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 3133,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Butter Fish",
+     "Chicken Burritos",
+     "Cocktails",
+     "Mocktails",
+     "Rabri",
+     "Exotic Veg Pizza",
+     "Potato Wedges"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Really very ambience, nice music but no dance floor , staff is very friendly and courteous or helpful specially Mr Berman, he is manager,, its really awsome and yammy food,, thank u we visit very…",
+     "This restaurant suits for any occasion and any group. They have lot of food options and hookah too. This is open top and have swing table also. I asked for egg chilli which is not there in the menu…",
+     "It's a rooftop lounge + pub. Decent ambience and friendly staffs. I didnt like the food much. We ordered American corn salt n pepper, Veg pizza, and masala nachos. The nachos was very plain just…"
+    ]
+   },
+   {
+    "id": "r_59f120bc324c",
+    "name": "Sidewalk - The Garden Bar",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Ground Floor, Soul Space Paradigm, Next to Innovative Multiplex, Bata Showroom, Marathahalli, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Chinese",
+     "Thai"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 3004,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Veg Burger",
+     "Pesto Pasta",
+     "Cocktails",
+     "Pizza",
+     "Craft Beer",
+     "Chicken Steak",
+     "Prawn"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Must say that its a good new place in Marathahalli, specially for those who wanna enjoy on Punjabi tunes. Food was average and so were the cocktails. But the ambience is really nice. Have hookahs…",
+     "The place has a good DJ to dance and enjoy. Ambience is average, not very good. Food taste is good but can be better. Price is reasonable given the quantity of dishes. Staff is decent enough. It has…",
+     "I ordered white sauce penne pasta and pink sauce penne pasta. Both the orders came before time. Talking about white sauce pasta it was in a very good amount and tasty too. But the variety of…"
+    ]
+   },
+   {
+    "id": "r_43889d7a7aec",
+    "name": "Saffron - Radisson Blu",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Radisson Blu, 90/4, Outer Ring Road, Munnekollalu Village, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Lucknowi"
+    ],
+    "rest_types": [
+     "Fine Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 2500,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 457,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Gulab Jamun",
+     "Roti",
+     "Dahi Ke Kabab",
+     "Mocktails",
+     "Dumplings",
+     "Biryani",
+     "Paneer Tikka"
+    ],
+    "tags": [
+     "bar",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Bishnu - What a good service. I really liked the way you treated us. All the complimentary were really amazing. Liked the food. Thanks. Overall : 5/5",
+     "Food here is delicious, We loved akhrot and spinach kebab, also kofta was yummy. Our server Harshmeet was quite polite and served us really well. The customer service is also really good, will love…",
+     "Went for dinner with my spouse and daughter on Valentine's day. A-la-carte was not available. There was a package for 2 comprising of a glass of sparkling wine/mocktail, a bowl of soup, around 3 veg…"
+    ]
+   },
+   {
+    "id": "r_6f9e0345e5ca",
+    "name": "Jalsa",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "25/7, Doddannakundi, Outer Ring Road, Mahadevapura, Marathahalli, Bangalore",
+    "zones": [
+     "Brookefield",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 2189,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Curry",
+     "Stuffed Mushroom",
+     "Laccha Paratha",
+     "Prawn",
+     "Multani Paneer Tikka",
+     "Butter Chicken",
+     "Murgh Patiala"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Friendly staff, average ambience. Food: 1. Murgh Kulfi kebab stuffed with dry fruits missed raisins and bit over cooked. But its a must try. 2. Bhuna ghosht is typical mutton curry bit on spicy…",
+     "For team lunch this was the choice we made to try and unfortunately they disappointed most of us. Initially they served us cold food and looked they were in rush to feed us and kick out, lol but…",
+     "This place is close to Bagmane WTC & Constellation, quick getaway for team lunch/dinner. The ambience is striking, set up in Mughal style tapestry and waiters dressed up accordingly. Food quality is…"
+    ]
+   },
+   {
+    "id": "r_50063aa02ac7",
+    "name": "Matinee Bar & Kitchen",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "19/4 & 27, Ground Floor, Indiqube Alpha, Panathur Junction, Kadubisanahalli, Sarjapur Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "BBQ",
+     "Continental",
+     "North Indian",
+     "Pizza",
+     "European"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 345,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Khao Suey",
+     "Pizza",
+     "Virgin Mojito",
+     "Cocktails",
+     "Sushi",
+     "Fish",
+     "Ramen"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I was skeptical about this place as another restaurant which was at the same place before this one was not that good. We went with the team and I must say the quality of food was amazing. Lip…",
+     "So, this is WONDERFUL PLACE TO BE.. Having said that, I Loved the place.. Too Good.. I tried Blood Mary and it was V nice.. Sharing picture of a Starter Paneer dish which was YUMMY.. Staff was v…",
+     "We were looking for a place nearby our office for a casual outing withe colleuges. I would say was really more than satisfied with ambience and food. Food was awesome taste wise.. we ordered few…"
+    ]
+   },
+   {
+    "id": "r_715612cf4132",
+    "name": "Dhaba Estd 1986 Delhi",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "1st Floor, NTR Royal Plaza, Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Brookefield",
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "BBQ",
+     "Mughlai",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Bar"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1100,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 1287,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Mutton Curry",
+     "Dal Makhani",
+     "Lassi",
+     "Chicken Butter Masala",
+     "Pav Bhaji",
+     "Chicken Curry",
+     "Paneer Tikka"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "For a perfect authentic Punjabi food this is the place. It doesn't disappoint us. Though priced a bit high, it is worth. Their rotis are very good and paneer based curries too tastes great. I like…",
+     "I understand the place has 4.4 rating but may be thats because of the ambience or staff courtesy or their buffet. We ordered ala Carte and it was not worth something above 3 or 3.5. We ordered veg…",
+     "Dhaba Estd is a place for North Indian food. The taste of food is definitely good and so is the ambience of this place. I visited with my family and had a good time over dinner. Dal makhni was very…"
+    ]
+   },
+   {
+    "id": "r_dea05803f2ab",
+    "name": "Blue Terrain - Novotel",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Novotel Bengaluru, Opposite RMZ Ecospace Business Park, Marathahalli - Sarjapur Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Marathahalli",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Spanish",
+     "Italian",
+     "Mediterranean"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 2000,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 515,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mocktails",
+     "Cocktails",
+     "Burgers",
+     "Pizza",
+     "Tandoori Salmon",
+     "Brownie",
+     "Tiramisu"
+    ],
+    "tags": [
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Ambience 5/5. Service 5/5. Food 3/5 Food Worth for money 2/5 Had a good experience of the ambience but the food is not great compare to the price they charge.",
+     "This place is perfect for romantic date purpose. I went this place just before my marriage and me and my fiance had a great time here.staffs are very polite and friendly. If you want to give any…",
+     "Food was excellent. Damodar and other team members were excellent in their service. However, the menu could have had more food options such as pasta, additional continental starters, etc. Unless you…"
+    ]
+   },
+   {
+    "id": "r_fb118c5b8761",
+    "name": "Dive",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "25/7, Doddannakundi, Outer Ring Road, Mahadevapura, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "Finger Food"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 760,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Mocktails",
+     "Cocktails",
+     "Rabri",
+     "Salads",
+     "Malpua",
+     "Biryani",
+     "Salad"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The place is nicely located on outer ring road. Parking: ample and inside Food: more of continental and good taste Hookah: nice flavours, price is okay Drinks: menu has normal options and good for a…",
+     "Nice ambience. Ordered Batter Fish,Chili Crab and pasta. Crab is very good. Staffs are friendly. Serving time is less. Worth to revisit. Food variety should be increased specially for fish items.",
+     "Good place with good ambience. Food is okay. But quantity of food is less. Vegetarian food is not very good. Service is also a bit slow. But overall an okay place."
+    ]
+   },
+   {
+    "id": "r_10757ff596e3",
+    "name": "BiereKraft",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "62/02, Fourth Floor, Doddanekkundi, Opposite EMC Corporation, Outer Ring Road, Mahadevpura, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Asian"
+    ],
+    "rest_types": [
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 746,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Mocktails",
+     "Long Island Iced Tea",
+     "Beer",
+     "Tom Yum Soup",
+     "Fish",
+     "Sangria"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The place has a good ambience but I am a bit disappointed with food and the service. We went there on a weekday when the crowd is not too much. They only serve pint beer. The corn that we ordered…",
+     "Amazing place to hangout with friends. It's on the main road opposite to bagmane teck park, Marathahalli. It's quite spacious and is open rooftop. Very nice service. They are fast and generous…",
+     "Was here yesterday (Friday) night for some drinks and snacking. Overall, it was an average experience, food/drinks wise and service wise. Ambience: The view from there was really nice, it was…"
+    ]
+   },
+   {
+    "id": "r_150a5aa2c885",
+    "name": "Brunchilly",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "4th Floor, 39/5, RBD Sarovar Portico, Doddanekundi, Outer Ring Road, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1300,
+    "budget_band": "high",
+    "rating": 4.0,
+    "votes": 213,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Biryani",
+     "Pasta",
+     "Egg Salad",
+     "Nasi Goreng",
+     "Fish",
+     "Butter Chicken",
+     "Paneer Lababdar"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "On a Friday we decided to hit this place for lunch, staff helped us in finding seats. This place was not at all crowded on our visit. Its quite hard to find this place if you are Following Google…",
+     "I came here for a quiet lunch with my colleagues on a Friday afternoon. The place was not at all crowded when we entered. Upon quickly shown our seats, we ordered Fish fingers, Potato wedges and…",
+     "A great place to start your day with. I went here for breakfast this morning and thoroughly enjoyed the spread. It has a very pleasing ambience. The staff is very courteous and make the dining…"
+    ]
+   },
+   {
+    "id": "r_e60ad5cf9dd5",
+    "name": "Bold",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "3rd Floor, Kings Cross Building, Beside Innovative Multiplex, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Modern Indian",
+     "Continental",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.0,
+    "votes": 872,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Chicken Wings",
+     "Mocktails",
+     "Paneer Tikka",
+     "Beer",
+     "Burgers",
+     "Nachos"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "place to be for corporate parties i must say.. enough space to accomodate even a team of 40 together.. they have a big dance floor.. food is ok.. staff is courteous.. ambience is ok.. not as great..",
+     "It's nice place to visit with friends for parties n chilling etc food is nice. We ordered pizza n it's taste so yummy Ambience is like cool n attractive coz of colourful lights",
+     "Its a nice place in Marathalli area. We just ordered some appetizers that were okay. The drinks however we're really good but they didn't have a few things on the menu which was a little annoying…"
+    ]
+   },
+   {
+    "id": "r_b2dfcd77b33a",
+    "name": "Malties - Radisson Blu",
+    "city": "Bangalore",
+    "locality": "Marathahalli",
+    "address": "Radisson Blu, 90/4, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore",
+    "zones": [
+     "Marathahalli"
+    ],
+    "cuisines": [
+     "Continental",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Lounge"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife"
+    ],
+    "cost_for_two": 4500,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 53,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Cocktails",
+     "Jumbo Prawns",
+     "Charcuterie Platter",
+     "Chicken Burger",
+     "Chicken Tikka",
+     "Shawarma"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "We had visited this place on last Sunday. We were running out of options in the late night and ended up coming here. The Feel of this place is very dull, people who love whisky can come here, and…",
+     "Malties, one of the brands part of Radisson blu's culinary space, is a resto-bar that serves its patrons a vivid range of liquor accompanied with lip smacking bar bites from the global cuisine. They…",
+     "In recent times, most of the restaurants have their own bar and a few has their own brewery too. Its seldom to find a place exclusively for drinks. All whisky lovers in the city, here is something…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_7b920766453b": 0.85,
+   "r_6fea9d3bfe13": 0.798021,
+   "r_a75e6cbce99d": 0.769404,
+   "r_8edd4185f0a7": 0.751486,
+   "r_e1e90e5cf756": 0.656307,
+   "r_dcf3faae92e5": 0.629358,
+   "r_788db41ecc06": 0.623713,
+   "r_8401e2f7273c": 0.554914,
+   "r_2e6d06cd3490": 0.521037,
+   "r_d810c042eb40": 0.456874,
+   "r_f4557913db45": 0.442933,
+   "r_dba207060d7c": 0.441284,
+   "r_5c92a9f229cb": 0.421376,
+   "r_031db19fb9d7": 0.412534,
+   "r_59f120bc324c": 0.410593,
+   "r_43889d7a7aec": 0.379974,
+   "r_6f9e0345e5ca": 0.358483,
+   "r_50063aa02ac7": 0.348274,
+   "r_715612cf4132": 0.315221,
+   "r_dea05803f2ab": 0.29173,
+   "r_fb118c5b8761": 0.290922,
+   "r_10757ff596e3": 0.233814,
+   "r_150a5aa2c885": 0.213587,
+   "r_e60ad5cf9dd5": 0.203512,
+   "r_b2dfcd77b33a": 0.16875
+  },
+  "relaxations": [],
+  "total_matches": 27
+ },
+ "edit": {}
+}

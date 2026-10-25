@@ -1,0 +1,1278 @@
+{
+ "id": "sparse-01",
+ "result": {
+  "preferences": {
+   "location": "Hebbal",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Hebbal"
+   ],
+   "budget": "high",
+   "cuisines": [
+    "Japanese"
+   ],
+   "min_rating": 4.5,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_31ceea0e0692",
+    "name": "Truffles",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "84, 80 Feet Road, RMV 2nd Stage, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Burger",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.7,
+    "votes": 3916,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Pasta Arrabiata",
+     "Ferrero Rocher Milkshake",
+     "Veg Pattice",
+     "Pesto Pasta",
+     "Rolls",
+     "Salads"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "I've never been to the cafe, bit have ordered hone delivery often. Their food is delicious. They pack the food well, particularly beverages. My favourite items are their paneer steak and cold coffee…",
+     "Just amazing !! This place in bel is really nice for burgers and deserts ..we ordered almost everything from every type. And found epicness in every bite. Usually you'll have to wait a long here…",
+     "The burger was amazing with a complete amount to fill your stomach and the shake was what it was supposed to be like. The ambience was also amazing with the correct attitude of the partners working…"
+    ]
+   },
+   {
+    "id": "r_1738b7093821",
+    "name": "Hammered",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "3, 80 Feet Road, Opposite MK Tower, RMV 2nd Stage, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Cafe"
+    ],
+    "rest_types": [
+     "Pub",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 2935,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Mocktails",
+     "Cocktails",
+     "Beer",
+     "Pasta",
+     "Tacos",
+     "Pizza",
+     "Chicken Tikka Masala"
+    ],
+    "tags": [
+     "bar",
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Great service,Jayant is a great server,helps us a lot. A sweet person and very alert. Helping everyone,approachable and polite to everyone in general. Great service",
+     "Been here with friends on an afternoon. Though the ambiance was good didn't feel the vibe. Starters were okay. Chicken was not fresh and was dry and so was the paneer. We were out of this place as…",
+     "Visited the place on friday night. - Ambience was nice , music got better with time. - In food we ordered chicken sukha golgappa , butter garlic prawns and mila jula kabab . Prawns and chicken…"
+    ]
+   },
+   {
+    "id": "r_490438aac612",
+    "name": "Gilly's Restobar",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "4th & 5th Floor, Sree Premprasad Complex, Opposite Ramaiah Hospital, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Finger Food",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.5,
+    "votes": 2732,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Biryani",
+     "Beer",
+     "Murgh Platter",
+     "Cocktails",
+     "Pizza",
+     "Burgers",
+     "Drunken Chicken"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Place is airy and spacious with good service. When it comes to food it has a few plus and minus both. Some items turn out good but sometimes not so. I guess there r different chefs. But the ambience…",
+     "Another pub on new bel road with 2 floors of seating area. I like the 2nd floor roof top seating. The fish here is really tasty. The staff are generous and helpful. The music can get too loud…",
+     "Been there on an afternoon with friends. Ambience was and the staff were polite. The service was good too. Good food. Enjoyed it. The corn starter was yummy as well as the pizza. Will visit once…"
+    ]
+   },
+   {
+    "id": "r_1bc8a5e38eac",
+    "name": "Onesta",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "215, 216 & 220, Devasandra Village, Kasaba Hobli, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 4897,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Oreo Delight",
+     "Apple Pie",
+     "Barbeque Chicken",
+     "Bbq Chicken",
+     "Stuffed Pizza",
+     "Ravioli",
+     "Mojito"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This has to be the best pizza in Bangalore. As someone who has tasted pizza from Italian and French nations, I can solemnly say that Indian pizzas don't even come close to the actual thing. But here…",
+     "This place is over crowded and overrated as well. I really don't like their pizzas it just doesn't taste that well but the desserts are good .",
+     "Pizza is really nice. Ambiance is really good. BBQ chicken is really good. Service is really first .spacaly ( Rahul, Pankaj, pintu) dessert is nice. I love this place. Come back again."
+    ]
+   },
+   {
+    "id": "r_6cbd456c5368",
+    "name": "The Druid Garden",
+    "city": "Bangalore",
+    "locality": "Sahakara Nagar",
+    "address": "40/1, Third Floor, Century Corbel Commercial, Sahakara Nagar, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Asian",
+     "Continental",
+     "European",
+     "North Indian",
+     "Mediterranean"
+    ],
+    "rest_types": [
+     "Microbrewery",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 1700,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 3077,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Beer",
+     "Crab Ravioli",
+     "Cocktails",
+     "Donne Biryani",
+     "Chicken Tacos",
+     "Tiramisu",
+     "Seafood Ravioli"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I just had my best experience over here. Beautiful inside out restaurant with wonderful interiors and some great food. I went there two times and my first experience itself was so nice that I went…",
+     "This is such a lovely place! I loved the food, the ambience, the cocktails. The DJ played good music and the staff is very courteous. Keep up Druid Garden. Will visit soon",
+     "Visited this place on our way from Nandi Hills. Great ambience with rooftop. Tried Mushroom and Spicy Chicken Pizza. Pasta options were limited, they had only spaghetti adding to that. Service was…"
+    ]
+   },
+   {
+    "id": "r_391e80522b91",
+    "name": "1522 - The Pub",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "23, 3rd Floor, Devaraja Arcade, Beside ICICI Bank, ITI Layout, MSR Nagar, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Continental",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Pub"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 969,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Biryani",
+     "Cocktails",
+     "Mocktails",
+     "Chilli Chicken",
+     "Wheat Beer",
+     "Chicken Wings",
+     "Devils Chicken"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "I love this place. one of the only few pubs which offer lipsmacking food. I am so used to the happening places in Bangalore which serve excellent drinks but not so good food. The mutton nalli here…",
+     "We chose this place to have a quick snack and wasn't expecting much. It's a two floored place and the ambience is nice. We were very hungry so straight away ordered PANEER TIKKA was good CHILLI…",
+     "Located on the busy Bel road, 1522 doesn't fail to impress the visitors with its green ambience. Amazing view of the new Bel road from the 4th floor. Their mocktails is all what I've ever tried. All…"
+    ]
+   },
+   {
+    "id": "r_11fa5774c9a5",
+    "name": "Smally's Resto Cafe",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "1st Floor, Sree Premprasad Complex, Opposite Ramaiah Hospital, RMV 2nd Stage, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Burger",
+     "American",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1443,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Cheddar Cheese Balls",
+     "Peri Peri Chicken Steak",
+     "Pasta",
+     "Pizza",
+     "Fries",
+     "Peri Peri Chicken Burger"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "It's a nice small place.Ambience is good Perri Perri chicken burger and crispy chicken burger was delicious.They have nice music.Service is good, staff is polite.peached ice tea was okayish.on the…",
+     "My favorite for burgers in Bangalore. Must try their chickaboo burger and white sauce pasta. It was top notch. The Peri peri burger is a little too spicy to handle. The service is friendly and the…",
+     "My order - 1. Peri Peri Chicken Burger - Patty was well cooked. A sloppy burger, served with fries. Very filling and a must-try. 2. The Signature grilled vegetable Pizza - I had been to other…"
+    ]
+   },
+   {
+    "id": "r_53d6c83bda58",
+    "name": "Nandhana Palace",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "21, ITI Layout, Next to Titan Show Room, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Andhra",
+     "Biryani",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1282,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Nalli",
+     "Andhra Meal",
+     "Bamboo Chicken",
+     "Chicken Boneless Biryani",
+     "Vada",
+     "Chicken Kebab",
+     "Mutton Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Brilliant food. Good offers on the restaurant. Nandish and Manju were polite and very helpful in choosing the dishes for a large group of 16. Must visit.",
+     "Delicious food and wonderful hospitality, especially staff named Manju who helped us from selecting the menu to serving us . Would definitely recommend this place for all the Andra cuisine lovers .",
+     "This is place is very good and have valvet parking also.. Nandhini is famous for Andhra style dishes.. my favourite is meals and chicken kshtriya.. most of the time restaurant will be filled with…"
+    ]
+   },
+   {
+    "id": "r_b02f40ac20b4",
+    "name": "Lincoln Bistro",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "68,1st Main Road, Bala Anjaneya Temple Road, RMV 2nd Stage, Opposite M.S.Ramaiah Hospital, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Asian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 252,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Dumplings",
+     "Biryani",
+     "Pasta",
+     "Pizza",
+     "Taco Trio",
+     "Cheesecake",
+     "Chicken Wings"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Good food Good service Tidy place Quality and price is worth it Good decor People should come here often since BEL road lacks good restaurants",
+     "Saturday dinner took us to this quaint bistro on a tiny alley off New Bel road. An endearing and friendly lady (manager I guess) welcomed us. We straight got to ordering our meal - veg manchow soup…",
+     "Neat and tidy. Portions are good and preparation time is quick. Taste too was really nice. Parking can be an issue on the busy road. Didn't get a chance to try desserts."
+    ]
+   },
+   {
+    "id": "r_813406af8c16",
+    "name": "Chapter One Bar | Maiin",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "27, Third Floor, Aljosan, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Italian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 997,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Chilli Potatoes",
+     "Pasta",
+     "Pizza",
+     "Murgh Ghee Roast",
+     "Beer",
+     "Cocktails",
+     "Roast Chicken"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Chapter one bar main has amazing food.The food is mouth watering and appealing. When I had been there,I had ordered a calamari but that wasn't fresh and had a really bad tatse.However when bought to…",
+     "I have been here a lot of times. The sheesha and the food are good. The 4th floor is an open area for food and drinks. If you want to order sheesha you will have to go above where you have a…",
+     "New BEL is known for its wide variety of restaurants and this place is on of its kind They serve great starters A la carte and substantial main choice of main course Lille laggy service at peak…"
+    ]
+   },
+   {
+    "id": "r_83886550e0b5",
+    "name": "BOX8- Desi Meals",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "38, Sandeep Building, Mathikere Main Road, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.4,
+    "votes": 44,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Biryani",
+     "Chole",
+     "Paratha",
+     "Dal Makhani",
+     "Paneer Makhani",
+     "Butter Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Had ordered for Gajar ka halwa and moong dal ka halwa to satisfy our sugar/desert cravings. The delivery was on time and the person who delivered was courteous too. But the taste was just average…",
+     "Box 8 is one my preferred option for whenever I get cravings for desi food. Just a call away, and fresh hot delicious food get delivered at your home. I specifically enjoy their meal boxes and…",
+     "Recently ordered form this place and as always the delivery was on time and the food was really delicious... This time I tried something different. I tried Non veg biryani, which was really amazing…"
+    ]
+   },
+   {
+    "id": "r_14c9e5b857ec",
+    "name": "Smoke - The Sizzler House",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "71, 80 Feet Road, RMV 2nd Stage, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 680,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Steak",
+     "Pizza",
+     "Burgers",
+     "Pasta",
+     "Fish",
+     "Wedges",
+     "Onion Rings"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Cute Lil place. Ambience is really nice. But the food is a big let down. Dint like anything that I ordered here. Ordered pizza, sizzler and steak. Taste was so and so. Might try one time and give…",
+     "Visited this place over the weekend and I loved the vibe here. The food was delicious and one could make out that the ingredients used were fresh too! We ordered for 'Stuffed Onion Rings with…",
+     "It's just a fabulous place for a hearty Sunday brunch. Their ambiance in the balcony portion of their service floor is quite calming with a water stream of sorts and fishes and sea shells to just…"
+    ]
+   },
+   {
+    "id": "r_a1dc56761961",
+    "name": "Cafe Nosh",
+    "city": "Bangalore",
+    "locality": "Sahakara Nagar",
+    "address": "4, Opposite Vivekananda School, Canara Bank Layout, Sahakara Nagar, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental",
+     "Steak"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 583,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta Arrabiata",
+     "Pizza",
+     "Salsa",
+     "Burgers",
+     "Crispy Chicken Salad",
+     "Chicken Jumbo Burger",
+     "Nachos"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "We decided to order some garlic breads from here. The service was prompt and the food was pretty good too. Won't mind giving it another try. May be a tad expensive but a good break from the more…",
+     "Rating 4.5/5 now. May give a full 5 in future. I used to hear that this place was overpriced, but after ordering (even with discounts), I am really pleased with this outlet. Have tried drumsticks…",
+     "Chosen by hubby, we visited here for a quiet dinner. Maps will take you to this place with ease. I don't think you need any reservations here. However, the tables are placed quiet close and hence, a…"
+    ]
+   },
+   {
+    "id": "r_40403bd745df",
+    "name": "Auntie Fung's",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "Ground Floor, 78/ A, Devasandara, Opposite Ramaiah Hospital, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Asian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 578,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Khau Suey",
+     "Burmese Khao Suey",
+     "Hakka Noodles",
+     "Chicken Satay",
+     "Vietnamese Pho",
+     "Momos",
+     "Yaki Tori"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Ambience : 5 Food : 4 (for the food I ordered) Service : 5 Ordered Indonesian Nasi Goreng, Thailand Mojito and Butter Chilli Garlic Noodles. Butter Chilli Garlic Noodles will be the lightest noodles…",
+     "Review is for delivery. Spicy hoisin chicken bao : very rich in taste, flavourful, fresh tender chicken with ample amount of sauce.the bao was breaking apart and had an unpleasant taste, which could…",
+     "My last dinner outdoors before delivery and I picked this place. The place is easily located on the main road. The restaurant is so tiny that very few can be accommodated. The seating is alright…"
+    ]
+   },
+   {
+    "id": "r_78b12ab4f7f6",
+    "name": "My Place - Gokulam Grand Hotel & Spa",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "Gokulam Grand Hotel & Spa, 115, Gokula Extension, HMT Road (Near BEL circle), New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Continental",
+     "Asian",
+     "South Indian",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Lounge"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1800,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 426,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Paratha",
+     "Butter Chicken",
+     "Burgers",
+     "Sunday Brunch",
+     "Cocktails",
+     "Akki Rottis",
+     "Pasta"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I will never say No if someone talks about food or anything related to it. Well, when I got an invite from Movenpick Hotels & Spa for a dessert master class I was overwhelmed. On 19th April 2015 I…",
+     "Amazing spread of buffet for both breakfast and dinner. The food tastes great. They have south indian, north indian and international cuisines lined up. The staff is courteous.",
+     "This was clearly my favourite place for brunch when it was run by Mvenpick Hotels & Resorts. Since I was travelling a lot, I noticed that I have missed out on the fact that it's no longer Mvenpick…"
+    ]
+   },
+   {
+    "id": "r_3db504ddc877",
+    "name": "Kaifu",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "1, Sree Premprasad Complex, Opposite Ramaiah Hospital Gate, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Asian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 421,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Momos",
+     "Dumplings",
+     "Prawn",
+     "Chicken Soup",
+     "Dragon Rolls",
+     "Kung Pao Chicken",
+     "Manchow Soup"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "They have nearly nice food. Staff is not so friendly. Really a small place to sit and relax. Very less options to choose from. Not highly recommended. But can try for a change. Quality 4/5…",
+     "This is a cute and small pocket friendly restaurant.They serve amazing Chinese and Asian cuisine. The *crispy lotus stem* in dragon sauce was my favourite! It's thought itself makes me salivate.It…",
+     "Visited here for a quick visit. Ordered a Korean cottage cheese for appetizer and lemonade for drinks Both were really good, ambiance is cozy. Seating is limited , staff are super friendly Overall…"
+    ]
+   },
+   {
+    "id": "r_7c62607897a5",
+    "name": "Vinny's",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "22, 1st Floor MSR Nagar, ITI layout, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Italian",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 1107,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza",
+     "Pasta",
+     "Mocktails",
+     "Nachos",
+     "Mushroom Soup",
+     "Garlic Bread",
+     "Mojito"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Food-4.5(for the pizzas) Service-2.5 Ambience-4.0 I'm a regular at the vinnys in banashankari.Wanted to try the vinnys in bel road as it had more variety in the menu to offer.Pizzas were great as…",
+     "Customised our own 12\" pizza with sun-dried tomatoes (literally the best thing in this planet), jalapenos and baked potatoes. I love their wood fired pizzas. Would happily give this place a 5 star…",
+     "Detailed review coming up. i have ordered garlic bread cheese and garlic bread with cheese and veggies from this vinnys many times. THESE PEOPLE DONT CARE ABOUT THEIR CUSTOMERS AT ALL. THE ITEM WAS…"
+    ]
+   },
+   {
+    "id": "r_98c52598bb84",
+    "name": "Chandrappa Hotel",
+    "city": "Bangalore",
+    "locality": "Yeshwantpur",
+    "address": "40/4, 15th Main, MSR Industrial Estate Road, Mathikere, Yeshwantpur, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 253,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pork Pepper Fry",
+     "Mutton Chops",
+     "Mutton Biryani",
+     "Chicken Fry",
+     "Garlic Chicken",
+     "Akki Rottis",
+     "Pepper Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Jus amazing!!!! Best Chilly chicken I had here after Nagarjuna Chimneys!! Brilliant taste one must try Chilly chicken with Biryani rice and Coke for the drink!! Very clean service and friendly…",
+     "A little pricey but this restaurant has been established from a very long time. Typical homemade style dishes and tastes the same as well. My favourites has been their mutton brain fry and chicken…",
+     "A little cramped and possibly very crowded (but quite clean otherwise), the food is excellent given the price. The pork is especially great, but the mutton is well made and severely underrated. My…"
+    ]
+   },
+   {
+    "id": "r_6de9703c45de",
+    "name": "Ember The Calabash",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "22, 3nd Floor, MSR Nagar, ITI Layout, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Italian",
+     "Continental",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 670,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Spicy Crispy Corn",
+     "Mocktails",
+     "Chicken Wings",
+     "Pasta",
+     "Virgin Mojito",
+     "Pizza",
+     "Blueberry Mojito"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "The place is okay for group of people. Food was delicious. Hookah wasn't that good we needed to call a few times to get a proper hookah. Service is not that good. Overall experience could be better…",
+     "Cottage Cheese Shashlik sizzler.. It had Paneer, colour bell pepper and onion with Italian herbs grilled.. The rice with Rosemary sauce was great.. This place is also known for hookah..",
+     "I don't know hookah is relatively better/worse than other forms of smoking. But this place is a hookah bar. They have secret tobacco smoking area at the top. Finger foods are quite good. I haven't…"
+    ]
+   },
+   {
+    "id": "r_bdc439a76052",
+    "name": "Grubbery",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "199, KGE Layout, Mathikere, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "American",
+     "Asian",
+     "European",
+     "Steak",
+     "Salad",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 638,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Chicken Skewer",
+     "Waffles",
+     "Pancakes",
+     "Pesto Pasta",
+     "Coffee",
+     "Sandwiches"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "I went along with my 13 mates at this place..ordered almost every variety of Pizzas pastas shakes and burgers. so avg ratings goes as Ambience 4/5 Hygiene 5/5 Burgers 4/5 Chhedar fries & wedges 5/5…",
+     "So I was here with my gf. The place is on first floor. We had gone at morning around 11:30am. The ambience was good, they had wooden seats and table. The wallpaper of the bear was good. We had…",
+     "Visited on a Sunday afternoon for a quick brunch . Place was available and I liked the feel of the place .its open and breezy with a cafe feel . Ordered Veg steak patty in barbecue sauce 4/5 Paneer…"
+    ]
+   },
+   {
+    "id": "r_cbf0ed1c39dd",
+    "name": "Plated",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "70, 80 Feet Road, RMV 2nd stage, New BEL Road, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Continental"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 555,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Waffles",
+     "Pancakes",
+     "Salsa",
+     "Nachos",
+     "Creme Brulee",
+     "Chips"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Plated is a breath of fresh air in the otherwise boring eateries in the BEL Road neighborhood. The place has a superb variety in terms of food and is quite reasonably priced as well. I would…",
+     "This is another cafe situated on the 80feet road of bel road. Been here a couple of times. Their menu is really interesting. The food tastes really good and the staff is very friendly. I like the…",
+     "They have some really interesting dishes apart from the normal continental stuff. Chicken sukka tartlets, jhalmuri chicken, haleem, starter combo, kasundi fish, chicken dak bungalow, Norwegian…"
+    ]
+   },
+   {
+    "id": "r_2daac9a852f9",
+    "name": "Pavilion Restaurant",
+    "city": "Bangalore",
+    "locality": "Yeshwantpur",
+    "address": "Comfort INN Insys, 46,1st Main Road, Gokula 1st Stage, Mathikere, Yeshwantpur, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Continental"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 100,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Salads",
+     "Chicken Soup",
+     "Fish",
+     "Curd Rice",
+     "Dal Tadka",
+     "Brownie Chocolate",
+     "Tomato Soup"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This place is worth going . the only thing I am disappointed about is service but the food was very nice. I ordered Laal maans it was damn tasty. Even the prawns Cocktail was damn delicious, they…",
+     "Been here with friends for buffet and returned with great disappointment. Vegetarian starters are not at all good. Over spicy manchuria and Aloo tikka are served as starters. Main course, Desserts…"
+    ]
+   },
+   {
+    "id": "r_37f6bdf7d97b",
+    "name": "Paradise",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "Vacuum House 1, Chikkamaranahalli, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 1586,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Hyderabadi Biryani",
+     "Mutton Biryani",
+     "Chicken Biryani",
+     "Vegetable Biryani",
+     "Faluda",
+     "Kalmi Kabab",
+     "Chicken Kebab"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "A word Biryani makes everyone Awake and thats especially to South Indians. We have all varieties of Biryanis available in Bangalore. The most popular is always a Hyderabadi & Awadhi more than other…",
+     "This place is one of the 'paradise' branches, which serves good and tasty food. Mostly I have had biryanis from this place, and it's been satisfactory experience. Although vegetarians have less…",
+     "Paradise biryani is a good spot for Hyderabadi biryani Being a reputable name it has maintained quality I have not only tried their biryanis but also tried their kebabs Taste wise - 4/5 Service…"
+    ]
+   },
+   {
+    "id": "r_abc1a0c578e1",
+    "name": "Cream Stone",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "79, Ground Floor, Bhagyasri Complex, 80 Feet Road, New BEL Rd, RMV 2nd Stage, Ashwath Nagar, Devasandra Layout, NEw BEL Road, Bengaluru",
+    "zones": [
+     "Malleshwaram",
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Ice Cream",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 250,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chocolava",
+     "Nutella Brownie",
+     "Ferrero Rocher",
+     "Hot Chocolate Fudge"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "Being a very fussy ice-cream eater, I walked here from another ice-cream outlet because the latter did not have any flavour that I liked or any toppings that interested me for that matter. I found…",
+     "Love their sundaes! The Ice cream texture is just perfect, and its so much fun to watch them mix all the toppings with the Ice cream on the slab!",
+     "Such delicious and creamy ice creams - you just can't stop eating if you have a sweet tooth. I tried the Nutella brownie ice cream . They delivered it fresh and creamy and not melted. Simply love it ."
+    ]
+   },
+   {
+    "id": "r_f9e1b3ce0327",
+    "name": "The Light House Restaurant",
+    "city": "Bangalore",
+    "locality": "New BEL Road",
+    "address": "62, 80 Feet Road, Near MS Ramaiah Hospital, Opposite To Apple Store, Devasandra Village, RMV 2nd Stage, New BEL Road, Bangalore",
+    "zones": [
+     "New BEL Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 53,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Neer Dosa",
+     "Biryani",
+     "Chinese Bhel",
+     "Dal Makhani",
+     "Fish"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "A new place in BEL road with exemplary interiors and decors. They serve North Indian, Coastal Canara and Chinese cuisines. The service was pretty quick and hassle free. After long time we had Tomato…",
+     "A beautifully lit and decorated restaurant. It has a very natural feel. The best thing about this restaurant is the quick and prompt service. The food arrives really very quick. The dishes are…",
+     "A fairly new entrant in Bel road but already has become a must visit place for food lovers, specially Non vegetarians. The vegetarian fare here is equally good too. Must try here are the Mangaloeran…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_31ceea0e0692": 0.689663,
+   "r_1738b7093821": 0.547759,
+   "r_490438aac612": 0.544446,
+   "r_1bc8a5e38eac": 0.507143,
+   "r_6cbd456c5368": 0.421372,
+   "r_391e80522b91": 0.367967,
+   "r_11fa5774c9a5": 0.322083,
+   "r_53d6c83bda58": 0.316615,
+   "r_b02f40ac20b4": 0.305813,
+   "r_813406af8c16": 0.304997,
+   "r_83886550e0b5": 0.290239,
+   "r_14c9e5b857ec": 0.287322,
+   "r_a1dc56761961": 0.280215,
+   "r_40403bd745df": 0.279817,
+   "r_78b12ab4f7f6": 0.265734,
+   "r_3db504ddc877": 0.265189,
+   "r_7c62607897a5": 0.245547,
+   "r_98c52598bb84": 0.24171,
+   "r_6de9703c45de": 0.222352,
+   "r_bdc439a76052": 0.220092,
+   "r_cbf0ed1c39dd": 0.213657,
+   "r_2daac9a852f9": 0.199058,
+   "r_37f6bdf7d97b": 0.197878,
+   "r_abc1a0c578e1": 0.176874,
+   "r_f9e1b3ce0327": 0.1701
+  },
+  "relaxations": [
+   "Budget widened to include medium (₹401–1,000 for two)",
+   "Minimum rating lowered from 4.5 to 4",
+   "Included places that don't serve Japanese (those that do still rank first)",
+   "Search widened from Hebbal to nearby areas: Jalahalli, New BEL Road, Sahakara Nagar, Sanjay Nagar and 1 more"
+  ],
+  "total_matches": 49
+ },
+ "edit": {}
+}

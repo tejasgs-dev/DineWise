@@ -1,0 +1,317 @@
+{
+ "id": "dominance-01",
+ "result": {
+  "preferences": {
+   "location": "Malleshwaram",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Malleshwaram"
+   ],
+   "budget": "medium",
+   "cuisines": [
+    "South Indian"
+   ],
+   "min_rating": 3.5,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_f9c08c35b274",
+    "name": "RS Shiv Sagar",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "3rd Floor, Mantri Square, Sampige Road, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian",
+     "South Indian",
+     "Street Food",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 613,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Panneer Butter Masala",
+     "Brownie Chocolate",
+     "Dhokla",
+     "Pav Bhaji",
+     "Mushroom Manchurian",
+     "Enchiladas",
+     "Kachori"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "A cozy vegetarian restaurant in a busy Mall is always a sight for the sore eye. Very comfortable furnishing. The service is prompt and polite. I'd Suggest avoiding the tables near the entrance as it…",
+     "Used to be my favourite vegetarian restaurant. In fact the vegetarian restaurant that I often visited my family. Visited the place after a year of living abroad and the place has lost its charm…",
+     "Always reliable if you're looking for some good-tasting Indian food. Would recommend their north Indian and chaat especially. Not high on oil and spice, and feels closer to home! The restaurant is a…"
+    ]
+   },
+   {
+    "id": "r_5cacba755eeb",
+    "name": "Asha Food Camp",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "89, 1st Main, 10th Cross, Temple Street, Sampige Road, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Street Food",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 534,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Panneer Butter Masala",
+     "Manchurian",
+     "Fruit Salad",
+     "Idli",
+     "Filter Coffee",
+     "Dhokla",
+     "Kashmiri Pulao"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Love this place. Been here plenty number of times. I can't fault it. For the price, everything they offer is justified. Love the North Indian foods/restaurant the most.",
+     "They have the most economic meals. They come in 3 varieties of mini, regular and express. I'm personally a fan of express meals Packing is extremely neat, it sucks that you can't home deliver it…",
+     "Have been to to food camp multiple times for breakfast, lunch and dinner and was never disappointed! Pictures here are the dinner I went to last week. We ordered tomato soup, our all time favorite…"
+    ]
+   },
+   {
+    "id": "r_f202051eac7c",
+    "name": "Village - The Soul of India",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "Mantri Square Mall, Shop No T-38, 3rd floor,1 Sampaige Road, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1000,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 569,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Buttermilk",
+     "Jalebi",
+     "Roti",
+     "Chaat",
+     "Noodles",
+     "Vegetable Biryani",
+     "Tea"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Ambience is great but the food is bad. The service is also average. The place is very congested and the cleanliness is below par. The music too is not appreciable and all one can do is look at a big…",
+     "Staff is friendly and the ambience is cozy. You get varieties of food. They made us play musical chairs and also we danced to the best Bollywood songs. Overall it was fun and will visit this place…",
+     "This place was festive and we'll themed, the food is decent. There plenty of chats, however, all of it tastes similar. The breads are freshly made along with starters and few desserts. There's a lot…"
+    ]
+   },
+   {
+    "id": "r_2acb14d3d9a1",
+    "name": "Empire Restaurant",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "3rd Floor, Orion Mall, Brigade Gateway, Dr. Rajkumar Road, Near Yeshwantpur, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Kerala"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 3.8,
+    "votes": 409,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Ghee Rice",
+     "Egg Biryani",
+     "Raita",
+     "Chicken Grill",
+     "Chicken Biryani",
+     "Shawarma",
+     "Butter Chicken"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Love their kabab and ghee rice. One tip is May be the staff could respond a little better and be quick in sending the food out! And they should offer parcel!!",
+     "Been there for a quick lunch bite yesterday.. Had combo ,chicken was not that great and I think it was ghee rice was too plain and dry .. Hope they will keep the standard ,has they used to serve…"
+    ]
+   },
+   {
+    "id": "r_2905f145a64d",
+    "name": "Chandus Delux",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "8th Cross, Near Malleshwaram Circle, Bangalore, Malleshwaram, Bangalore",
+    "zones": [
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Seafood",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 81,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Biryani",
+     "Mutton Chops",
+     "Pepper Chicken",
+     "Chilli Chicken",
+     "Brain Fry"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "This hotel or restaurant is located in 8th cross Malleshwaram this is the first time i have been here and I pretty much liked it. The food is amazing it's basically naati style you get chicken…",
+     "Desi delicious food!!. Compared to local bars, this place is neat. Drinks section is separate, it can be little uncomfortable for girls. They have family section but alcohol is not served there…",
+     "One of the best military hotels in the city . I'm a frequent visitor and order often from this place. . Raggi muddle , mutton chops and mutton Biryani is a must try dishes here .. Mutton chops are…"
+    ]
+   },
+   {
+    "id": "r_2e7ffb1e7287",
+    "name": "Savi Sagar",
+    "city": "Bangalore",
+    "locality": "Malleshwaram",
+    "address": "158/2, Near Natraj Theatre, S.C Road, Malleshwaram, Bangalore",
+    "zones": [
+     "Lavelle Road",
+     "Malleshwaram",
+     "Rajajinagar"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Street Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.9,
+    "votes": 3113,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Visited for the first time one evening recently. The place is working conditioned and hardly had any crowd. Quite peaceful and service was quick. Tried masale puri, dahi puri, mushroom manchurian…",
+     "The butter masala dosa is really good. But the only issue is that they don't maintain the taste. Luckily, i got to eat one of the best masala Dosa but very next day it was very dissapointing…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_f9c08c35b274": 0.85,
+   "r_5cacba755eeb": 0.742898,
+   "r_f202051eac7c": 0.660766,
+   "r_2acb14d3d9a1": 0.439853,
+   "r_2905f145a64d": 0.33,
+   "r_2e7ffb1e7287": 0.213735
+  },
+  "relaxations": [],
+  "total_matches": 6
+ },
+ "edit": {
+  "dominant_id": "r_2e7ffb1e7287",
+  "changed": [
+   "rating",
+   "votes",
+   "cuisines",
+   "cost"
+  ]
+ }
+}

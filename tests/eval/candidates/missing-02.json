@@ -1,0 +1,1145 @@
+{
+ "id": "missing-02",
+ "result": {
+  "preferences": {
+   "location": "Electronic City",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Electronic City"
+   ],
+   "budget": "low",
+   "cuisines": [],
+   "min_rating": 0.0,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_31d89a16ade2",
+    "name": "Hyderabadi Spice",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Chandra Reddy Building, Near Tech Mahindra, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Hyderabadi",
+     "Andhra",
+     "Chinese",
+     "Biryani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 593,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chicken Biryani",
+     "Hyderabadi Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "we have heard about it so much so had to try this place, the chicken in starters were kinda dry from inside, very small place with a small menu but the service is quite good. and they accept google…",
+     "We ordered special Hyderabadi chciken biriyani with Gunter chciken and hydrabadi chciken and paneer 65. Overall taste was good, biriyani was superb and packing could be much better. Do try it guys.",
+     "I ordered chicken manchurian and butter chicken for dinner. While the chicken manchurian was good enough, I didn't like the butter chicken. The gravy was too oily and extremely spicy, yet kind of…"
+    ]
+   },
+   {
+    "id": "r_884d7dcde65b",
+    "name": "Frozen Bottle",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "5, 6, 7 SJR Equinox Retail, Opposite Velankani Gate 3, Phase I, Electronic City, Bengaluru",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Beverages",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Beverage Shop",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 209,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chips",
+     "Ferrero Rocher",
+     "Vanilla Ice Cream"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "I ordered hot chocolate fudge however the chocolate sauce was almost none and invisible . This is not expected of quality place like frozen bottle. I have had it from store as well but I was super…",
+     "A great place to satisfy your late night sweet cravings! They are open till one in the night! The mango cake jar, bubble gum shake and fererro rocher shake is a must try!",
+     "I have tried various shakes from this place. Packaging is impressing. Mint chocolate shake is good. Orange marmalade shake is not that great though. I have tried 2 cake jars as well. They are heavy…"
+    ]
+   },
+   {
+    "id": "r_036c6c10ce16",
+    "name": "Samosa Singh",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "16th A Cross, Neeladri Nagar, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Street Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 150,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 427,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Samosa Chat",
+     "Tea",
+     "Aloo Samosa",
+     "Chai",
+     "Ginger Paneer",
+     "Burger Samosa",
+     "Chicken Kebab"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I had ordered a veg platter which should have had 5 different varieties, but two were repeated. And the samosas are usually dusted with chatpata powder which adds a lot of taste, but that was not…",
+     "Want a variety of samosas and a cup of tea to spend a lazy evening with friends? Samosa Singh should be your go-to place. They have a wide variety of samosas and tea to order from.",
+     "Who doesn't like a plate of Samosa and a cup of garam chai in a Bangalore kind of weather. What might hold you back to get indulged frequently is that they are generally deep fried and contain a lot…"
+    ]
+   },
+   {
+    "id": "r_cbb25c521c64",
+    "name": "Laddoos",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "SJR Equinox, Opposite Velankani Gate 3, Phase1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Street Food",
+     "Mithai"
+    ],
+    "rest_types": [
+     "Quick Bites",
+     "Sweet Shop"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 407,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Panipuri",
+     "Chaat",
+     "Gol Gappe",
+     "Thali",
+     "Rasgulla",
+     "Dhokla",
+     "Raj Kachori"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I am just a big fan of laddoos laddoo be it motichoor laddoo or any other laddoo. The sweets are really awesome. We ordered Samosa, kachori, veg cutlet and dhokla and the taste was good.. satisfied ??",
+     "Ordered malai cham cham .. the pieces were smaller than gogi berries.. the taste is good but not of that authentic cream . Price is too high for the given quality and quantity.. giving 4 just coz of…",
+     "Laddoos as the name suggests is a place for those having a sweet tooth, i have tasted rasagulla and rajbhog, the taste was authentic. We had pani puri as well. We brought malai sandwich home and yet…"
+    ]
+   },
+   {
+    "id": "r_7d943eb2f46b",
+    "name": "Popular Burger",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Shop 6, Krishnappa Gowda Building, Doddathogur, Opp: Wipro Gate-12, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Burger"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.1,
+    "votes": 150,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Chicken Burger",
+     "Chips",
+     "Veg Burger"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This road side stall is at a place where McDonald's, Burger King are hardly 50m away, but you will always find this place super crowded. Reason - tasty burgers that are worth every penny.",
+     "Ordered from here yesterday. No disappointment at all. Went for the 5 burger combo. All neatly packed. The burger was tasty and worth every penny. Thanks for an economical combo",
+     "Ordered chicken cheese burger and veg burger couple of times. Quantity is pretty huge and taste was good. They have many good offer too. Will try there other stuffs too."
+    ]
+   },
+   {
+    "id": "r_0194b971880e",
+    "name": "Ruchi Sagar",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "36/A1, Konappa Agrahara Vilage, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese",
+     "Juices"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 262,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Badam Milk",
+     "Masala Dosa",
+     "Filter Coffee",
+     "Pav Bhaji",
+     "Noodles",
+     "Idli",
+     "Chole Bhature"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ruchi Sagar offers great prices for the quantity of food but even the lowest of prices cannot save the experience we had. There isn't even one thing I can recommend. We even went with different…",
+     "A pure veg south indian restaurant. Dining area at the first floor is available. service is good.i usually go there for breakfast.must try their idli, ghee roast dosa and coffee. they have chaats…",
+     "Breakfast For The Last Three Day's That I Spent At Bangalore Were From Ruchi Sagar. They Have An Amazing Variety Of South Indian Delicacie's Including Rice Bath, Kesari Bath, Idly Manchurian Etc…"
+    ]
+   },
+   {
+    "id": "r_7de82115cb51",
+    "name": "Delhi Base Sri Food Court",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Near BHEL, Velankani Road, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Chinese",
+     "Street Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 505,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paratha",
+     "Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "They delivered tasty veg food. Happy to have chosen them. The prices of the dishes were very reasonable too. Got a quick delivery with Zomato. Ordered Daal Makhni, Gobi Manchurian, Bhindi Fry, Plain…",
+     "The best place one can eat good north India food for cheap. I ordered dal makhnai, paneer and atta paratha. Service is really fast and food comes piping hot. Paratha are a must try. Although sitting…"
+    ]
+   },
+   {
+    "id": "r_c3699bd6d83e",
+    "name": "Insomniac's Delight",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 231,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Poha",
+     "Burgers",
+     "Maggi",
+     "Sandwiches",
+     "Cheese Burger",
+     "Aloo Sandwich"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Been living in a hostel really allows you to test food delivery restaurant because you're just bored of that routine food. I also tried insomniac's delight on one of such night when my midnight…",
+     "bad experience .no Salt in dal food quality also bad the shake which I order got something else not able to tell which shake it is ..",
+     "All the food was sweet. No spice . Sorry but felt like eating sugar syrup with veggies. I wouldn't order again .. Sorry but horrible experience"
+    ]
+   },
+   {
+    "id": "r_d8a5f4c7a754",
+    "name": "Notebook Food Court",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "KIADP Layout , Phase-2, Near Tech Mahindra, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 220,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Small place to hardly accommodate 30-40 people at a time , so usually u have to wait for like 10-15 mins during peak hours (between 1-3). food was fine . i tried few of their menu items including…",
+     "Notebook Food Court is a place for Chinese.?? On Saturday Night, I thought of ordering American chopsy,so I ordered from this place.? Well, order came before time they mentioned. ?? Service: 4??/5??…",
+     "A decent place with very good spread of food on the menu in the high tech locality like electronic city. This is a small restaurant opposite to Tech Mahindra office, electronic city , phase 2. The…"
+    ]
+   },
+   {
+    "id": "r_7a71c14e962a",
+    "name": "Sitara Veg Restaurant",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Hotel Goyal Residency, 17-C, 1st Phase, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "South Indian",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 419,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Masala Dosa",
+     "Chaat",
+     "Vada",
+     "Sandwiches",
+     "Filter Coffee"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "You know the prices are amazing when your establishment is frequented by college crowds. It works on a token system. You pay at the counter and submit your token at the counter. The Chinese starters…",
+     "The only reason it is rated 3/5 is because of the price we availed via zomato coupons. We had ordered set dosa. First of all, it wasn't proper dosa batter. Instead of Coconut chutney, it was…"
+    ]
+   },
+   {
+    "id": "r_55230827d2fb",
+    "name": "Rajasthani Charbhuja Restaurant",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "#183, 1st floor, 12th cross Rd, Neeladri road, Neeladri Nagar, ElectronicCity phase 1, Bengaluru",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Rajasthani"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 350,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 170,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Rajasthani Thali",
+     "Paratha",
+     "Gulab Jamun",
+     "Paneer Tikka Masala",
+     "Sweet Lassi",
+     "Buttermilk",
+     "Gatte Ki Subzi"
+    ],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Want to have some rajasthani food in electronic city. This is the place to go. I had ordered thali for an all through experience. Taste is good and food is reasonably priced. You will get a very…",
+     "Today Oct 16, 2018 was Durga Saptami. After offering our prayers to Ma Durga in the Goel Ganga Vertica apartments puja, we were looking for a decent place to have a veg meal. I had seen this…",
+     "Good Quality food. Good Service and Reasonably Priced. I ordered a thali for an overall experience and i must say the food was tasty and wholesome. Piping hot Rotis and tasty curried made my…"
+    ]
+   },
+   {
+    "id": "r_688a406c6d55",
+    "name": "Just Fresh Point",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Club House, Concorde Manhattan Apartment, Near Wipro Gate-16, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Street Food",
+     "American",
+     "Sandwich",
+     "Fast Food",
+     "Beverages",
+     "Burger",
+     "Desserts",
+     "Pizza"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 162,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Sandwiches",
+     "Chaat",
+     "Rasmalai",
+     "Pizza",
+     "Ginger Tea",
+     "Sandwich",
+     "Paratha"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Ordered Samosa and Dahi Papdi chat from here. Taste of Samosa is average, can be better. Papdi chat was good. Will try other items from here , a mix experience for me as of now."
+    ]
+   },
+   {
+    "id": "r_1e72d6f494ca",
+    "name": "Ruposhi Bangla",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Ramakrishna Reddy Building, Celebrity Paradise Road, Dodda Thogur, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Bengali",
+     "Chinese",
+     "North Indian",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 159,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Fish",
+     "Egg Tadka",
+     "Kachori",
+     "Luchi"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I am almost a regular customer from here. I have ordered almost all the items from here. I really like the pure Bengali taste and less spicy food. All their fish items are awesome. I like their…",
+     "I have been regularly ordering from Ruposhi Bangla from past one month. I must say, it's the best pocket friendly good Bengali restaurant I have come across around this area. I love their…",
+     "It shows the quality of food served by any outlet from the simplest of the food. Basis the ratings on Zomato (3.9) I ordered in 2 things, I) peas kachori with aloo dum II) chilly chicken To my huge…"
+    ]
+   },
+   {
+    "id": "r_5cc4414ef0f1",
+    "name": "Polar Bear",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "16, Neeladri Road, Karuna Nagar, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Desserts",
+     "Beverages",
+     "Sandwich"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 145,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Choco Fudge Brownie",
+     "Hot Chocolate",
+     "Lychee Sundae",
+     "Sandwiches",
+     "Ice Cream Pizza"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "It has a variety of desserts to offer. Death by chocolate and choco fudge brownie is a must try. Good place to hang out and enjoy ice cream.",
+     "Do do do try their Death by Chocolate and my personal favorite, the Chocozilla! The Chocozilla , just gets better as you dig in. The gooey chocolate cake with the chocolate sauce with the icecream…",
+     "Food quality is really nice I mean really nice.. but seating capacity needs to be improved .. weekend evening are mostly full. Please take a note"
+    ]
+   },
+   {
+    "id": "r_1113825d4571",
+    "name": "Magic Oven",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "55, Green Garden Layout, Singasandra , Manipal County Road, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Cafe",
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 135,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Sandwiches",
+     "Burgers",
+     "Coffee",
+     "Ginger Tea",
+     "Red Velvet",
+     "Chicken Penne",
+     "White Sauce Pasta"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "We ordered Red Velvet cake on 12Jan2019. The artificial flavours used were sticking to the hands. Design was not as per the promise. Fondant material flowers were not made.Completely disappointed…",
+     "Variety of items from bakery to snacks.Each item tastes really nice. To mention few, the cakes of all flavours, puffs, fajita sandwich, pasta, juicea and shakes. Party cakes are to relish Very much…",
+     "This place is cozy and small however variety of snacks, love the way they serve , love their Italian pasta , sandwiches and drinks.... this is very nice cafe . We visit here quite often two times in…"
+    ]
+   },
+   {
+    "id": "r_68702d6e9950",
+    "name": "The Daily",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "6th Main, Neeladri Investment Layout, Doddathogur, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Rajasthani",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 130,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paratha",
+     "Lassi",
+     "Chai",
+     "Dal Bati Churma Thali",
+     "Chole Bhature"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I had ordered Moti Thali via Zomato, The taste and quality is very good. I feel this is the best meal I had till now in Electronic city area. Please maintain this same taste and hygiene. Follow my…",
+     "Overall food quality & taste of main course like paner kadai, chana masala is quite good. However ordered fried rice & paneer chilly but it was really disappointed with food taste . Fried rice…",
+     "we were looking for North Indian thali and at last we found this restaurant and we ordered Moti thali. The quality and quantity both were good. and we liked the taste too. We are planning to try…"
+    ]
+   },
+   {
+    "id": "r_df9d8b4e9204",
+    "name": "Sri Pillaiyar Bhavan",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Keertha Apartment, Near XIMS College, Phase 2, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Chettinad"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 117,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Egg Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "What else I could ask for when i have authentic South Indian restaurant and surrounded by the people of my mother tongue! Lost by the insipid taste of roti,chapathi, such kinda place seems like a…",
+     "?? I am a lover of Chettinad recipes due to the perfect balance of flavours. Recently search for a good breakfast restaurant at E-city phase 1 led me here. ?? Ordered Idly Vada and Egg Dosa. Served…",
+     "Authentic South India ? Just go for it ?? (located at e-city phase one) We had, Pepper chicken biriyani was perfectly blended and tasted absolutely toothsome ?? I loved the flavourful rice and…"
+    ]
+   },
+   {
+    "id": "r_3d524c24ae9e",
+    "name": "7 Days Restaurant",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "103,77, Srinivas Building, Near Infosys Gate No 6, Konappana Agarahara, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Arabian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 478,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Egg Noodles",
+     "Lamb Chops",
+     "Hyderabadi Chicken Dum Biryani",
+     "Gajar Ka Halwa",
+     "Al Faham Chicken",
+     "Fried Rice"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Tried there chicken dum biriyani, tandoori chicken , butter naan and butter chicken. Everything was good. butter naan and tandoori chicken wen exceptionally good. Packing was too good."
+    ]
+   },
+   {
+    "id": "r_6e13293cf368",
+    "name": "Cafe Palnad",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "532-531 8th Cross Road, Neeladri Nagar, Electronics City Phase 1, Doddathoguru, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "South Indian",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 92,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza Dosa",
+     "Chicken Kheema Dosa",
+     "Keema Dosa",
+     "Masala Dosa"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Electronics is lack of good eateries honestly speaking. I found this to be interesting and went on a weekday evening for dinner. Ambiance is very poor with congested seating arrangement, that…",
+     "Found this place really good because of the varieties of dosa. Tried masala dosa, cheese peanut dosa and chicken keema dosa. You can try this place for having wide varieties of non veg dosa. Overall…",
+     "A place where I can satisfy my daily dosa's craving. Nice dosas with good stuffing. Cheese paneer dosa is my favourite one. A suggestion to the owner - can work on improving the taste of sambhar…"
+    ]
+   },
+   {
+    "id": "r_c38b84a74833",
+    "name": "Just Shawarma",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "SJR Equinox, Near Velankani Software Gate 3, Dodda Thogur, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Arabian"
+    ],
+    "rest_types": [
+     "Kiosk"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 176,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Whole Meat Shawarma",
+     "Wheat Shawarma",
+     "Pita Bread",
+     "Malgoum Shawarma",
+     "French Fries"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "To be honest, I loved the shawarma's of this place. In fact I would say the best place for Shawarmas in E-City. But now recently in the last 2 months the chef had changed (a thin new guy came). He…",
+     "Clearly No. It lacks taste, hygiene as well as good packaging. I had the shwarma at the outlet. The basic shwarma costs 70/- and it has no taste. The chicken inside is chewy instead of smooth.",
+     "I never went to just shawarma thinking chains does not have good shawarma. But i went their two days back and i wasn't disappointed at all. I ordered one whole wheat shawarma. Chicken was fresh and…"
+    ]
+   },
+   {
+    "id": "r_1b430265e2f9",
+    "name": "Donut Cafe",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Shop 9, Ajmera Avenue, Neeladri Nagar, Wipro Road, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Desserts",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Dessert Parlor",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 163,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Donut",
+     "Brownie",
+     "Hot Chocolate",
+     "Sandwiches"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Nice and cozy place. They have got bean bags and sofas upstairs. I haven't eaten here yet. Had a coffee though and it was decent. You can go with your friends here for just chilling. It has got nice…",
+     "Located in electronic city in Bangalore, the restaurant is kind of like hidden from the core chilling place...they mostly serve sandwiches, pizzas donuts and juices ..we decided to try there…",
+     "This place is a hidden gem on the busy Neeladri road in E-City. If you want to spend some quality time with your gang, this is the best a place can offer. The place serves amazing donuts at…"
+    ]
+   },
+   {
+    "id": "r_64cfee2d3996",
+    "name": "Royal Bengal Corner",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Infosys Gate 4, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Chinese",
+     "Fast Food",
+     "North Indian",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 307,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Paratha",
+     "Panneer Butter Masala"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Tasty food,nominal price and warm hospitality. The place may be small but serves better than most of the fancy restaurants nearby, have been there multiple times and not once have I been…"
+    ]
+   },
+   {
+    "id": "r_6acc569ac250",
+    "name": "Desi Dhaba",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Hosur Main Road, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 303,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Very bad food. I ordered dal from this place and the taste was horrible",
+     "Pathetic food delivered. Chicken was not properly washed, there was blood present, and the gravy was also not good.I ordered Chicken Hyderabadi and 4 chapatis, chapatis were cold and were not in…",
+     "I have ordered special chicken Biryani from this restaurant,I thrown that biryani in dust bin,that is not hot, no taste I think that is afternoon biryani they have given"
+    ]
+   },
+   {
+    "id": "r_afba7564d86f",
+    "name": "Apsara Ice Cream",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "3, Ground Floor, Neeladri Road, Orchid Park Layout, Below Royal Hyper Market, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Ice Cream",
+     "Desserts"
+    ],
+    "rest_types": [
+     "Dessert Parlor"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 4.0,
+    "votes": 67,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Panipuri",
+     "Cheesecake",
+     "Guava Ice Cream",
+     "Almond Ice Cream"
+    ],
+    "tags": [
+     "delivery",
+     "desserts"
+    ],
+    "review_snippets": [
+     "If you are an ice cream lover then you must pay a visit here. There are few must tries which includes seetafal, guava, orange apricot & pani puri. Once you eat it you will fell in love with it.",
+     "We stayed near the place and thought of giving a try....It's basically an ice cream parlor where they serve home made like ice creams ....it's meant to be made out of real fruits and tastes…",
+     "Yay! I had been waiting for a ice cream parlour that would serve natural flavoured ice creams cause the nearest options were the far! This is a delight for those who love natural flavoured ice…"
+    ]
+   },
+   {
+    "id": "r_ef5da1090433",
+    "name": "King",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "34/2, Keerthana Apartment, Behind XIME College, Phase 2, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 300,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 570,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Matar Paneer"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I only order delivery from here as they have price effective food options. I've tried Egg chicken fried rice which was decent and Mughlai chicken curry....OK but too much oily. Overall, an OK but…",
+     "Food was decent enough, everytime I had ordered from Zomato. But recently they increased the price abruptly Non Veg Meal of ?120 was increased by 40+% and it's now ?170 Similar abruptly prices were…",
+     "Order many times from this place. Mostly veg . My fav pick is dal tadka and Jira rice Once I visited the place, it's too small . So best for delivery . Do not order combo, as the taste may not be…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_31d89a16ade2": 0.671875,
+   "r_884d7dcde65b": 0.6593,
+   "r_036c6c10ce16": 0.659046,
+   "r_cbb25c521c64": 0.657173,
+   "r_7d943eb2f46b": 0.64639,
+   "r_0194b971880e": 0.639984,
+   "r_7de82115cb51": 0.637474,
+   "r_c3699bd6d83e": 0.635075,
+   "r_d8a5f4c7a754": 0.633174,
+   "r_7a71c14e962a": 0.630182,
+   "r_55230827d2fb": 0.623134,
+   "r_688a406c6d55": 0.621258,
+   "r_1e72d6f494ca": 0.620531,
+   "r_5cc4414ef0f1": 0.616947,
+   "r_1113825d4571": 0.61417,
+   "r_68702d6e9950": 0.612704,
+   "r_df9d8b4e9204": 0.608613,
+   "r_3d524c24ae9e": 0.607202,
+   "r_6e13293cf368": 0.599293,
+   "r_c38b84a74833": 0.596359,
+   "r_1b430265e2f9": 0.593373,
+   "r_64cfee2d3996": 0.589917,
+   "r_6acc569ac250": 0.589405,
+   "r_afba7564d86f": 0.587038,
+   "r_ef5da1090433": 0.585954
+  },
+  "relaxations": [],
+  "total_matches": 462
+ },
+ "edit": {}
+}

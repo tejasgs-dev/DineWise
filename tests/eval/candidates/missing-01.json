@@ -1,0 +1,1103 @@
+{
+ "id": "missing-01",
+ "result": {
+  "preferences": {
+   "location": "Bellandur",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Bellandur"
+   ],
+   "budget": null,
+   "cuisines": [
+    "Fast Food"
+   ],
+   "min_rating": 0.0,
+   "extras": "new places are welcome",
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_269e107a0f97",
+    "name": "BOX8- Desi Meals",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "158, Srivaru Towers, Greenglen Layout, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 170,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paratha",
+     "Dal Makhani",
+     "Biryani",
+     "Gulab Jamun",
+     "Salad",
+     "Sandwiches",
+     "Brownie Chocolate"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Sandwiches and wraps have enough of fillings of veggies, cheese and Mayo! We order : 1 Chicken Cheese Feast Sandwiche- it was full of cheese and very very delicious.. 5/5 2 Tandoori Paneer Wrap…"
+    ]
+   },
+   {
+    "id": "r_4b19e9e56dd9",
+    "name": "Murli",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "207, Green Glen Layout, Opposite M.K. Ahmed Super Market, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Street Food",
+     "Fast Food",
+     "Mithai"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 1246,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chole Bhature",
+     "Chaat",
+     "Paneer Tikka",
+     "Jalebi",
+     "Samosa Chat",
+     "Rasmalai",
+     "Rabri"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Nice sweet shop cum restaurant in bellandur. Sweet has good quality + price is adequate. Though, Food I find a bit costly; samosa, kachori and other snacks are overpriced. Staff is courteous and…",
+     "It has amazing vegetarian food. It has very delicious snacks Must try kachori, pav bhaji, samosa chat, Pani Puri and different type of sweets Cham Cham, jalebi and rabadi. It's economical too.",
+     "I discovered what a Dabheli was when I visited my sister in Pune. It was delicious and I savored as much as I could during my visits to Pune. I had read about Murli, and was delighted to see that…"
+    ]
+   },
+   {
+    "id": "r_241ea11fe663",
+    "name": "Faasos",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Ground Floor, Octave Hotel, Opposite Prestige Tech Park, Outer Ring Road, Kadubeesanahalli, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Biryani",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 193,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Chicken Wrap",
+     "Veggie Wrap",
+     "Thali",
+     "Paneer Curry",
+     "Sabudana Vada",
+     "Sabudana Kheer"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Tried sabudana khichdi royal meal which was introduced as part pf revamped menu for this navratri festive season. I loved the meal. It was well made and tasted great. The food was packaged to…",
+     "I tried the Navratri menu from Faasos. I really enjoyed the Sabudana kheer and Sabudana khichdi. The kheer was adequately sweet and had good amount of dry fruits as well. The quantity of both items…",
+     "Being regular with Faasos during normal days and when your favourite brand always offers fasting food then it's a cherry on the cake. I happened to be stuck in Bengaluru for work during my Navratri…"
+    ]
+   },
+   {
+    "id": "r_eea656733464",
+    "name": "Shake It Off",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Ground Floor, 42 Green Glen Layout, Sarjapur - Marathalli Ring Road, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "HSR",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Beverages",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Beverage Shop"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 64,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Momos",
+     "Thick Shakes",
+     "Sandwiches",
+     "Veg Maggi",
+     "Burgers"
+    ],
+    "tags": [
+     "delivery"
+    ],
+    "review_snippets": [
+     "Awesome place..good food good staaff..amazing place..nice visit on night time to play board games with friends and family..jenga is my favourite though",
+     "It has been an absolute delight to try these shakes. Again this outlet also serves you in fancy glass bottles. All the shakes that I tried are so fresh and refreshing. I do not like too sweet shakes…",
+     "Small but comfy place. You can come here once in a while to have your brunch or snacks. Do try their shakes. They are very good. Service time is also good. You will have lot of games also to play…"
+    ]
+   },
+   {
+    "id": "r_8694937a8cce",
+    "name": "Chai Point",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Mantri Commercio, Kariyammana Agrahara, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Beverage Shop",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.9,
+    "votes": 62,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Veg puff is so cold.",
+     "This tea is not hot... just like a sugar water. Pathetic . waste of money . If you can't deliver it hot, don't sell",
+     "Love the ginger tea and banana cake. The hygiene and hassle free chai is a go to place for tea lovers.There are places inside with standing tables where you can stand and have your tea and snacks or…"
+    ]
+   },
+   {
+    "id": "r_2f572ebe58a3",
+    "name": "Pizza Hut",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Ground Floor, Bangalore Central, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 3.6,
+    "votes": 542,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza Crispy Crunch",
+     "Garlic Bread",
+     "Paneer Pizza",
+     "Pasta",
+     "Pane Pizza"
+    ],
+    "tags": [
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Well!! It was a good experience to have pizza in mall food court!! Wide dining with red colour decor with exit gate bell!! ? Order one pasta, some new kind of potatoe recipe and 2 types of pizza…",
+     "Staff was unable to handle the crowd. I understand that it's sometimes not possible to handle lot many requests but that surely doesn't mean ignorance. Though the once we got the table, service was…",
+     "Very nice location in Central Mall at Bellandur in Bangalore. The restaurant is mid size. We ordered Cheese Pizza. Nice yummy taste. The rates are as usual. The service was excellent. Being the…"
+    ]
+   },
+   {
+    "id": "r_6ee35f313015",
+    "name": "Filmy Kitchen",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "95/2, Green Glen Layout, Sobha Lakeview Clubhouse, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "HSR",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "South Indian",
+     "Italian",
+     "Chinese",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 182,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Paneer Tikka",
+     "Dal Bati",
+     "Gulab Jamun",
+     "Thali",
+     "Tandoori Mushrooms",
+     "Chole",
+     "Chinese Bhel"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": []
+   },
+   {
+    "id": "r_b1ce25b330a1",
+    "name": "Parathabox",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Bellandur",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 150,
+    "budget_band": "low",
+    "rating": 3.8,
+    "votes": 63,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Cheesy Corn",
+     "Paneer Cheese"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Delicious parathas as simple as that! Great stuffing home like taste and loads of amul butter which is my favorite :) A definite order for lazy brunches",
+     "I ordered Paneer & Gobhi paratha from this place for lunch recently. The quantity is very good. One box is good for one person. Specially they are serving like Pizza which make paratha hot.",
+     "Taste like Home made parathas.ordered several times from here.Goodpacking..enough quantity..nice addons(butter curd pickle).. will order again....."
+    ]
+   },
+   {
+    "id": "r_79dc16881e20",
+    "name": "Abbabi Chicken",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "75/2B, Near Trinity Meadows, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "HSR",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 134,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Chicken Shawarama",
+     "Chicken Shwarma Roll",
+     "Abbabi Chicken",
+     "Shawarma Roll"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Got this cute tiny shawarma roll from here, it was full of onions, tomatoes and cabbage not to forget some chicken too. It still tasted good."
+    ]
+   },
+   {
+    "id": "r_fc79dae1a2cf",
+    "name": "Faasos",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "101/5, Doddamma Temple Road, Varthur Hobli, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Biryani",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.9,
+    "votes": 26,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This is the review based on the faasos review program that I opted for last Tuesday and here is what I selected out of the available options. - Jumbo veg wrap - This was very good in terms of…",
+     "Everything was as good as it was expected, loved the desert and even the rolls, rice wasn't good enough I didn't liked it..... The species were properly mixed and indulged surrrrp yummy.... This is…",
+     "Ordered quite some food yesterday from Faasos and to my surprise the portions were actually very generous. I had ordered the following: 1. Jumbo Chicken Wrap - Loaded with assorted chicken…"
+    ]
+   },
+   {
+    "id": "r_ba6f78801d08",
+    "name": "Cafe Daily Bread",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "167, Green Glen Layout, Near HDFC Bank ATM, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Bakery",
+     "Fast Food",
+     "Italian"
+    ],
+    "rest_types": [
+     "Bakery",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.7,
+    "votes": 128,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta",
+     "Sandwich",
+     "Sandwiches",
+     "Caesar Salad",
+     "Salads",
+     "Fries",
+     "Egg Wrap"
+    ],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I have ordered so many cakes from here and they always a do a great job. Several of my friends have said that this is the best cake they've had. They know exactly how to personalize the cake (I got…",
+     "Nice place with an awesome atmosphere for everything from having a casual meet to a business meeting and their menu is short and perfect for breakfast and brunch as well as for having light snacks.",
+     "Its a tiny and cute place tucked into the bylanes of the layout. Probably easier for people living around here to access and visit this place often. The best part is it is open until late hours and…"
+    ]
+   },
+   {
+    "id": "r_390a536e0fe5",
+    "name": "McDonald's",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "5/78/7, Ground Floor, Bangalore Central, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Burger",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 3.6,
+    "votes": 262,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Burgers",
+     "Fries"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Been here multiple times to have quick food. Anytime I visit here the experience is good. Tried most the Veg items here and found all of them good. Service is quick here and ambience is awesome…",
+     "Very nice location in Central Mall at Bellandur in Bangalore. The restaurant is mid size n very beautifully designed. We ordered Chicken burger n french fries. The taste was awesome. Served in a…",
+     "Lunch Time. Was curious to try the new Rice Bowl since many days and chose McD out of all other outlet. I understand we get deceived by the ads- just look at what they display and we dont even get…"
+    ]
+   },
+   {
+    "id": "r_1ccaaa502f74",
+    "name": "Domino's Pizza",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "78/5, Sri Gowrikshna Arcade, Behind Central Mall, M.H. Colony, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 3.6,
+    "votes": 260,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pizza Burger",
+     "Garlic Bread",
+     "Chocolava"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Pathetic service, ordered pizza to a nearby location. It took more than a hour; i had to call twice to know about my food. Result: pizza was cold and hard. Avoid ordering from this outlet. Bellandur…"
+    ]
+   },
+   {
+    "id": "r_b2554d55b3a3",
+    "name": "Chef Baker's",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "74/2, Outer Ring Road, Bellandur Junction, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Bakery",
+     "Fast Food",
+     "Pizza",
+     "Burger",
+     "Cafe"
+    ],
+    "rest_types": [
+     "Bakery",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.6,
+    "votes": 136,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta",
+     "Apple Pie",
+     "Sandwich",
+     "Chocolate Cake",
+     "Burgers",
+     "Hot Chocolate",
+     "Donut"
+    ],
+    "tags": [
+     "cafe",
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "It's a decent place, best known for cakes. Their apple pie and chocolate cake is tasty. You have eggless cake options too. This place is easy to spot, right on the main road. It's not as cozy as the…",
+     "Ordered a death by chocolate cake recently. Cake was good in taste but was not as fresh as it should have been. It was more on dry side. Next time chef baker will be my last option for online order."
+    ]
+   },
+   {
+    "id": "r_e181bd773d92",
+    "name": "Flavors of India",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Bhagini Icon Premeir Hotel, 57/1A Outer Ring Road, Opposite Sakra World Hospital, Devarabisanahalli, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Chinese",
+     "North Indian",
+     "Salad",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 3.7,
+    "votes": 37,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Salads",
+     "Fish"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Visited this place last night for dinner party. The place was for cozy and well designed. I really liked the ambience, the staff were courteous too. In the buffet menu we had 2 veg and 2 non-veg…"
+    ]
+   },
+   {
+    "id": "r_ce24ba6d2ed3",
+    "name": "Cuppa",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Opposite Assez Apartment, Gear School Road, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Dine-out"
+    ],
+    "cost_for_two": 550,
+    "budget_band": "medium",
+    "rating": 3.7,
+    "votes": 33,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "cafe"
+    ],
+    "review_snippets": [
+     "Heya, what's popping? I'm back with yet another review. Oh this time it's just a very uncomfortable situation for me, as I usually am a very strict critique and hate giving above 3 stars. To start…",
+     "Lovely place to hangout. Rats were running around so be a bit careful. Otherwise food was decent and quality too. Coffee was tasty and the veg platter... yummy ???",
+     "Must try : HUKKA! There is a fellow called GOOGLE! ya u read it right!! He calls himself d famous search engine.. but this one works only for Sheeha!! :D Food is just ok. Sizzlers are better and so…"
+    ]
+   },
+   {
+    "id": "r_5a96c1707d00",
+    "name": "S S Popular Frozen Stone",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Near ICICI Bank Atm, Green Glen Layout, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "HSR",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Beverages",
+     "Ice Cream",
+     "Sandwich",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Beverage Shop",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 25,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "sandwich was not properly packed and it's very costly.",
+     "Quantity of sandwich was very less.",
+     "sandwich is too much yummy"
+    ]
+   },
+   {
+    "id": "r_7ec88cacffd7",
+    "name": "Carnival Cakes & Breads",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "161/2, Next to Shoba Mayflower, Green Glen Layout, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Bakery",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Dessert Parlor",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Desserts"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 23,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Carnival has the best collection of breads and cakes in bellandur. The texture and softness of the breads will never let you purchase bread from anywhere else. The cakes are soft and melts in the…",
+     "We ordered a one of the signature cakes- Carnival festival.. I can definitely say - What you see is what you get.. It was not only pleasing to the eyes but to the taste buds as well.. The five…",
+     "A boutique bakery selling exquisite stuff at premium prices. We love the quality of breads and buns here. Also great are the pastries and cup cakes. But the choice of birthday cakes, quality and…"
+    ]
+   },
+   {
+    "id": "r_bafa36728b70",
+    "name": "California Burrito",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Food Court, Building 2D, Embassy Tech Village, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur"
+    ],
+    "cuisines": [
+     "Mexican",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Food Court",
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 23,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This CB is one of the outlets of the RMZ Ecoworld cafetera. It started as a good change from standard cuisines served in cafetera. But in recent times, their standard had gone down a lot. Given that…",
+     "California Burrito is really great option to eat healthy and fresh. There are zillion of toppings and add-ons to choose from to make an epic mixture of complete bliss, My report card Price 6/10…",
+     "California burrito--- so far I've tried nly few varieties here... peri peri dippers which is made of garlic and potato which tastes yummy .. and also the Mexican samosa tastes really good. It is…"
+    ]
+   },
+   {
+    "id": "r_bde847443526",
+    "name": "Kolkata Famous Kati Rolls",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "70, Outer Ring Road, Near Apollo, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 100,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 19,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Now a days fast food is too much increased everywhere evening time for snacks in bellandur near apollo hospital kolkota katti rolls is there really suberb taste and very cheap price veg and nonveg…",
+     "Not a bad one out of the many Kati Roll Centers that I have visited. However the size and thickness of the roll can be increased depending on the amount charged for each roll. Simply a one-time try…",
+     "Not to die for but yea good food for not a lot of money. Well might just be a plus point that it also delivers water. The food wasn't hot enough though when it was delivered."
+    ]
+   },
+   {
+    "id": "r_4fc3f426c39b",
+    "name": "Coffee Bike",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Building 1, RMZ Ecoworld (SEZ), Sarjapur Outer Ring Road, Deverabeesanahalli, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Kiosk"
+    ],
+    "listing_types": [
+     "Desserts"
+    ],
+    "cost_for_two": 250,
+    "budget_band": "low",
+    "rating": 3.7,
+    "votes": 15,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "desserts",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Amazing coffee. My personal favourite is Othello - blend of Belgium chocolate and coffee (must try). Othello will make your day ?. Coffee-bike nice concept.",
+     "During one of my visits to Ecoworld to meet childhood friend , I was here at Ecoworld. He took me to this place for conversations over cup of coffee and cookies . Decent cart indeed for coffee and…",
+     "Been to this outlet for having a coffee in the afternoon. This outlet is located in the cafeteria of Ecoworld. So no talk about ambiance. Had ordered Cold coffee and Cappuccino. Served at perfect…"
+    ]
+   },
+   {
+    "id": "r_e3348087fb82",
+    "name": "KFC",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "The Bay, Building 8A&8B, RMZ Ecoworld, Doddakannelli Road, Adarsh Palm Retreat, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur"
+    ],
+    "cuisines": [
+     "Burger",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites",
+     "Food Court"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 3.6,
+    "votes": 20,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": []
+   },
+   {
+    "id": "r_f015487aba7a",
+    "name": "TRP -That Roll Place",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Food Court, Building 8, Pritech Park, Adarsh Palm Retreat, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Rolls"
+    ],
+    "rest_types": [
+     "Quick Bites",
+     "Food Court"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 200,
+    "budget_band": "low",
+    "rating": 3.6,
+    "votes": 14,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "If you are in a rush and want to grab a quick bite, this is the place. Rolls are huge and well made. Menu is limited but food's great. Part of the Pritech food court.",
+     "One of the best rolls I ever had.!! Must try if you are near Bellandur. Chicken Mayo Roll is my favorite. Missing the place as I moved out of ecospace. Will surely go again there just to have these…",
+     "Never have been a fan of rolls as I would actually love to savour the mix of indian bread with the gravy or filling in bits and not with a whole bite. BUT When I ordered a roll from this place I was…"
+    ]
+   },
+   {
+    "id": "r_1e653439710c",
+    "name": "Inhouse Burger",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "Inside Pritech Park, shop no 5,Near RMZ Eco Space, Bellandur., Bengaluru",
+    "zones": [
+     "Bellandur",
+     "Sarjapur Road"
+    ],
+    "cuisines": [
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Food Court"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 400,
+    "budget_band": "low",
+    "rating": 3.6,
+    "votes": 12,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "quick_service"
+    ],
+    "review_snippets": [
+     "New place to eat and chill near by! Healthy and tasty! Ambience is also pretty good if we see according to the available space! Recommended dish- specially the one in 5 in 1 section Food- 4.5/5",
+     "Only tried the Grilled Chicken Burger here. It was excellent taste-wise. However it was too small for the price. Would like to try out the other options next time around."
+    ]
+   },
+   {
+    "id": "r_ae0bfb2d7d14",
+    "name": "Subway",
+    "city": "Bangalore",
+    "locality": "Bellandur",
+    "address": "The Bay, Campus 8A, RMZ Ecoworld, Bellandur, Bangalore",
+    "zones": [
+     "Bellandur"
+    ],
+    "cuisines": [
+     "Salad",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Food Court"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 3.6,
+    "votes": 12,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This is located in the food court of RMZ Ecospace and have come here couple of times. While the sandwiches are all customized here, I've tried both veg and non veg. I loved the non veg more than the…",
+     "Subway has always been known for its healthy food. I prefer subs here not just because of its veggies and freshness but also because of the taste and variety of subs they provide with proper…",
+     "hara bhara kebab sub is one of the favorites from subway. chose the parmesan oregano bread toasted. it was delicious as expected though the bread could be fresher. it was somewhat chewy. packing is…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_269e107a0f97": 0.780321,
+   "r_4b19e9e56dd9": 0.765625,
+   "r_241ea11fe663": 0.756621,
+   "r_eea656733464": 0.718273,
+   "r_8694937a8cce": 0.660927,
+   "r_2f572ebe58a3": 0.652093,
+   "r_6ee35f313015": 0.642074,
+   "r_b1ce25b330a1": 0.633354,
+   "r_79dc16881e20": 0.631405,
+   "r_fc79dae1a2cf": 0.631212,
+   "r_ba6f78801d08": 0.629811,
+   "r_390a536e0fe5": 0.626668,
+   "r_1ccaaa502f74": 0.626401,
+   "r_b2554d55b3a3": 0.603796,
+   "r_e181bd773d92": 0.586947,
+   "r_ce24ba6d2ed3": 0.583046,
+   "r_5a96c1707d00": 0.573638,
+   "r_7ec88cacffd7": 0.570831,
+   "r_bafa36728b70": 0.570831,
+   "r_bde847443526": 0.564437,
+   "r_4fc3f426c39b": 0.556611,
+   "r_e3348087fb82": 0.538023,
+   "r_f015487aba7a": 0.526223,
+   "r_1e653439710c": 0.521204,
+   "r_ae0bfb2d7d14": 0.521204
+  },
+  "relaxations": [],
+  "total_matches": 66
+ },
+ "edit": {}
+}

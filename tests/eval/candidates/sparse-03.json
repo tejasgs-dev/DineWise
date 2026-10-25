@@ -1,0 +1,1255 @@
+{
+ "id": "sparse-03",
+ "result": {
+  "preferences": {
+   "location": "Electronic City",
+   "location_kind": "locality",
+   "city": "Bangalore",
+   "localities": [
+    "Electronic City"
+   ],
+   "budget": "high",
+   "cuisines": [
+    "Mexican"
+   ],
+   "min_rating": 4.3,
+   "extras": null,
+   "extras_tags": [],
+   "top_k": 5,
+   "corrections": []
+  },
+  "candidates": [
+   {
+    "id": "r_7a131924e8d7",
+    "name": "Fire Station",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "#154, Neeladri Main Road, Electronic City Phase 1, Above Unlimited Store, Doddathoguru, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Continental",
+     "Mexican",
+     "Burger",
+     "Desserts",
+     "Italian",
+     "Pizza",
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.4,
+    "votes": 809,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Beer",
+     "Lasagne",
+     "Cocktails",
+     "Pizza",
+     "Churros",
+     "Chicken Pepper Fry",
+     "Chicken Tikka"
+    ],
+    "tags": [
+     "bar",
+     "buffet",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Hands down.. This is the best place in Electronic City!! An awesome place with the best ambience, the best crowd, the best staff, the best food and the bestest deserts! Went there for my birthday…",
+     "Really good ambience. Must go for people preferring restobar. Even the buffet here is awesome. Team lunch can be arranged for buffet. A bit on costlier side for people who don't drink.",
+     "We went there for dinner. The place is really good, the ambiance is also okay.It's there on top of the UNLIMITED showroom in Neeladri road. Lift is available, Fire station is on 4 the floor. The…"
+    ]
+   },
+   {
+    "id": "r_af428dc5b60b",
+    "name": "The Big Barbeque",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "163, 2nd Floor, 1st Cross Road, Neeladri Nagar, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "BBQ",
+     "North Indian",
+     "Continental",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.7,
+    "votes": 544,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Panipuri",
+     "Chaat",
+     "Jalebi",
+     "Paan Kulfi",
+     "Paan Shot",
+     "Pasta",
+     "Soya Chaap"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I am a core vegetarian so I usually get confused for the places where will I get good food. The big barbeque is actually famous for their grilled items and I am one of the foodies in the grilled…",
+     "Veg sum biryani and pineapple raita is the best combination. Garden green salad will make your meal healthier. Tandoori watermelon and Napoleon mushroom are also good.",
+     "I had buffet over here, as they serve that the best and in the buffet i tried out many new items and i ate what i like alot too. The best starter which i liked over here in vegetarian wad the peri…"
+    ]
+   },
+   {
+    "id": "r_9df8440d498a",
+    "name": "Onesta",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Sy No: 54/2 ( Old Sy no 54 ), Above BATA showroom Bommasandra Village, Attible Hobbli, Anekal Taluk, Bengaluru, Karnataka 560099",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Pizza",
+     "Cafe",
+     "Italian"
+    ],
+    "rest_types": [
+     "Casual Dining",
+     "Cafe"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Cafes",
+     "Delivery",
+     "Desserts",
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.5,
+    "votes": 863,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Pasta",
+     "Ravioli",
+     "Potato Wedges",
+     "Jalapeno Cheeseballs",
+     "Chicken Pizza",
+     "Lasagne",
+     "Veggie Pizza"
+    ],
+    "tags": [
+     "buffet",
+     "cafe",
+     "delivery",
+     "desserts",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Great service and delicious pizzas. The pizza size is perfect for one person and the unlimited option is always there if you need more than a single pizza. Best part is that it's light on the pocket…",
+     "We took the unlimited offer and was left too full to even move. They bring you a full plate of everything and even after insisting to bring us just samples, they won't budge. It is a good thing if…",
+     "Good pizza packages. Veg and non veg unlimited. Drinks were good too. Loved the barbeque pizza and paneer tikka pizza. And the walnut cake among the desserts was my fav!! Do pay a visit. Nice cozy…"
+    ]
+   },
+   {
+    "id": "r_c4ccf27d65d8",
+    "name": "Food Ras",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "4th Floor, Ashrith Corner, Near Uniworld, Neeladri Road, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese",
+     "Japanese",
+     "European",
+     "Seafood"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 900,
+    "budget_band": "medium",
+    "rating": 4.3,
+    "votes": 1387,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Chicken Majestic",
+     "Lasagne",
+     "Hara Bhara Kabab",
+     "Lassi",
+     "Biryani",
+     "Paneer Tikka",
+     "Fish"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I would loved to have this place a 4 rating, had I not found a few flaws. On the onset, its a great place to dine and i am definitely going there again. The menu is vast with options across…",
+     "Tried a different kind of nachos that is the indian nachos from here. The nacho chips are made up of namakpare and it has cheese sauce and salsa dip which is served with all normal sauce. I loved…",
+     "Paneer tikka sushi, a new variety of sushi that i had over here. Sushis are made up of rice, and inside it there was a stuffing of paneer tikka inside it. This sushi was very different. I never ever…"
+    ]
+   },
+   {
+    "id": "r_5b138b09cbfb",
+    "name": "Gilly's Restobar",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Ashrith Corner, Near Ajmera Neeladri Road, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "Chinese",
+     "Salad"
+    ],
+    "rest_types": [
+     "Pub",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 1265,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Biryani",
+     "Roti",
+     "Beer",
+     "Chilli Pork",
+     "Pizza",
+     "Potato Wedges"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "1st thing i would like to say that how a restaurant can add service charge where it is entirely depending on the customer. After explainimg them also they were like arguing that outside board it is…",
+     "U guys charge service charge-is it even legal?Sad food-nothing interesting, drinks r too expensive, cocktails r not gr8. Servers r a bit rude. They Have tables reserved for ghosts I guess. 1 for…",
+     "Came here today for buffet lunch. The food was not good at all. Quality was very bad. The hospitality was horrible. The staff behaved rudely. Despite of having customers at the table, they were…"
+    ]
+   },
+   {
+    "id": "r_159daa13331a",
+    "name": "Barbeque Nation",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "94, Neeladri Nagar, 14th Cross Neeladri Main Road, Doddathogur, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "European",
+     "Mediterranean",
+     "BBQ",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1600,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 1147,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Chicken Grill",
+     "Paan Kulfi",
+     "Mocktails",
+     "Crispy Corn",
+     "Pasta",
+     "Fish Grill",
+     "Noodles"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Visited this place several times now. Initially the concept was different and was impressed by the ambience . Enjoyed the food too. Extremely courteous staff as well. Later on felt the dishes more…",
+     "Last year review: Been once and have become their fan. Best BBQ nation outlet in Bangalore. Best in terms of food taste, quality and serivce. Here Chef comes to you and take your request to make…",
+     "One of the best place to try the buffet .Great starters ,chicken prawns ,mutton. Pan kulfi is a must try and good variety of unlimited food for a reasonable price . Great place for people who can…"
+    ]
+   },
+   {
+    "id": "r_ecc5f3bb2a38",
+    "name": "Cafe Happytizing",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "7, 2nd Floor, Ganga Enclave, Neeladri Road, Doddathoguru Village, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Cafe",
+     "Sandwich",
+     "Pizza",
+     "North Indian",
+     "Mexican"
+    ],
+    "rest_types": [
+     "Cafe"
+    ],
+    "listing_types": [
+     "Cafes",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 700,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 354,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Peri Peri Fries",
+     "Nachos",
+     "Pasta",
+     "Paratha",
+     "Peri Peri Chicken Pizza",
+     "Burgers",
+     "Noodles"
+    ],
+    "tags": [
+     "cafe",
+     "delivery"
+    ],
+    "review_snippets": [
+     "Tried Peri Peri french fries, chilly prawns and Teriyaki Chicken sizzler. Quantity of prawns were less according to price, french fries were crispy and sizzler was the best among these three…",
+     "Wel, saw this one on the way n got a feel to try it in the mid noon...a cute lil cafe with friendly staffs. Neatly kept and yea, ordered for pepperoni pizza, bbq chicken pizza , fish sizzler, banana…",
+     "Small cafe located in the busy area of Electronic City. Good place for small group. We have ordered 4 things 1.Chicken Nachos - it was okay, nothing special, just crunches of chicken on Nachos. 2…"
+    ]
+   },
+   {
+    "id": "r_ad55aa73c475",
+    "name": "The Rasoiya Street",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Florus, 3rd Floor, Above Apollo Clinic, Opposite Ajmera Infinity, Neeladri Road, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "Mediterranean",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 1137,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Buttermilk",
+     "Pasta",
+     "Achari Mushroom",
+     "Paneer Tikka",
+     "Nachos",
+     "Noodles",
+     "Baked Nacho"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Amazing food from various cuisines. Staff is polite. The pav bhaji fondu was amazing. You can work on your cocktails menu. North Indian food was a delight as well. Ambience is always…",
+     "Went in there for a weekday lunch, and were pleasantly surprised. The place was moderately filled and had a warm ambience. We ordered achari mushroom as starter, followed by hunter shaslik sizzler…",
+     "Great veg north indian food Professional service Parking can be issue The decor is good but looking old now Prices are reasonable Accept zomato gold"
+    ]
+   },
+   {
+    "id": "r_741abce664be",
+    "name": "Republic Of Noodles - Lemon Tree Hotel",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Lemon Tree Hotel - Electronic City, Bengaluru #54B/55A, Hosur Main Road,Phase 1, Electronic City Bengaluru - 560100, Karnataka, India",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Singaporean",
+     "Chinese",
+     "Thai",
+     "Malaysian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 385,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Noodles",
+     "Banana Leaf Fish",
+     "Dumplings",
+     "Phad Thai",
+     "Apple Fritters",
+     "Clear Soup",
+     "Brownie"
+    ],
+    "tags": [
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "You got to try the mhad noodles here. The best noodles I have had in my life. I have visited this restaurant 3 times and loved every single dish.",
+     "Tried this place on a weekend. Though the restaurant was empty but the food was amazingly good. Staff was courteous and attentive. Would recommend this place to friends and family.",
+     "Came here for a weekday night. Not many places get the masamman curry right. This place made amazing masamman curry with sticky rice. It was amazing and delicious. The fish starter was tasty too…"
+    ]
+   },
+   {
+    "id": "r_277b29737de9",
+    "name": "Time Traveller - Sai Vishram",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Sai Vishram Business Hotel, 144 - C/1, Kirloskar Road, Bommasandra Industrial Estate, Hebbagodi, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Continental",
+     "North Indian",
+     "South Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 1100,
+    "budget_band": "high",
+    "rating": 4.2,
+    "votes": 882,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Salads",
+     "Veg Buffet",
+     "Dahi Vada",
+     "Pasta",
+     "Vegetarian",
+     "Halwa",
+     "Noodles"
+    ],
+    "tags": [
+     "buffet",
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "So this place serves vegetarian food. Have been here a few times. Like the variety in the food menu. The staff here are very good and they would help you with ordering or choosing your food. They…",
+     "The first time we went to this place only due to the reason of it being a restaurant serving vegetarian buffet. And after that we kept going to this place again and again on most of our team…",
+     "We had an office party here. It is a gem inside the industrial area of Bommasandra. I didn't expect such good place around the factories and rugged surroundings. The all wood interiors give it and…"
+    ]
+   },
+   {
+    "id": "r_f4e04d2ab798",
+    "name": "Kittu's",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "103/2, Uniworld Commercial Complex, Neeladri Road, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 750,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 800,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Murgh Lababdar",
+     "Butter Chicken",
+     "Paneer Lababdar",
+     "Dal Makhani",
+     "Afghan Chicken",
+     "Chicken Achari Tikka",
+     "Lassi"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I have been there for lunch with my office friends,it is a wonderful place with normal ambience but the food was fabulous.The services were very good and the amount served was also appropriate.It is…",
+     "Had heard a lot about this place. But was slightly disappointed because There wasn't much variety and the presentation of the food was not that appealing. For eg., paneer achari tikka didn't look…",
+     "Had heard about this place a lot in electronic city. Well this lived upto the expectations in terms of food as well as the taste. This restaurant mainly serves Punjabi cuisine but the pricing is bit…"
+    ]
+   },
+   {
+    "id": "r_0bbdcfe80ace",
+    "name": "BOX8- Desi Meals",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Doddathoguru Road, Konappana Agrahara, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Mughlai",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Takeaway",
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.2,
+    "votes": 564,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Butter Chicken",
+     "Dal Makhani",
+     "Brownie Chocolate",
+     "Sandwiches",
+     "Salad",
+     "Paratha",
+     "Rajma"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I have been really excited to try their bhuna kebab meal for a long time. Finally when I got my hands on it, I could understand that it's really worth all the praise. The portion is filling for one…",
+     "I ordered food at home and it was amazing and delicious !! Loved the seekh kababs ,they were so juicy !! Also the combo meal was quite sufficient. Keep the good work up guys !!",
+     "If you want to try desi meal box 8 is best because they know how to put flavours. Food is hygienic but according to the price the quantity is not good."
+    ]
+   },
+   {
+    "id": "r_30a1f927f65c",
+    "name": "Firangi Bake",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Shop 10-11, 2nd Cross Road, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Mexican",
+     "Italian"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 93,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Lasagne",
+     "Garlic Bread",
+     "Steak"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "This restaurant is part of Faasos food chain. They serve real tasty good food. The lasagne is a must try. Still a 4star rating because the price is bit high for the food.",
+     "Good Food & Great Taste are two things that come to my mind after having tried 'Minced Chicken Lasagne' and 'Tuscany Meatball Lasagne' from Firangi Bake. Whilst piping hot and tangy Chicken Lasagne…",
+     "Just oh my god! Their corn and pimento cheese lasagna is just wow! So I have ordered corn and pimento lasagna like thrice from Firangi bake in a month and I am still not over it yet. It is just…"
+    ]
+   },
+   {
+    "id": "r_975b9fce0cf1",
+    "name": "Queens",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Singasandra, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Continental",
+     "British"
+    ],
+    "rest_types": [
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.3,
+    "votes": 169,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Fries",
+     "Dal Makhani",
+     "Panneer Butter Masala",
+     "Chicken Nachos"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "The only good thing about this place is the ambience and live music. I went to this place with lots of expectations but was totally disappointed. I tried their nachos(Cheese was so rubbery and was…",
+     "I like coming here again and again bcoz it is closer to my place and it is one of the best pubs in the electronic city - kudlu gate area. The place looks nice. They have open sky sitting as well as…",
+     "The one reason I will go back to Queens is the friendly atmosphere - the attentiveness demonstrated by the staff. The food was good - chicken nachos, Rani Mehra pizza, poppers were all tasty. But I…"
+    ]
+   },
+   {
+    "id": "r_a63cef0ccb49",
+    "name": "Paradise",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "47/11, Doddathogur Village, Opposite Velankani Tech Park Gate 4, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian",
+     "Kebab"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out"
+    ],
+    "cost_for_two": 800,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 2043,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Chicken Biryani",
+     "Mutton Seekh Kebab",
+     "Gajar Ka Halwa",
+     "Hyderabadi Biryani",
+     "Kebab Platter",
+     "Panneer Butter Masala"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Average-good kind of place, they're famous for their Biryanis which I personally is a bit overrated. If you like your biryani spicy, I would recommend you to mention it separately to make the it…",
+     "A good palce to have biryani.... Biryani was tasty and starter was good too....but the amount of starter was really less....For a full plate of starters we got just 6 pieces of chicken.. So after…",
+     "Nice Ambience with great mixture of flavor. If you are really fond of Biryani this is one of the stable place for flavor in Bangalore. Cost is also efficient and its a must try place. The only this…"
+    ]
+   },
+   {
+    "id": "r_4f2dc61d1542",
+    "name": "Hyderabadi Spice",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "70/1, Opposite Wipro Technologies Gate 12, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Biryani",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 600,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 1369,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Chilli Chicken",
+     "Chicken Tikka",
+     "Paneer Biryani",
+     "Mutton Biryani",
+     "Hyderabadi Chicken Biryani",
+     "Vegetable Biryani",
+     "Lemon Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "family_friendly"
+    ],
+    "review_snippets": [
+     "Hyderabadi spice is a place for biryani.The biryani I had was very tasty,the real taste of Hyderabad.The aroma was very relishing and the chicken was well cooked.The quantity was apt for two persons.",
+     "You have to try their special chicken wings especially. Their chicken biryanis are also absolutely fabulous. Great Food at a reasonable price. If you are going then please try Rainbow Biryani or…"
+    ]
+   },
+   {
+    "id": "r_3991d0671938",
+    "name": "Z-Bar",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Zone By The Park, 26/A, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Finger Food",
+     "North Indian"
+    ],
+    "rest_types": [
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 410,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Tandoori Chicken",
+     "Wine",
+     "Ice Tea",
+     "French Fries",
+     "Masala Peanuts"
+    ],
+    "tags": [
+     "bar",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "This is a rooftop restaurant situated in electronic City. The ambiance is classy and nice. The dj plays some happening music to keep you occupied. We had ordered pomogranate fish , although it was…",
+     "After our delightful experience at Bazaar, I was looking forward to our visit to Z-Bar which is a rooftop lounge in the same hotel Zone By The Park. We visited it over a weekend and the place was…",
+     "Nice chilled out rooftop bar. Music may not be the best. Shuts at sharp 11 pm. Special thank you to Ankita for being a good host. They denied serving beyond 11 without any heads up, but Ankita went…"
+    ]
+   },
+   {
+    "id": "r_22903b8e4636",
+    "name": "New Punjabi Food Corner",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Opposite Wipro Gate 12, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Chinese"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 960,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Butter Chicken",
+     "Rumali Roti",
+     "Ghee Rice",
+     "Chicken Biryani",
+     "Panneer Butter Masala",
+     "Sweet Lassi",
+     "Lemon Chicken"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "We had ordered Chicken Kali Mirch and dal Tadka.The taste was good.The chicken curry was good but chicken was not cooked well.Dal Tadka was great in taste.The aroma of roasted cumin was adding a…",
+     "Been here multiple times. Regular place for lunch with my teammates. I like their starters and curry - rotis. Good quantity for both their curries and appetizers. Highly recommend for affordable and…",
+     "The review is based on multiple deliveries in the last 5 months. It's been a mixed experience. Had heard high about this place in E City. So after moving into this area, we got to order few times…"
+    ]
+   },
+   {
+    "id": "r_e5783a617275",
+    "name": "Behrouz Biryani",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "2nd Cross Road, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Biryani"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 650,
+    "budget_band": "medium",
+    "rating": 4.1,
+    "votes": 349,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Gulab Jamun",
+     "Chicken Biryani",
+     "Raita",
+     "Buttermilk",
+     "Haleem",
+     "Gosht Dum Biryani"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Had recently ordered from this place while on a short trip to Bengaluru and loved it entirely! Very prompt in delivering hot and hygeinically cooked food to your doorstep. I would recommend their…",
+     "Ordered boneless chicken biriyani. Packing was little different. Taste was little different pretty average one.Dont know why it is over rated. Its too ecpensive too.",
+     "Beautifully fragrant and mouthwatering biryani. I absolutely loved it. You get the hint of saffron and rose water taste in the first bite and they add almond shavings on top which I absolutely love…"
+    ]
+   },
+   {
+    "id": "r_fe4d295969e5",
+    "name": "24@43 - The Oterra",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "The Oterra, 43, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Asian",
+     "Continental"
+    ],
+    "rest_types": [
+     "Fine Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 3000,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 268,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Sunday Brunch",
+     "Tea",
+     "Salads",
+     "Vegetable Biryani",
+     "Momos",
+     "Pasta",
+     "Wine"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "fine_dining",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "I had buffet here last night. The ambience was really good if you are planning for a special occasion. It's more on the expensive side, but worth the price. The staff was very courteous and served…",
+     "Love their pastries. I haven't tried all of them yet, but my favourites so far are the walnut brownie and the blueberry cheesecake. The tiramisu I ordered wasn't bad but I expected it to be softer…",
+     "I had the chance to visit the restaurant as a part of annual cake mixing ceremony . The decor is elegant and the restaurant has an open view. One can enjoy a cozy meal here. The restaurant is in…"
+    ]
+   },
+   {
+    "id": "r_d7b1d373e0f7",
+    "name": "Sky Lounge Bar - Svenska Design Hotel",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Svenska Design Hotel, 56 D, Wipro Gate No. 5, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Pizza",
+     "Asian",
+     "Italian"
+    ],
+    "rest_types": [
+     "Bar",
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Delivery",
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1500,
+    "budget_band": "high",
+    "rating": 4.0,
+    "votes": 537,
+    "is_new": false,
+    "online_order": true,
+    "book_table": true,
+    "dishes_liked": [
+     "Cocktails",
+     "Biryani",
+     "Noodles",
+     "Beer",
+     "Garlic Bread",
+     "Tea",
+     "Pizza"
+    ],
+    "tags": [
+     "bar",
+     "delivery",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "So this place has no doubt a beautiful ambience. Restaurant is situated at rooftop and you get a nice view of Electronic City from up there. But coming to the food it's average. Considering the…",
+     "The place is located at the of svenka hotel, and place has a great ambience nd view is awesomeeee, service was very slow..., food was ok not to much good but okay...",
+     "Nice place to hang out with friends and family. We are 4 of us visited this restaurant when we inter inside the restaurant restaurant was totally empty.. After which table free decide for dining us…"
+    ]
+   },
+   {
+    "id": "r_7431770e77af",
+    "name": "Faasos",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "10/11, 2nd Cross Road, Phase 1, Near Infosys Gate 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "North Indian",
+     "Biryani",
+     "Fast Food"
+    ],
+    "rest_types": [
+     "Quick Bites"
+    ],
+    "listing_types": [
+     "Dine-out"
+    ],
+    "cost_for_two": 500,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 506,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Rolls",
+     "Chocolate Fantasy",
+     "Chicken Rice",
+     "Chocolava",
+     "Paneer Wrap",
+     "Kheer",
+     "Veggie Wrap"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "I first gave a 4 and then thought hey why not a five? They deserve it. The two wraps - Bhuna Chicken and the Fiery Chicken - were both exquisite. The hazelnut brownie and the chocolate fantasy were…",
+     "Faasos One of the best wraps in the town i had : Paneer cheese wrap and chicken tikka wrap it was super delicious and filled with good amount of cheese and chicken cubes, i am fan of their wraps so…",
+     "During navratre, I ordered paneer makhanwla royal navratra thali. It was hot and nicely packed. It had paneer ki sabzi, sabudana vada, curd, hare tamatar ki sabzi and sweet-dish. Thali was quite…"
+    ]
+   },
+   {
+    "id": "r_e6385e580eae",
+    "name": "Bazaar - Zone By The Park",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "Zone by The Park, 26/A, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Continental",
+     "South Indian",
+     "North Indian",
+     "Asian"
+    ],
+    "rest_types": [
+     "Casual Dining"
+    ],
+    "listing_types": [
+     "Buffet",
+     "Dine-out"
+    ],
+    "cost_for_two": 1400,
+    "budget_band": "high",
+    "rating": 4.0,
+    "votes": 415,
+    "is_new": false,
+    "online_order": false,
+    "book_table": true,
+    "dishes_liked": [
+     "Salads",
+     "Chicken Tikka",
+     "Roti",
+     "Gulab Jamun",
+     "Lunch Buffet",
+     "Pasta",
+     "Salad"
+    ],
+    "tags": [
+     "buffet",
+     "family_friendly",
+     "table_booking"
+    ],
+    "review_snippets": [
+     "Been here with family....being a restaurant of 5 star hotel....the first impression was underwhelming. But he overall dining experience was good. Parking is an issue here, so better to come here in…",
+     "Writing this post after a while, the visit was on ocacsion of a team lunch. The decor is really fun and pleasing. We opted for buffet and it was really fulfilling. They had a nice spread starting…",
+     "During my stay in Bangalore visited this place. The place is themed like a bazaar with a classy touch. We ordered the carbonara pasta which was good quality and quantity wise. Then we ordered some…"
+    ]
+   },
+   {
+    "id": "r_5e8aa98e06de",
+    "name": "The Chameleon",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "2nd Floor, Plot V3, 5th Main Road, Phase 1, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City"
+    ],
+    "cuisines": [
+     "Finger Food"
+    ],
+    "rest_types": [
+     "Bar"
+    ],
+    "listing_types": [
+     "Dine-out",
+     "Drinks & nightlife",
+     "Pubs and bars"
+    ],
+    "cost_for_two": 1200,
+    "budget_band": "high",
+    "rating": 4.1,
+    "votes": 163,
+    "is_new": false,
+    "online_order": false,
+    "book_table": false,
+    "dishes_liked": [
+     "Mutton Biryani",
+     "Stuffed Mushroom",
+     "Onion Pakoda",
+     "French Fries",
+     "Paneer Pakora",
+     "Afghani Kebab"
+    ],
+    "tags": [
+     "bar"
+    ],
+    "review_snippets": [
+     "A shady and cozy place in a corporate area, perfect to ease off after a long week. The place is bigger than it looks. I personally prefer the terrace. Although they did try to improve the ambience…",
+     "This place is astonishingly good amongst the pub scene in Electronic City. A casual and fun place to chill with friends. They have indoor and rooftop seating with a TV screen on the inside. They…",
+     "One of the very few places to hangout in electronic city. Staff is very friendly. They have a pool table also. Place is very crowded during football matches"
+    ]
+   },
+   {
+    "id": "r_fa1bad951990",
+    "name": "Doof",
+    "city": "Bangalore",
+    "locality": "Electronic City",
+    "address": "35, Basapura Main Road, Dream Paradise Layout, Basapura, Electronic City, Bangalore",
+    "zones": [
+     "Electronic City",
+     "HSR"
+    ],
+    "cuisines": [
+     "Fast Food",
+     "Beverages"
+    ],
+    "rest_types": [
+     "Delivery"
+    ],
+    "listing_types": [
+     "Delivery"
+    ],
+    "cost_for_two": 450,
+    "budget_band": "medium",
+    "rating": 4.0,
+    "votes": 371,
+    "is_new": false,
+    "online_order": true,
+    "book_table": false,
+    "dishes_liked": [
+     "Pasta",
+     "Burgers",
+     "Wings",
+     "Fries"
+    ],
+    "tags": [
+     "delivery",
+     "quick_service"
+    ],
+    "review_snippets": [
+     "Had ordered for White walker pasta and Paneer wrap the other evening. Despite the restaurant being a bit far away, the food was delivered in good hot state! Pasta tasted good with a typical white…",
+     "The most awesome and amazing late night eat out. I had ordered a delivery for a Non Veg Salasta and a Chicken Wrap God. The quantity was huge and filled close to 3 people. The best part was the food…",
+     "If you want a huge burger at a cheap price.this is it.i would admit it is not amazing in taste.the patty is a bit dry,might be a bit overcooked but holy moly! The size of that thing!it can easily…"
+    ]
+   }
+  ],
+  "scores": {
+   "r_7a131924e8d7": 0.647935,
+   "r_af428dc5b60b": 0.625647,
+   "r_9df8440d498a": 0.551565,
+   "r_c4ccf27d65d8": 0.47823,
+   "r_5b138b09cbfb": 0.473055,
+   "r_159daa13331a": 0.467551,
+   "r_ecc5f3bb2a38": 0.451535,
+   "r_ad55aa73c475": 0.417059,
+   "r_741abce664be": 0.406244,
+   "r_277b29737de9": 0.402789,
+   "r_f4e04d2ab798": 0.397307,
+   "r_0bbdcfe80ace": 0.377674,
+   "r_30a1f927f65c": 0.376792,
+   "r_975b9fce0cf1": 0.360119,
+   "r_a63cef0ccb49": 0.35,
+   "r_4f2dc61d1542": 0.327495,
+   "r_3991d0671938": 0.309774,
+   "r_22903b8e4636": 0.30755,
+   "r_e5783a617275": 0.300738,
+   "r_fe4d295969e5": 0.285932,
+   "r_d7b1d373e0f7": 0.27492,
+   "r_7431770e77af": 0.271582,
+   "r_e6385e580eae": 0.260455,
+   "r_5e8aa98e06de": 0.258098,
+   "r_fa1bad951990": 0.254167
+  },
+  "relaxations": [
+   "Budget widened to include medium (₹401–1,000 for two)",
+   "Minimum rating lowered from 4.3 to 3.8",
+   "Included places that don't serve Mexican (those that do still rank first)"
+  ],
+  "total_matches": 59
+ },
+ "edit": {}
+}
